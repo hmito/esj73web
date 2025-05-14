@@ -1,11 +1,13 @@
 ---
 url: https://esj-meeting.net/opensession/
-menu: 各種申し込み > 公募セッション
+menu: Registration and Proposal Guidelines > opensession
 toc: false
 multi_language: true
 ---
 
 # 公募セッション（発表分野の追加を伴うシンポジウム）
+
+[【本大会の採択テーマは、こちらをご覧ください】](sessions#公募セッション)
 
 ESJ72では、前大会に引き続き、発表分野の追加を伴うシンポジウム（公募セッション）を実施します。シンポジウムコンビナーの方に「テーマ」を提案していただき、採択された場合には、そのテーマに沿ったシンポジウムを企画していただくとともに、提案した「テーマ」が一般発表における「分野」として追加されます。
 
