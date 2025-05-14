@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/contact/
-menu: お問合せ > お問合せ
+menu: Contact > Contact
 toc: false
 multi_language: true
 remarks: Phase 1でなし崩し的に作成されたページのため、mdをあとから追記

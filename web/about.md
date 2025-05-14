@@ -14,7 +14,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 ## 大会形式
 
-本大会はオンサイトを基本としたハイブリッド形式で開催する予定です。大会のオンラインプラットフォーム（以下、大会プラットフォーム）として[ONLINE CONF](https://gakkai.online/)を用います。
+本大会はオンサイトを基本としたハイブリッド形式で開催する予定です。大会のオンラインプラットフォーム（以下、大会プラットフォーム）として[ONLINE CONF](https://esj72.gakkai.online/)を用います。([ONLINE CONF公式サイトはこちら](https://gakkai.online/))
 
 - 口頭発表、各種集会・企画は、すべて**オンサイト**で実施されます。
 	- 発表は、全てオンサイトで行っていただきます。[会場に設置されている発表用PC](presentation#共通の注意点)を用いてご発表いただきます。
@@ -41,7 +41,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 ## スケジュール
 
-詳細なタイムテーブルは、12月末から1月頭頃に公開予定です。なお、スケジュールは確定ではなく、編成の都合で今後変更される可能性もあります。
+タイムテーブルの詳細は[こちら](program)で公開しています。
 
 <table>
 <colgroup>
@@ -73,7 +73,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>授賞式・受賞講演</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/prize_winners.html">授賞式・受賞講演</a></td>
 <td></td>
 <td>☆</td>
 <td>☆</td>
@@ -89,7 +89,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>☆</td>
 </tr>
 <tr class="odd">
-<td colspan=2>シンポジウム</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/sympo_index.html">シンポジウム</a></td>
 <td></td>
 <td></td>
 <td>◎</td>
@@ -97,7 +97,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>◎</td>
 </tr>
 <tr class="even">
-<td colspan=2>自由集会</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/jiyu_index.html">自由集会</a></td>
 <td></td>
 <td></td>
 <td>◎ or ○</td>
@@ -105,7 +105,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>◎ or ○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>フォーラム</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/forum_index.html">フォーラム</a></td>
 <td></td>
 <td></td>
 <td>◎ or ○</td>
@@ -113,7 +113,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>◎ or ○</td>
 </tr>
 <tr class="even">
-<td colspan=2>口頭発表･英語口頭発表</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/forum_index.html">口頭発表･英語口頭発表</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -121,7 +121,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>○</td>
 </tr>
 <tr class="odd">
-<td rowspan=2>ポスター発表</td>
+<td rowspan=2><a href="https://esj.ne.jp/meeting/abst/72/poster_index.html">ポスター発表</a></td>
 <td>オンライン</td>
 <td>△</td>
 <td colspan=4>※4月頃までONLINE CONF上で閲覧・コメント可能</td>
@@ -138,7 +138,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>○ </td>
 </tr>
 <tr class="even">
-<td rowspan=2>高校生ポスター</td>
+<td rowspan=2><a href="https://esj.ne.jp/meeting/abst/72/poster_PH-36.html">高校生ポスター</a></td>
 <td>オンライン</td>
 <td>△</td>
 <td colspan=4>※4月頃までONLINE CONF上で閲覧・コメント可能</td>
@@ -215,6 +215,10 @@ ESJ72では、若手研究者へのキャリア支援として、[キャリア�
 
 「障害者差別解消法」に基づく配慮を行ないますので、大会参加に際して、配慮を必要とされる方は、大会公式ホームページにある[お問い合わせフォーム](contact)からご相談ください。講演を希望される方は、できるだけ2024年10月31日までにご相談ください。
 
+## オンライン休憩室
+
+ESJ72では、全ての大会参加者が自由に利用できるオンライン休憩室（SpatialChat）を設置します。オンライン休憩室は[大会プラットフォーム（ONLINE CONF）](https://esj72.gakkai.online/)内のリンクからご利用できます。同時に接続できる人数には限りがありますが、大会期間中は常時開いていますので、雑談などに気軽にご活用ください。
+
 ## 大会企画委員会
 
 | | |
@@ -250,4 +254,3 @@ ESJ72では、若手研究者へのキャリア支援として、[キャリア�
 | クローク | 三浦一輝、速水将人 |
 | 公開講演 | 日野貴文 |
 | エコカップ | 菅井徹人、崎山智樹、中村誠宏|
-<!-- -->
