@@ -8,15 +8,20 @@ multi_language: true
 # Home
 
 ## Important notice
-- **We are now calling for [Open Session](opensession_en) (Application: 2024.07.05 - 07.31)**
-- **We are now calling for [ER Symposium](ersympo_en) (Application: 2024.07.05 - 08.30)**
+- **We are now calling for [Open Session](opensession_en) (Application: 2025.07.01 - 07.31)**
+- **We are now calling for [ER Symposium](ersympo_en) (Application: 2025.07.01 - 08.30)**
 
 ## Meeting information
 
-The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
+The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
-**Dates: 15th March 2025 to 18th March 2025**\
-**Venue: Sapporo Convention Center and ONLINE CONF**
+**Dates: 11th March 2026 to 15th March 2026**\
+**Venue: Two locations - [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access) and [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)**
 
-The format will be hybrid.
-Upcoming information will be shown on this web site.
+All presentations at this meeting are planned to be held onsite. We are also working to enhance on-demand content, such as "self on-demand streaming" where organizers and speakers can upload pre-recorded presentation videos themselves.\
+Details of the meeting will be posted on this website as they are decided.
+
+## Update history
+
+- 2025.07.01: Call for Open Sessions and ER Symposium has started.
+- 2025.07.01: The website for the 73rd Annual Meeting of the Ecological Society of Japan has been launched.
