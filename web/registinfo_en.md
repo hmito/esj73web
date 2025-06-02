@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/registinfo_en/
-menu: Registration > Registlation and Proposal
+menu: Registration > Registration and Proposal
 toc: false
 multi_language: true
 ---
@@ -12,7 +12,27 @@ We are currently accepting applications for open sessions and the ER Symposium. 
 - [Open Sessions](opensession_en)
 - [ER Symposium](ersympo_en)
 
+## Revision of Overlap Restriction Rules
+
+The Ecological Society of Japan aims to create rules for participation in conventions that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations, and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule. Regardless of the presentation format (symposium, workshop, regular presentations (oral and poster), etc.), each participant is allowed to give only one presentation. <span style="color: red; ">**Please note that the overlap of presentations in workshop and regular presentations, which was allowed until the previous conference, will NOT be permitted in the current conference**</span>. The following cases, however, are exceptions.
+
+- Organizers of symposium and workshop who do not present with abstract submission at the focal sessions can be speakers for regular presentations. In addition, the overlap restrictions do not apply to explanations of purpose, commentators, and expressions of opinion that do not involve abstract submission.
+  - However, since symposia and oral sessions of regular presentations can be held concurrently, **it is not recommended that organizers of symposia who do not present with abstract submissions be speakers for the oral sessions**.
+  - Please note that if these organizations/presentations without abstract submissions conflict with your own time of presentations with abstract submission, **the speakers are responsible for making their own schedules for presentations**.
+- Since the forum is an event of the various committees, its organizers and topic providers are not subject to the overlap restrictions.
+
+||Symposium|Workshop|Regular Presentation|Forum|
+|:---:|:---:|:---:|:---:|:---:|
+|Symposium|×|×|×|〇|
+|Workshop|×|×|×|〇|
+|Regular Presentation|×|×|×|〇|
+|Forum|〇|〇|〇|〇|
+
+If you are already a speaker with abstract submission of the respective category, you cannot become a speaker with abstract submission of the category marked with an "×".
+
 ## Deadlines for Presentations and Proposals
+
+Please note that the listed deadlines are subject to change.
 
 <table>
   <colgroup>
@@ -28,20 +48,20 @@ We are currently accepting applications for open sessions and the ER Symposium. 
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>31st Jul. 2024 23:59 JST</td>
-      <td rowspan=7>21st Feb. 2025 23:59 JST</td>
+      <td>Around the end of Jul. 2025 (tentative)</td>
+      <td rowspan=7>Around Feb. 2026 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>30th Aug. 2024 23:59 JST</td>
+      <td>Around the end of Aug. 2025 (tentative)</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>15th Sep. 2024 23:59 JST</td>
+      <td>Around Sep. 2025 (tentative)</td>
     </tr>
     <tr class="even">
       <td>Symposium<br />
-      <td rowspan=4> 31st Oct. 2024 23:59 JST</td>
+      <td rowspan=4> Around the end of Oct. 2025 (tentative)</td>
     </tr>
     <tr class="odd">
       <td>Workshop</td>
@@ -55,14 +75,13 @@ We are currently accepting applications for open sessions and the ER Symposium. 
   </tbody>
 </table>
 
-## Eligibility for Presentations
+## Presentation Eligibility by Membership Type
 
-### Presentation Eligibility by Membership Type
-Presentations at the conference are generally limited to members (regular and honorary members). Non-members are eligible in the following two cases:
+Only members (regular and honorary members) of the Ecological Society of Japan are eligible to present at the conference. Non-members are eligible to present in the following three cases:
 
-1. When to speak as an invited speaker in symposium
-2. When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
-3. When give a presentation in High School Student Poster Session.
+1. To present as an invited speaker in symposium
+2. To present as a commentator or opinion presenter in symposium/workshop without abstract submission.
+3. High school students presenting in High School Student Poster Session.
 
 | **Presentation Type**                              | **Member \*1** | **Non-Member** |
 |----------------------------------------------------|:--------------:|:--------------:|
@@ -72,24 +91,6 @@ Presentations at the conference are generally limited to members (regular and ho
 | Workshop Presenter \*2                       | ◯            |                |
 | Commentator/Opinion in Symposium/Workshop    | ◯            | ◯              |
 
-\*1 Refers to regular members (general and student) and honorary members of the Ecological Society of Japan. Associate members are not included.  
-\*2 Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
+\*1 Regular members (general and student) and honorary members of the Ecological Society of Japan. Associate members are not included.  
+\*2 Primary presenter (speaker). Co-presenters do not need to be members.  
 \*3 Limited to invited speakers.
-
-### Overlap Restrictions
-There are restrictions on overlapping presentations at the conference:
-
-- Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or general presentations.
-  - However, providing context or serving as a commentator/opinion presenter without abstract submission is not subject to overlap restrictions.
-- Workshop organizers and presenters can also be general presentation speakers.
-- Forum organizers and topic providers are not subject to overlap presentation restrictions.
-
-||Symposium|Workshop|General Presentation|Forum|
-|:---:|:---:|:---:|:---:|:---:|
-|Symposium|×|×|×|〇|
-|Workshop|×|×|〇|〇|
-|General Presentation|×|〇|×|〇|
-|Forum|〇|〇|〇|〇|
-
-If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
-
