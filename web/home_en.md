@@ -8,8 +8,13 @@ multi_language: true
 # Home
 
 ## Important notice
+
 - **We are now calling for [Open Session](opensession_en) (Application: 2025.07.01 - 07.31)**
 - **We are now calling for [ER Symposium](ersympo_en) (Application: 2025.07.01 - 08.30)**
+
+### Upcoming Schedule
+
+- Applications for General Presentations, Symposia, Workshops, and Junior Posters are scheduled to open around October.
 
 ## Meeting information
 
