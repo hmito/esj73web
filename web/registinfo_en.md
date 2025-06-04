@@ -12,6 +12,8 @@ We are currently accepting applications for open sessions and the ER Symposium. 
 - [Open Sessions](opensession_en)
 - [ER Symposium](ersympo_en)
 
+Applications for General Presentations, Symposia, Workshops, and Junior Posters are scheduled to open around October.
+
 ## Revision of Overlap Restriction Rules
 
 The Ecological Society of Japan aims to create rules for participation in conventions that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations, and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule. Regardless of the presentation format (symposium, workshop, regular presentations (oral and poster), etc.), each participant is allowed to give only one presentation. <span style="color: red; ">**Please note that the overlap of presentations in workshop and regular presentations, which was allowed until the previous conference, will NOT be permitted in the current conference**</span>. The following cases, however, are exceptions.
