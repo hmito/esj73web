@@ -6,7 +6,7 @@ multi_language: true
 remarks: 委員一覧のように見出しのないテーブルはWordPress上で見出しなしに手動で設定。
 ---
 
-# Basic Information
+# About the Meeting
 
 The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
 **Dates**: March 15 (Sat) – March 18 (Tue), 2025\

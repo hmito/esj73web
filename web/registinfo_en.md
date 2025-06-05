@@ -1,7 +1,7 @@
 ---
 url: https://esj-meeting.net/registinfo_en/
-menu: Registration > Registration and Proposal
-toc: false
+menu: Registration > Overview
+toc: true
 multi_language: true
 ---
 

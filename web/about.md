@@ -1,7 +1,7 @@
 ---
 url: https://esj-meeting.net/about/
 menu: 大会案内 > 基本情報
-toc: false (今後、高確率でtrueに変更の可能性)
+toc: true
 multi_language: true
 remarks: 委員一覧のように見出しのないテーブルはWordPress上で見出しなしに手動で設定。
 ---
