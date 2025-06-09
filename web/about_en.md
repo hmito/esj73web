@@ -3,33 +3,48 @@ url: https://esj-meeting.net/about_en/
 menu: Meeting Information > About
 toc: true
 multi_language: true
-remarks: 委員一覧のように見出しのないテーブルはWordPress上で見出しなしに手動で設定。
 ---
 
 # About the Meeting
 
-The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
-**Dates**: March 15 (Sat) – March 18 (Tue), 2025\
-**Venue**: Sapporo Convention Center / ONLINE CONF
+The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)\
+**Dates**: March 11 (Wed) – March 15 (Sun), 2025\
+**Venue**: Two locations - [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access) and [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
-## Format of the Meeting
+## Meeting Format
 
-- The conference will be held in a hybrid format, primarily on-site.
-- The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://gakkai.online/).
-- Oral presentations and English oral presentations will be conducted only on-site, with no online streaming.
-- Poster presentations will be available for viewing on the conference platform throughout the conference period. Participants can freely view uploaded poster files. Additionally, those who wish may also display their posters on-site. Core time will be available for on-site participants.
-- Award lectures, symposia, organized sessions, and other presentations will primarily be held on-site, but real-time and on-demand streaming options are under consideration. Details will be announced on the website once decided.
+- The meeting will primarily be held onsite, supplemented with on-demand content.
+- Oral presentations and various sessions will take place onsite. In principle, online presentations will not be permitted.
+- Poster presentations will be conducted by allowing participants to freely view files uploaded in advance to the online platform during the meeting period.
+  - Those who wish may also display their posters onsite. Core time will be scheduled for onsite participants.
+- For some sessions, on-demand video content will be provided. There will be no real-time video streaming.
+- A "self on-demand" format, in which presenters upload pre-recorded videos to the online platform, will be widely accepted.
 
-## Deadlines and Fees
+Further details regarding the meeting will be posted on this website as they are finalized.
 
-Please refer to the individual pages to be updated for detailed information on how to register for participation and presentations, and how to organize sessions.
+## Important Dates and Registration
 
-## Participation Registration
+Registration for participation is scheduled to begin around October. Once preparations are complete, details will be posted on the [Registration Information page](registinfo_en).
 
-|| Regular participants and students| Attendance for High School Student Programs Only | Undergraduate students who will not give presentations / <br>Junior and high school students   |
-| :------------------- | :----------------- | :------------------- | :----------------- |
-| Registration and Payment | October 1, 2024 <br>– On-site Registration                                                                                            | October 1, 2024 <br>– February 21, 2025                        | January 1, 2025 <br>– On-site Registration |
+## Promoting Diversity at the Meeting
 
-## Promoting Diversity
+The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
 
-ESJ71 respects diversity of participants. We expect ambitious proposals from researchers of diverse positions, genders, and nationalities. Also, organizers of symposia and workshops are requested to consider the speakers’ diversity when choosing the speakers.
+If you require reasonable accommodations for presentations or attendance at the meeting due to health or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [ Reasonable Accommodation](reasonable_accom_en).
+
+## Code of Conduct
+
+All participants are required to adhere to the following Code of Conduct during the meeting.
+
+-------------------------------------------------------------------------------
+
+Participants of the 73rd Annual Meeting of the Ecological Society of Japan must comply with the following code of conduct. If requested by meeting staff or other participants to cease any disruptive or inappropriate behavior, participants must comply immediately.
+
+1. **Prevention of Discriminatory Behavior and Respect for Individual Dignity**  
+Participants must not discriminate against individuals based on attributes such as origin, race, ethnicity, religion, physical characteristics, age, status, gender, sexual orientation, or disability, and must respect the dignity of all individuals.
+
+2. **Prevention of Harassment**  
+Participants must not engage in any form of harassment, including actions that harm the activities or careers of others, cause discomfort to individuals or groups, or encourage such behavior.
+
+3. **Prohibition of Unauthorized Photography and Recording**  
+Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.
