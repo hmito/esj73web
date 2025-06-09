@@ -14,7 +14,7 @@ multi_language: true
 
 ### Upcoming Schedule
 
-- Applications for General Presentations, Symposia, Workshops, and Junior Posters are scheduled to open around October.
+- Applications for Regular Presentations, Symposia, Workshops, and Junior Posters are scheduled to open around October.
 
 ## Meeting information
 

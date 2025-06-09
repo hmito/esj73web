@@ -5,7 +5,7 @@ toc: true
 multi_language: true
 ---
 
-# Registrations and Proposals
+# Registration
 
 We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
 
@@ -51,7 +51,7 @@ Please note that the listed deadlines are subject to change.
       <td>Workshop</td>
     </tr>
     <tr class="even">
-     <td>General Presentation<br />
+     <td>Regular Presentation<br />
     </tr>
     <tr class="odd">
       <td>Junior Poster Session</td>
@@ -63,7 +63,7 @@ Please note that the listed deadlines are subject to change.
 
 The Ecological Society of Japan aims to create rules for participation in conventions that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations, and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule.
 
-- Regardless of the presentation format (symposium, workshop, oral and poster presentations), each participant is allowed to give only one presentation. 
+- Regardless of the presentation format (symposium, workshop, regular presentations), each participant is allowed to give only one presentation. 
 - <span style="color: red; ">**Please note that being a speaker at workshop and regular presentations, which was possible until the previous conference, will NOT be allowed in the current conference**</span>.
   - Since the forum is an event of the various committees of the ESJ, its organizers and topic providers are not subject to the overlap restrictions.
 - The above restriction was **applied to the presentations with abstract submission**. This does not preclude the presentations without abstract submission, such as explanations of purpose, comments, statements of opinion, lightning talks, etc., in addition to the presentations with abstract submission.
@@ -81,12 +81,12 @@ Only members (regular and honorary members) of the Ecological Society of Japan a
 
 | **Presentation Type**                              | **Member \*1** | **Non-Member** |
 |----------------------------------------------------|:--------------:|:--------------:|
-| General Presentation (Oral or Poster) \*2            | ◯            |                |
+| Regular Presentation (Oral or Poster) \*2            | ◯            |                |
 | Symposium/Workshop Organizer                | ◯            |                |
 | Symposium Presenter \*2                           | ◯            | ◯ \*3         |
 | Workshop Presenter \*2                       | ◯            |                |
 | Commentator/Opinion in Symposium/Workshop    | ◯            | ◯              |
 
-\*1 Regular members (general and student) and honorary members of the Ecological Society of Japan. Associate members are not included.  
+\*1 Regular/Student members and emeritus members of the Ecological Society of Japan. Supporting members are not included.  
 \*2 Primary presenter (speaker). Co-presenters do not need to be members.  
 \*3 Limited to invited speakers.
