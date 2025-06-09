@@ -15,10 +15,10 @@ The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)\
 
 - The meeting will primarily be held onsite, supplemented with on-demand content.
 - Oral presentations and various sessions will take place onsite. In principle, online presentations will not be permitted.
+  - For some sessions, on-demand video content will be provided. There will be no real-time video streaming.
+  - A "self on-demand" format, in which presenters upload pre-recorded videos to the online platform, will be widely accepted.
 - Poster presentations will be conducted by allowing participants to freely view files uploaded in advance to the online platform during the meeting period.
   - Those who wish may also display their posters onsite. Core time will be scheduled for onsite participants.
-- For some sessions, on-demand video content will be provided. There will be no real-time video streaming.
-- A "self on-demand" format, in which presenters upload pre-recorded videos to the online platform, will be widely accepted.
 
 Further details regarding the meeting will be posted on this website as they are finalized.
 
@@ -28,7 +28,7 @@ Registration for participation is scheduled to begin around October. Once prepar
 
 ## Promoting Diversity at the Meeting
 
-The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
+The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/e_index.html#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
 
 If you require reasonable accommodations for presentations or attendance at the meeting due to health or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](reasonable_accom_en).
 
