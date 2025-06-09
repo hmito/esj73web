@@ -8,17 +8,18 @@ multi_language: true
 # About the Meeting
 
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)\
-**Dates**: March 11 (Wed) – March 15 (Sun), 2025\
+**Dates**: March 11 (Wed) – March 15 (Sun), 2026\
 **Venue**: Two locations - [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access) and [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 ## Meeting Format
 
-- The meeting will primarily be held onsite, supplemented with on-demand content.
-- Oral presentations and various sessions will take place onsite. In principle, online presentations will not be permitted.
-  - For some sessions, on-demand video content will be provided. There will be no real-time video streaming.
+- The meeting will be held primarily on-site, with some contents available via on-demand streaming.
+- There will be no real-time video streaming.
+- Oral presentations and various sessions will take place onsite. In principle, online-only presentations will not be accepted.
   - A "self on-demand" format, in which presenters upload pre-recorded videos to the online platform, will be widely accepted.
-- Poster presentations will be conducted by allowing participants to freely view files uploaded in advance to the online platform during the meeting period.
-  - Those who wish may also display their posters onsite. Core time will be scheduled for onsite participants.
+  - For some sessions, archive video contents will be provided.
+- Poster presentations will be conducted by uploadeding in advance to the online platform during the meeting period. Participants can freely view the files.
+  - If you wish, you can also display your poster on site. Core time will be scheduled for onsite participants.
 
 Further details regarding the meeting will be posted on this website as they are finalized.
 
@@ -48,3 +49,11 @@ Participants must not engage in any form of harassment, including actions that h
 
 3. **Prohibition of Unauthorized Photography and Recording**  
 Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.
+
+-------------------------------------------------------------------------------
+
+### Cooperation and Contribution
+
+|||
+|:-----------------|:----------------------------------------|
+|Logo Illustration|Brenda de Groot|
