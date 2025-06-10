@@ -32,12 +32,12 @@ Please note that the listed deadlines are subject to change.
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Around the end of Jul. 2025 (tentative)</td>
+      <td>Thursday, 31 Jul. 2025 23:59 (JST)</td>
       <td rowspan=7>Around Feb. 2026 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Around the end of Aug. 2025 (tentative)</td>
+      <td>Friday, 29 Aug. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
