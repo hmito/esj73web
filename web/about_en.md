@@ -13,15 +13,14 @@ The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)\
 
 ## Meeting Format
 
-- The meeting will be held primarily on-site, with some contents available via on-demand streaming.
-- There will be no real-time video streaming.
+- The meeting will be held in a hybrid format, primarily onsite, with the use of an online platform.
 - Oral presentations and various sessions will take place onsite. In principle, online-only presentations will not be accepted.
-  - A "self on-demand" format, in which presenters upload pre-recorded videos to the online platform, will be widely accepted.
-  - For some sessions, archive video contents will be provided.
-- Poster presentations will be conducted by uploadeding in advance to the online platform during the meeting period. Participants can freely view the files.
-  - If you wish, you can also display your poster on site. Core time will be scheduled for onsite participants.
+- Poster presentations will be conducted by uploading files in advance to the online platform, allowing participants to freely view them during the meeting period.
+  - Participants who wish may also display their posters onsite. Core time will be scheduled for onsite participants.
+- For some sessions, the organizers will record and later distribute the content via the online platform as on-demand streaming. Real-time streaming is not provided.
+  - For sessions and presentations not covered by the above, presenters are encouraged to use a "self on-demand" format, in which they upload pre-recorded videos to the online platform.
 
-Further details regarding the meeting will be posted on this website as they are finalized.
+Further details will be posted on this website as they are finalized.
 
 ## Important Dates and Registration
 
