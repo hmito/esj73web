@@ -64,15 +64,15 @@ Please note that the listed deadlines are subject to change.
 The Ecological Society of Japan aims to create rules for participation in conventions that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations, and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule.
 
 - All presentations are broadly categorized into two types: those that require abstract submission \(\*\) and will be published in the [Official Website](https://esj.ne.jp/meeting/abst/index.html) (<span style="color:blue;">“**Formal Presentations**”</span>), and those that do not require abstract submission, such as purpose explanations, commentators, panelists, lightning talks, etc. (<span style="color:blue;">“**Informal Contributions**”</span>).
-- Regardless of the presentation format (symposium, workshop, oral, or poster presentation), from this conference onward, each participant is allowed to give only one <span style="color:blue;">“**Formal Presentations**”</span>.
+- Regardless of the presentation format (symposium, workshop, oral, or poster presentation), from this conference onward, each participant is allowed to give only one <span style="color:blue;">**Formal Presentations**</span>.
   - Please note that <span style="color:red;">being a presenter in both a workshop and a regular presentation, which was permitted until the previous conference, is NOT allowed</span> at this conference.
   - Presentations in forums, which are events organized by various ESJ committees, are not subject to this restriction.
-- In addition to a <span style="color:blue;">“**Formal Presentations**”</span>, participants may also give <span style="color:blue;">“**Informal Contributions**”</span>.
+- In addition to a <span style="color:blue;">**Formal Presentations**</span>, participants may also give <span style="color:blue;">**Informal Contributions**</span>.
   - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
   - Since workshops may take various forms, they will be scheduled so as not to overlap with symposia and oral presentations.
 - Each participant may organize only one session, except for forums.
 
-\* This restriction is based on the "presentation abstract" registered by each presenter. If the information related to the presentation is included only in the "session abstract" prepared by the organizer to describe the overall purpose of the session, it will be treated as an <span style="color:blue;">“**Informal Contribution**”</span>.
+\* This restriction is based on the "presentation abstract" registered by each presenter. If the information related to the presentation is included only in the "session abstract" prepared by the organizer to describe the overall purpose of the session, it will be treated as an <span style="color:blue;">**Informal Contribution**</span>.
 
 ## Presentation Eligibility by Membership Type
 
