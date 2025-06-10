@@ -1,13 +1,13 @@
 ---
 url: https://esj-meeting.net/ersympo_en/
-menu: Registration and Proposal Guidelines > ER Syposium
+menu: Registration > ER Syposium
 toc: false
 multi_language: true
 ---
 
 # ER Symposium
 
-ESJ73 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal Ecological Research (ER).
+ESJ73 features a system called "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal Ecological Research (ER).
 
 The symposium committee, responsible for the selection process, will choose one candidate overseas researcher to be the ER Invited Speaker, who will then speak at the ER Symposium. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 1), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society’s expense.
 
@@ -46,8 +46,8 @@ Proposals to reinvite individuals who have previously served as ER Invited Speak
 Proposals to reinvite individuals who have previously served as ER Invited Speakers will be given lower priority. Additionally, if a previously invited speaker did not contribute to the journal *Ecological Research*, proposals to reinvite them may be rejected. Ensure that all proposed speakers agree to these terms before submitting the proposal. Additional restrictions apply, as with other ESJ symposia. For details, please refer to the **Common Guidelines for Regular Symposia** below.
 
 ### Restrictions on Multiple Presentations
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to the conference website (https://esj-meeting.net/registinfo/#複数講演の制限 ) for more information.
 
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [the annual meeting website](https://esj-meeting.net/registinfo_en/#restrictions-on-multiple-presentations) for more information.
 
 ### Proposal Deadline
 
@@ -58,6 +58,7 @@ The deadline for submitting ER Symposium proposals is **Friday, August 29, at 23
 Submit proposals via this [Google Form](https://forms.gle/zLUL9b7VZKd51uJQ6). If you cannot access Google Forms and wish to apply, please contact the person listed at the end of this document via email.
 
 The proposal should include the following information:
+
 1. Principal Applicant Information
     - Name, affiliation, email address
 2. ER Invited Speaker Information
@@ -72,7 +73,7 @@ The proposal should include the following information:
 
 ## Note 1
 
-Travel expenses are covered within the society’s travel expense regulations (URL: https://esj.ne.jp/esj/Rule/ryohi_kitei.html ). The regulations do not specify the class of airfare, but economy class is generally expected.
+Travel expenses are covered within the society’s travel expense regulations (URL: [https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)). The regulations do not specify the class of airfare, but economy class is generally expected.
 
 ## Note 2
 
@@ -87,6 +88,7 @@ In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Gues
 5. The abstract submission deadline for presentations is the same as for regular oral and poster presentations.
 
 ***
-For inquiries and requests related to this matter, please contact Dr. Yusaku Ohkubo, ER Symposium Coordinator of the Symposium Committee of the ESJ73 Planning Committee (Forestry and Forest Products Research Institute): y-ohkubo [at] okayama-u.ac.jp
+
+For inquiries and requests related to this matter, please contact Dr. Yusaku Ohkubo, ER Symposium Coordinator of the Symposium Committee of the ESJ73 Planning Committee (Forestry and Forest Products Research Institute): y-ohkubo \[at\] okayama-u.ac.jp
 
 Written by: Narumi Tsugeki Chair of the ESJ73 Symposium Committee

@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/opensession_en/
-menu: Registration and Proposal Guidelines > Open Session
+menu: Registration > Open Session
 toc: false
 multi_language: true
 ---
@@ -36,7 +36,8 @@ The review will focus on the "appeal of the theme in ecology," "expected impact 
 Conveners of accepted themes will receive a list of oral presentations, poster presentations, and workshops submitted under the new category. Conveners may select presentations if necessary. Unselected presentations will be reallocated to secondary categories, but the right to present will not be lost. Note that posters presented in the open session category will **not be eligible for poster awards** (see Note 2).
 
 ### Restrictions on Multiple Presentations
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to the conference website (https://esj-meeting.net/registinfo/#複数講演の制限 ) for more information.
+
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [the annual meeting website](https://esj-meeting.net/registinfo_en/#restrictions-on-multiple-presentations) for more information.
 
 ### Proposal Submission
 
@@ -47,17 +48,19 @@ Proposals can be co-authored, but only one person should be designated as the co
 Submit proposals via the application [Google Form](https://forms.gle/qHr7ivZ47VT5F3go8).
 
 The proposal should include the following information:
+
 1. Name of the principal applicant, affiliation, and email address
 2. Proposed theme and objectives
 3. Reasons for proposing the theme (impact on the conference and the field by introducing the theme as a new category)
 4. Additional information related to the theme (e.g., relevant papers, international treaties)
+
 Note: Item 4 is just additional information related to Item 3. Journal impact factor in which relevant papers were published is not considered as a review criteria.
 
-## Note 1: The ESJ73 Symposium includes an "invited speaker" system.
+## Note 1: The ESJ73 Symposium includes an "invited speaker" system
 
 The ESJ73 Symposium includes an "invited speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
 
-## Note 2: Posters presented in the open session category will not be eligible for poster awards.
+## Note 2: Posters presented in the open session category will not be eligible for poster awards
 
 This is because securing judges for new themes is challenging. Therefore, poster presentations in open sessions are not eligible for poster awards.
 
@@ -70,6 +73,6 @@ This is because securing judges for new themes is challenging. Therefore, poster
 We look forward to receiving your proposals.
 
 ***
-For inquiries and requests related to this matter, please contact Dr. Narumi Tsugeki, Chair of the Symposium Committee of the ESJ73 Planning Committee (Matsuyama University): narutsugeki [at] gmail.com
+For inquiries and requests related to this matter, please contact Dr. Narumi Tsugeki, Chair of the Symposium Committee of the ESJ73 Planning Committee (Matsuyama University): narutsugeki \[at\] gmail.com
 
 Written by: Narumi Tsugeki, Chair of the ESJ73 Symposium Committee
