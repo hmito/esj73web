@@ -3,6 +3,8 @@ url: https://esj-meeting.net/registinfo/
 menu: 各種申込み > 概要
 toc: true
 multi_language: true
+remarks:
+  このページは、「各種申込み」のメニュー自体をクリック時にも開くように設定。
 ---
 
 # 各種申し込み概要
