@@ -7,25 +7,25 @@ multi_language: true
 
 # ER Symposium
 
-ESJ72 features a system called "ER Symposium," where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research (ER).
+ESJ73 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal Ecological Research (ER).
 
-The symposium committee, responsible for the selection process, will choose one of the overseas researchers speaking at an ER Symposium to be the ER Invited Speaker. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 2), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
+The symposium committee, responsible for the selection process, will choose one candidate overseas researcher to be the ER Invited Speaker, who will then speak at the ER Symposium. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 1), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society’s expense.
 
-We encourage those considering inviting overseas researchers to the symposium to review the following guidelines and apply for an ER Symposium.
+We encourage those considering inviting overseas researchers to the symposium to review the following guidelines and apply for an ER Symposium. We welcome proposals from diverse perspectives and encourage women and early-career researchers to consider applying.
 
 ## Guidelines for Proposing an ER Symposium
 
 ### Travel Expenses are Covered and Participation Fees are Waived
 
-The ER Invited Speaker will receive necessary travel expenses (subject to regulations, see Note 2) and have their conference participation fees waived.
+The ER Invited Speaker will receive the necessary travel expenses (subject to regulations, see Note 1) and have their conference participation fees waived.
 
 ### Paper Contribution
 
-The ER Invited Speaker is required to submit a review or feature paper related to the symposium content to ER. Accepted papers will be published as open access at the society's expense.
+The ER Invited Speaker is required to submit a review or feature paper related to the symposium content to ER. Accepted papers will be published as open access at the society’s expense.
 
 ### Number of Invited Speakers
 
-In principle, only one ER Invited Speaker is allowed per symposium.
+In principle, only one ER Invited Speaker is allowed.
 
 ### Symposium Language
 
@@ -37,27 +37,33 @@ There are no nationality restrictions for the ER Invited Speaker.
 
 ### Review and Selection
 
-Proposals will be reviewed by the ESJ72 Symposium Committee, and one speaker will be selected based on the review results.
+Proposals will be reviewed by the ESJ73 Symposium Committee, and one speaker will be selected based on the review results.
 
-### Restrictions on Reinvitation
+### Restrictions on Reinvitation to ER Symposium
 
 Proposals to reinvite individuals who have previously served as ER Invited Speakers will be given lower priority. Additionally, if a previously invited speaker did not contribute to the journal *Ecological Research*, proposals to reinvite them may be rejected. Ensure that all proposed speakers agree to these terms before submitting the proposal.
 
+Proposals to reinvite individuals who have previously served as ER Invited Speakers will be given lower priority. Additionally, if a previously invited speaker did not contribute to the journal *Ecological Research*, proposals to reinvite them may be rejected. Ensure that all proposed speakers agree to these terms before submitting the proposal. Additional restrictions apply, as with other ESJ symposia. For details, please refer to the **Common Guidelines for Regular Symposia** below.
+
+### Restrictions on Multiple Presentations
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to the conference website (https://esj-meeting.net/registinfo/#複数講演の制限 ) for more information.
+
+
 ### Proposal Deadline
 
-The deadline for submitting ER Symposium proposals is **Friday, August 30, at 23:59 JST**. Notifications of acceptance or rejection are planned for September.
+The deadline for submitting ER Symposium proposals is **Friday, August 29, at 23:59 JST**. Notifications of acceptance or rejection are planned for September.
 
 ### Application Procedure
 
-Submit proposals via the application Google Form. If you cannot access Google Forms and wish to apply, please contact the person listed at the end of this document via email.
+Submit proposals via this [Google Form](https://forms.gle/zLUL9b7VZKd51uJQ6). If you cannot access Google Forms and wish to apply, please contact the person listed at the end of this document via email.
 
 The proposal should include the following information:
 1. Principal Applicant Information
     - Name, affiliation, email address
 2. ER Invited Speaker Information
     - Name, affiliation
-    - Reasons for inviting the speaker (how the ER Invited Speaker will enhance the symposium's value, benefits to society members from the invited lecture and the contributed paper): about 200 words
-    - Representative papers and their citation counts" for the ER Invited Speaker (up to five papers). These are for reference and not used as numerical criteria for selection.
+    - Reasons for inviting the speaker (e.g., how the ER Invited Speaker will enhance the value of the symposium, benefits to society members from the invited lecture, and the contributed paper): about 200 words
+    - Representative papers  for the ER Invited Speaker (up to five papers). This will be utilized as a reference for the invited speaker of ER symposium.
 3. Symposium Details
     - Symposium title (in English)
     - Symposium summary: about 200 words
@@ -66,11 +72,11 @@ The proposal should include the following information:
 
 ## Note 1
 
-In addition to the "ER Invited Speaker" system, ESJ72 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no benefit of contributing a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
+Travel expenses are covered within the society’s travel expense regulations (URL: https://esj.ne.jp/esj/Rule/ryohi_kitei.html ). The regulations do not specify the class of airfare, but economy class is generally expected.
 
 ## Note 2
 
-Travel expenses are covered within the society's travel expense regulations (URL: https://esj.ne.jp/esj/Rule/ryohi_kitei.html). The regulations do not specify the class of airfare, but economy class is generally expected.
+In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society’s expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
 
 ## Reference: Common Guidelines for Regular Symposia
 
@@ -78,9 +84,9 @@ Travel expenses are covered within the society's travel expense regulations (URL
 2. Symposia will be held for approximately three hours.
 3. To promote interdisciplinary exchange, non-members can be invited as guest speakers. The conference participation fee for guest speakers will be waived. However, the same non-member cannot be invited to speak at two consecutive conferences.
 4. When proposing a symposium on the same theme as a previous conference, ensure that new insights and research progress are included. Proposals with the same title, topics, or abstract as previous symposia will not be accepted.
-5. The abstract submission deadline for presentations is the same as for general oral and poster presentations.
+5. The abstract submission deadline for presentations is the same as for regular oral and poster presentations.
 
 ***
-For inquiries and requests related to this matter, please contact Dr. Akiko Hirata, ER Symposium Coordinator of the Symposium Committee of the ESJ72 Planning Committee (Forestry and Forest Products Research Institute): hirataa [at] affrc.go.jp
+For inquiries and requests related to this matter, please contact Dr. Yusaku Ohkubo, ER Symposium Coordinator of the Symposium Committee of the ESJ73 Planning Committee (Forestry and Forest Products Research Institute): y-ohkubo [at] okayama-u.ac.jp
 
-Written by: Hisashi Sato, Chair of the ESJ72 Symposium Committee
+Written by: Narumi Tsugeki Chair of the ESJ73 Symposium Committee
