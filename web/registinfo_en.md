@@ -72,7 +72,7 @@ The Ecological Society of Japan aims to create rules for participation in conven
   - Since workshops may take various forms, they will be scheduled so as not to overlap with symposia and oral presentations.
 - Each participant may organize only one session, except for forums.
 
-\* This restriction is based on the "presentation abstract" registered by each presenter. If the information related to the presentation is included only in the "session abstract" prepared by the organizer to describe the overall purpose of the session, it will be treated as an <span style="color:blue;">**Informal Contribution**</span>.
+\* This restriction is based on the "presentation abstract" registered by each presenter. If the information related to the presentation is included only in the "session abstract", which describes the overall purpose of the session, it will be treated as an <span style="color:blue;">**Informal Contributions**</span>.
 
 ## Presentation Eligibility by Membership Type
 
