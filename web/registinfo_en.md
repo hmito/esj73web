@@ -63,33 +63,34 @@ Please note that the listed deadlines are subject to change.
 
 The Ecological Society of Japan aims to create rules for participation in conventions that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations, and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule.
 
-- All presentations are broadly categorized into two types: those that require abstract submission \(\*\) and will be published in the [Official Website](https://esj.ne.jp/meeting/abst/index.html) (<span style="color:blue;">“**Formal Presentations**”</span>), and those that do not require abstract submission, such as purpose explanations, commentators, panelists, lightning talks, etc. (<span style="color:blue;">“**Informal Contributions**”</span>).
-- Regardless of the presentation format (symposium, workshop, oral, or poster presentation), from this conference onward, each participant is allowed to give only one <span style="color:blue;">**Formal Presentations**</span>.
-  - Please note that <span style="color:red;">being a presenter in both a workshop and a regular presentation, which was permitted until the previous conference, is NOT allowed</span> at this conference.
-  - Presentations in forums, which are events organized by various ESJ committees, are not subject to this restriction.
-- In addition to a <span style="color:blue;">**Formal Presentations**</span>, participants may also give <span style="color:blue;">**Informal Contributions**</span>.
+- Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation—from this conference onward, **each participant is allowed to give only one presentation with abstract (\*)**.
+  - Please note that, unlike previous conferences, <span style="color:red;">it is NOT permitted to be a presenter in both a workshop and a regular presentation at this conference</span>.
+  - Pdresentations given in forums, which are events organized by various committees, are not subject to this restriction.
+- In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as purpose explanations, commentators, panelists, or lightning talks, or to organize a session only.
   - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
-  - Since workshops may take various forms, they will be scheduled so as not to overlap with symposia and oral presentations.
+  - For workshops, considering their diverse formats, they are scheduled so as not to overlap with symposia and oral presentations.
 - Each participant may organize only one session, except for forums.
 
-\* This restriction is based on the "presentation abstract" registered by each presenter. If the information related to the presentation is included only in the "session abstract", which describes the overall purpose of the session, it will be treated as an <span style="color:blue;">**Informal Contributions**</span>.
+\* The basis for this restriction is the "presentation abstract" registered by each presenter. If the organizer of a session does not register as a "presentation" at the time of application and only provides information in the "session abstract," such presentations are not subject to the above restriction.
 
 ## Presentation Eligibility by Membership Type
 
-Only members (regular and honorary members) of the Ecological Society of Japan are eligible to present at the conference. Non-members are eligible to present in the following three cases:
+Only ESJ members (regular, student and emeritus members) are eligible to be presenters (primary author) at the conference. Non-members are eligible to present in the following three cases:
 
-1. To present as an invited speaker in symposium
-2. To present as a commentator or opinion presenter in symposium/workshop without abstract submission.
-3. High school students and younger presenting in Junior Poster Session.
+- To present as an invited speaker in a symposium.
+- Contributions in a symposium or workshop that does not require the submission of a presentation abstract; purpose explanations, commentators, panelists, lightning talks, etc.
+- High school students and younger presenting in the Junior Poster Session.
 
-| **Presentation Type**                              | **Member \*1** | **Non-Member** |
-|----------------------------------------------------|:--------------:|:--------------:|
-| Regular Presentation (Oral or Poster) \*2            | ◯            |                |
-| Symposium/Workshop Organizer                | ◯            |                |
-| Symposium Presenter \*2                           | ◯            | ◯ \*3         |
-| Workshop Presenter \*2                       | ◯            |                |
-| Commentator/Opinion in Symposium/Workshop    | ◯            | ◯              |
+Co-presenters are not required to be members.
 
-\*1 Regular/Student members and emeritus members of the Ecological Society of Japan. Supporting members are not included.  
-\*2 Primary presenter (speaker). Co-presenters do not need to be members.  
-\*3 Limited to invited speakers.
+| **Presentation Type** | **Member \*1** | **Non-Member** |
+|:---------------------|:--------------:|:--------------:|
+| Regular Presentation (Oral or Poster) | ◯ | |
+| Symposium/Workshop Organizer | ◯ | |
+| Symposium Presenter | ◯ | ◯ \*2 |
+| Workshop Presenter | ◯ | |
+| Contributions in Symposium/Workshop<br/>without abstract submission \*3 | ◯ | ◯ |
+
+\*1 Regular/Student members and emeritus members of the Ecological Society of Japan. Supporting members are not included.\
+\*2 Limited to invited speakers.\
+\*3 Limited to presentations that are not registered as "presentations" at the time of application by the session organizer.
