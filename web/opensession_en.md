@@ -37,7 +37,7 @@ Conveners of accepted themes will receive a list of oral presentations, poster p
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [the annual meeting website](https://esj-meeting.net/registinfo_en/#restrictions-on-multiple-presentations) for more information.
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [the annual meeting website](registinfo_en/#restrictions-on-multiple-presentations) for more information.
 
 ### Proposal Submission
 
