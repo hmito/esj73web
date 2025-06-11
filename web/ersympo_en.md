@@ -71,6 +71,8 @@ The proposal should include the following information:
     - List of symposium members
     - Summary of the paper to be contributed to *Ecological Research*
 
+Please note that if your proposal is accepted, the information provided in your application may be used on the official conference website for the purpose of announcing the selection results.
+
 ## Note 1
 
 Travel expenses are covered within the society’s travel expense regulations (URL: [https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)). The regulations do not specify the class of airfare, but economy class is generally expected.
