@@ -69,7 +69,7 @@ The Ecological Society of Japan aims to create rules for participation in conven
 - In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as purpose explanations, commentators, panelists, or lightning talks, or to organize a session only.
   - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
   - For workshops, considering their diverse formats, they are scheduled so as not to overlap with symposia and oral presentations.
-- Each participant may organize only one session, except for forums.
+- Each participant may organize only one session, except for forums. It is not permitted to register as an organizer for multiple sessions.
 
 \* The basis for this restriction is the "presentation abstract" registered by each presenter. If the organizer of a session does not register as a "presentation" at the time of application and only provides information in the "session abstract," such presentations are not subject to the above restriction.
 
