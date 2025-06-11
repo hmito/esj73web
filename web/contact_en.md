@@ -12,6 +12,8 @@ Before contacting us, please also review our [Frequently Asked Questions](faq_en
 
 ## Send a question or request
 --->
-Please send questions or requests from [here](https://otoiawase.jp/do/public/form/seitai/3).
+Please contact us using the form below.
 
-We will be **out of service each night from 5:00 pm to 10:00.**
+[\[Contact Form\]](https://otoiawase.jp/do/public/form/seitai/3)
+
+We will be **out of service each night from 17:00 to 10:00.**
