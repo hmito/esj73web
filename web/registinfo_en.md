@@ -1,8 +1,10 @@
 ---
 url: https://esj-meeting.net/registinfo_en/
 menu: Registration > Overview
-toc: true
 multi_language: true
+remarks:
+  このページは、「Registration」のメニュー自体をクリック時にも開くように設定。
+  文字の色指定あり
 ---
 
 # Registration
@@ -91,6 +93,6 @@ Co-presenters are not required to be members.
 | Workshop Presenter | ◯ | |
 | Contributions in Symposium/Workshop<br/>without abstract submission \*3 | ◯ | ◯ |
 
-\*1 Regular/Student members and emeritus members of the Ecological Society of Japan. Supporting members are not included.\
-\*2 Limited to invited speakers.\
+\*1 Regular/Student members and emeritus members of the Ecological Society of Japan. Supporting members are not included.  
+\*2 Limited to invited speakers.  
 \*3 Limited to presentations that are not registered as "presentations" at the time of application by the session organizer.

@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/ersympo_en/
 menu: Registration > ER Syposium
-toc: false
 multi_language: true
 ---
 

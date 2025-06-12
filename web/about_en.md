@@ -1,14 +1,15 @@
 ---
 url: https://esj-meeting.net/about_en/
 menu: Meeting Information > About
-toc: true
 multi_language: true
+remarks:
+  このページは、「Meeting Information」のメニュー自体をクリック時にも開くように設定。
 ---
 
 # About the Meeting
 
-The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)\
-**Dates**: March 11 (Wed) – March 15 (Sun), 2026\
+The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)  
+**Dates**: March 11 (Wed) – March 15 (Sun), 2026  
 **Venue**: Two locations - [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access) and [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 ## Meeting Format

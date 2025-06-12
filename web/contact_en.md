@@ -1,8 +1,9 @@
 ---
 url: https://esj-meeting.net/contact_en/
 menu: Contact > Contact
-toc: false
 multi_language: true
+remarks:
+  このページは、「Contact」のメニュー自体をクリック時にも開くように設定。
 ---
 
 # Contact

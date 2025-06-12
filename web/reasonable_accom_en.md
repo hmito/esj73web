@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/reasonable_accom_en/
 menu: Contact > Reasonable Accommodation
-toc: false
 multi_language: true
 ---
 

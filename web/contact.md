@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/contact/
 menu: お問い合せ > お問い合せ
-toc: false
 multi_language: true
 remarks:
   このページは、「お問い合わせ」のメニュー自体をクリック時にも開くように設定。

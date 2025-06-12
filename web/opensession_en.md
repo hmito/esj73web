@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/opensession_en/
 menu: Registration > Open Session
-toc: false
 multi_language: true
 ---
 
