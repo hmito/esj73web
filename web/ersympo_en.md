@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/ersympo_en/
 menu: Registration > ER Syposium
-toc: false
 multi_language: true
 ---
 
@@ -47,7 +46,7 @@ Proposals to reinvite individuals who have previously served as ER Invited Speak
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [the annual meeting website](registinfo_en/#restrictions-on-multiple-presentations) for more information.
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#restrictions-on-multiple-presentations) for more information.
 
 ### Proposal Deadline
 

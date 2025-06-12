@@ -1,14 +1,15 @@
 ---
 url: https://esj-meeting.net/contact_en/
 menu: Contact > Contact
-toc: false
 multi_language: true
+remarks:
+  このページは、「Contact」のメニュー自体をクリック時にも開くように設定。
 ---
 
 # Contact
 <!---
 ## Before your question
-Before contacting us, please also review our [Frequently Asked Questions](faq_en) in advance.
+Before contacting us, please also review our [Frequently Asked Questions](/faq_en) in advance.
 
 ## Send a question or request
 --->
