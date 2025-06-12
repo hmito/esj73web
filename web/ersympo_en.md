@@ -46,7 +46,7 @@ Proposals to reinvite individuals who have previously served as ER Invited Speak
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#restrictions-on-multiple-presentations) for more information.
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Deadline
 
