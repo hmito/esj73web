@@ -8,8 +8,8 @@ multi_language: true
 
 ## Important notice
 
-- **We are now calling for [Open Session](opensession_en) (Application: 2025.07.01 - 07.31)**
-- **We are now calling for [ER Symposium](ersympo_en) (Application: 2025.07.01 - 08.29)**
+- **We are now calling for [Open Session](/opensession_en) (Application: 2025.07.01 - 07.31)**
+- **We are now calling for [ER Symposium](/ersympo_en) (Application: 2025.07.01 - 08.29)**
 
 ### Upcoming Schedule
 

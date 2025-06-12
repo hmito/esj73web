@@ -9,7 +9,7 @@ remarks:
 # Contact
 <!---
 ## Before your question
-Before contacting us, please also review our [Frequently Asked Questions](faq_en) in advance.
+Before contacting us, please also review our [Frequently Asked Questions](/faq_en) in advance.
 
 ## Send a question or request
 --->

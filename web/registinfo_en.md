@@ -11,8 +11,8 @@ remarks:
 
 We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
 
-- [Open Sessions](opensession_en)
-- [ER Symposium](ersympo_en)
+- [Open Sessions](/opensession_en)
+- [ER Symposium](/ersympo_en)
 
 Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open around October.
 
