@@ -41,7 +41,7 @@ remarks:
     </tr>
     <tr class="odd">
       <td>フォーラム</td>
-      <td>2025年9月頃? ※</td>
+      <td>2025年9月15日(月) 23:59</td>
     </tr>
     <tr class="even">
       <td>シンポジウム<br />
