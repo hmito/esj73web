@@ -47,7 +47,7 @@ Please note that the listed deadlines are subject to change.
     </tr>
     <tr class="even">
       <td>Symposium<br />
-      <td rowspan=4> Around the end of Oct. 2025 (tentative)</td>
+      <td rowspan=4> Registration to begin:<br>Wednesday 1 Oct. 2025  (tentative)<br><br>Deadline:<br>Friday 31 Oct. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Workshop</td>
@@ -68,7 +68,7 @@ The Ecological Society of Japan aims to create rules for participation in conven
 - Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation—from this conference onward, **each participant is allowed to give only one presentation with abstract (\*)**.
     - Please note that, unlike previous conferences, <span style="color:red;">it is NOT permitted to be a presenter in both a workshop and a regular presentation at this conference</span>.
     - Pdresentations given in forums, which are events organized by various committees, are not subject to this restriction.
-- In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as purpose explanations, commentators, panelists, or lightning talks, or to organize a session only.
+- In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as general introduction, commentators, panelists, or lightning talks, or to organize a session only.
     - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
     - For workshops, considering their diverse formats, they are scheduled so as not to overlap with symposia and oral presentations.
 - Each participant may organize only one session, except for forums. It is not permitted to register as an organizer for multiple sessions.
