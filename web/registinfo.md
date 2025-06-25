@@ -33,7 +33,7 @@ remarks:
     <tr class="odd">
       <td><a href = "opensession">公募セッション</a></td>
       <td>2025年7月31日(木) 23:59</td>
-      <td rowspan=7>2026年2月頃? ※</td>
+      <td rowspan=7>2026年2月頃 (暫定)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo">ERシンポジウム</a></td>
@@ -58,8 +58,6 @@ remarks:
     </tr>
   </tbody>
 </table>
-
-※ 暫定案であり、今後変更される可能性があります。
 
 ## 複数講演の制限
 
