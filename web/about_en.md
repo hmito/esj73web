@@ -8,13 +8,17 @@ remarks:
 
 # About the Meeting
 
-The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)  
-**Dates**: March 11 (Wed) – March 15 (Sun), 2026  
-**Venue**: The venue will change between the first and second halves of the meeting  
+The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
+
+**= Dates =**  
+March 11 (Wed) – March 15 (Sun), 2026
+
+**= Venue =**  
+The venue will change between the first and second halves of the meeting  
 March 11 - 13: [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access)  
 March 14 - 15: [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
-**Venue**: Two locations - [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access) and [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
-＊We recommend booking your accommodation well in advance. Convenient areas for accessing both venues are around Kyoto Station and along the Kyoto Municipal Subway Karasuma Line（京都市営地下鉄烏丸線）.
+
+**We recommend booking your accommodation well in advance**. Convenient areas for accessing both venues are around Kyoto Station and along the Karasuma Subway Line（京都市営地下鉄烏丸線）.
 
 ## Meeting Format
 
