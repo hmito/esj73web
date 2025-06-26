@@ -34,20 +34,20 @@ Please note that the listed deadlines are subject to change.
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Thursday, 31 Jul. 2025 23:59 (JST)</td>
+      <td>Thu. 31 Jul. 2025 23:59 (JST)</td>
       <td rowspan=7>Around Feb. 2026 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Friday, 29 Aug. 2025 23:59 (JST)</td>
+      <td>Fri. 29 Aug. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>Monday, 15 Sep. 2025 23:59 (JST)</td>
+      <td>Mon. 15 Sep. 2025 23:59 (JST)</td>
     </tr>
     <tr class="even">
       <td>Symposium<br />
-      <td rowspan=4> Registration to begin:<br>Wednesday 1 Oct. 2025  (tentative)<br><br>Deadline:<br>Friday 31 Oct. 2025 23:59 (JST)</td>
+      <td rowspan=4> Registration to begin:<br>Wed. 1 Oct. 2025<br><br>Deadline:<br>Fri. 31 Oct. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Workshop</td>
