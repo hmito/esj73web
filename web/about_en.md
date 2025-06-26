@@ -8,9 +8,17 @@ remarks:
 
 # About the Meeting
 
-The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)  
-**Dates**: March 11 (Wed) – March 15 (Sun), 2026  
-**Venue**: Two locations - [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access) and [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
+
+**= Dates =**  
+March 11 (Wed) – March 15 (Sun), 2026
+
+**= Venue =**  
+The venue will change between the first and second halves of the meeting  
+March 11 - 13: [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access)  
+March 14 - 15: [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+
+**We recommend booking your accommodation well in advance**. Convenient areas for accessing both venues are around Kyoto Station and along the Karasuma Subway Line（京都市営地下鉄烏丸線）.
 
 ## Meeting Format
 
@@ -31,7 +39,7 @@ Registration for participation is scheduled to begin around October. Details wil
 
 The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/e_index.html#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
 
-If you require reasonable accommodations for presentations or attendance at the meeting due to health or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](/reasonable_accom_en).
+If you require reasonable accommodations for presentations or attendance at the meeting due to health conditions or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](/reasonable_accom_en).
 
 ## Code of Conduct
 

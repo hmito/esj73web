@@ -10,7 +10,7 @@ Following the previous meeting, ESJ73 will feature symposia (open sessions) that
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
 
-This procedure offers opportunities to interact with more speakers and audience members than regular symposia. Also, regular presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
+This venue offers opportunities to interact with more speakers and audience members than regular symposia. Also, regular presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
 
 ## Guidelines
 
@@ -24,7 +24,7 @@ If selected, the conveners will organize a symposium based on the proposed theme
 
 ### Review and Selection
 
-The ESJ73 Planning Committee will review the proposed "themes" and select 1-2 based on the review results.
+The ESJ73 Planning Committee will review the proposed "themes" and only 1-2 sessions total will be chosen based on the review results.
 
 ### Review Criteria
 
@@ -32,11 +32,11 @@ The review will focus on the "appeal of the theme in ecology," "expected impact 
 
 ### Coordination with Regular Presentations
 
-Conveners of accepted themes will receive a list of oral presentations, poster presentations, and workshops submitted under the new category. Conveners may select presentations if necessary. Unselected presentations will be reallocated to secondary categories, but the right to present will not be lost. Note that posters presented in the open session category will **not be eligible for poster awards** (see Note 2).
+Conveners of accepted themes will receive a list of oral presentations, poster presentations, and workshops submitted under the new category. Conveners may select presentations if necessary. Unselected presentations will be reallocated to secondary categories, but the right to present will not be revoked. Note that posters presented in the open session category will **not be eligible for poster awards** (see Note 2).
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restriction on Multiple Presentations](/registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
+For ESJ73, the presentation rules have changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Submission
 
@@ -53,7 +53,7 @@ The proposal should include the following information:
 3. Reasons for proposing the theme (impact on the conference and the field by introducing the theme as a new category)
 4. Additional information related to the theme (e.g., relevant papers, international treaties)
 
-Note: Item 4 is just additional information related to Item 3. Journal impact factor in which relevant papers were published is not considered as a review criteria.
+Note: Item 4 is just additional information related to Item 3. Journal impact factor in which relevant papers were published is not considered as a review criterion.
 
 Please note that if your proposal is accepted, the information provided in your application may be used on the official conference website for the purpose of announcing the selection results.
 
