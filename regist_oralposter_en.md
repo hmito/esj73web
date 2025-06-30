@@ -81,7 +81,7 @@ This award is not a competition for fluency in English. Applicants are chosen by
 
 ### Eligibility
 
-- Applicants must be students (undergraduate, master's, doctoral) or members of the Ecological Society of Japan within 5 years of receiving their degree by March 2025 (childcare/nursing care leave is not included in this 5-year period).
+- Applicants must be students (undergraduate, master's, doctoral) or members of the Ecological Society of Japan within 5 years of receiving their degree by March 2025 (childcare_en/nursing care leave is not included in this 5-year period).
 - Past winners of the EPA Grand Prize are not eligible to apply, but past winners of the Excellence Award are eligible to apply. Please note that these eligibility requirements may change after the next competition.
 
 ### Judging Criteria
