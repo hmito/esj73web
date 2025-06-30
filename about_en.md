@@ -30,10 +30,175 @@ March 14 - 15: [Kyoto International Conference Center (ICC Kyoto)](https://maps.
     - For other sessions and presentations not covered above, presenters are broadly encouraged to use a "self on-demand" format, in which they record their own presentations and upload the videos to the online platform.
 
 Further details will be posted on this website as they are finalized.
+## Schedule
 
-## Important Dates and Registration
+The detailed timetable will be released around the end of December or beginning of January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
 
-Registration for participation is scheduled to begin around October. Details will be posted on the [Registration Information page](/registinfo_en).
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan=2></th>
+<th><strong>3/12-3/14<br/>　(Wed-Fri)</strong></th>
+<th><strong>3/15<br/>　(Sat)</strong></th>
+<th><strong>3/16<br/>　(Sun)</strong></th>
+<th><strong>3/17<br/>　(Mon)</strong></th>
+<th><strong>3/18<br/>　(Tue)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td colspan=2>General meeting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☆</td>
+</tr>
+<tr class="odd">
+<td colspan=2>Award ceremony and lecture</td>
+<td></td>
+<td>☆</td>
+<td>☆</td>
+<td></td>
+<td>☆</td>
+</tr>
+<tr class="even">
+<td colspan=2><a href="session_en#open-session">Open session</a>, <a href="session_en#er-symposia"> ER Symposia </a></td>
+<td></td>
+<td></td>
+<td>☆</td>
+<td>☆</td>
+<td>☆</td>
+</tr>
+</tr>
+<tr class="odd">
+<td colspan=2>Symposia</td>
+<td></td>
+<td></td>
+<td>◎</td>
+<td>◎</td>
+<td>◎</td>
+</tr>
+<tr class="even">
+<td colspan=2>Workshops</td>
+<td></td>
+<td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+</tr>
+<tr class="odd">
+<td colspan=2>Forums</td>
+<td></td>
+<td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+</tr>
+<tr class="even">
+<td colspan=2>Oral session</td>
+<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+</tr>
+<tr class="odd">
+<td rowspan=2>Poster session</td>
+<td>online</td>
+<td>△</td>
+<td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>onsite</td>
+<td></td>
+<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+</tr>
+<tr class="even">
+<td rowspan=2>High school student poster</td>
+<td>online</td>
+<td>△</td>
+<td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
+</tr>
+<tr class="even">
+<td>onsite</td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan=2>Ecology course for high school students</td>
+<td></td>
+<td>○</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan=2>Ecology course for children</td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan=2>Public lecture</td>
+<td></td>
+<td>○</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="ven">
+<td colspan=2>Social gathering venue*</td>
+<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+☆: onsite + real-time streaming + on-demand streaming<br/>
+◎: onsite + on-demand streaming<br/>
+○: onsite only<br/>
+△: ONLINE CONF<br/>
+
+\* Although the banquet will not be held as an official event of the conference, we plan to set up a space for socializing at the venue. Please bring your own food and beverages.
+
+## Fees and Registrations
+Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](registinfo_en).
+
+||Early bird<br/>Until 2/21| Normal price<br/>After 2/22|
+|---|---|---|
+|**Regular**|17000 JPY|19000 JPY|
+|**Students**|8500 JPY|9500 JPY|
+|**Invited speakers<br/>Undergraduate or below without presentation**|Free|Free|
+
+<!-- 7/1のTFで対応　Note: Participation in workshops only is available online, not on-site. -->
+
+## Support for Participants
+ESJ72 will have a [Childcare Room](childcare#child-care) at the venue. We also plan to set up a [Family Lounge](childcare#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](childcare) page for details.
+
 
 ## Promoting Diversity at the Meeting
 
