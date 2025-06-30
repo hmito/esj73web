@@ -17,7 +17,7 @@ remarks:
 **=会場=**  
 前半と後半で会場が変わります  
 11～13日：[京都大学吉田キャンパス吉田南構内](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) / [**\[アクセス\]**](https://www.kyoto-u.ac.jp/access)  
-14～15日：[京都国際会館](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) / [**\[アクセス\]**](https://www.icckyoto.or.jp/access/getting_here/)  
+14～15日：[国立京都国際会館](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) / [**\[アクセス\]**](https://www.icckyoto.or.jp/access/getting_here/)  
 
 - **宿泊先をできるだけ早くに確保されることをおすすめします**。両会場へのアクセスに便利なエリアは京都駅周辺や京都市営地下鉄烏丸線沿線です。
 
