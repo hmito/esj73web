@@ -20,7 +20,7 @@ multi_language: true
 **第73回日本生態学会大会（ESJ73）を下記の通り開催します。**
 
 **日程：2026年3月11日(水)〜15日(日)**  
-**会場：[京都大学吉田南キャンパス](https://www.kyoto-u.ac.jp/access)（11～13日）＋[京都国際会館](https://www.icckyoto.or.jp/access/getting_here/)（14～15日）**
+**会場：[京都大学吉田キャンパス吉田南構内](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6)（11～13日）＋[京都国際会館](https://maps.app.goo.gl/hutdNrXRaDugNpSy7)（14～15日）**
 
 大会案内の詳細は[こちら](/about)をご覧ください。
 
