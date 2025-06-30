@@ -15,8 +15,8 @@ March 11 (Wed) – March 15 (Sun), 2026
 
 **= Venue =**  
 The venue will change between the first and second halves of the meeting  
-March 11 - 13: [Yoshida-South Campus, Kyoto University](https://www.kyoto-u.ac.jp/en/access)  
-March 14 - 15: [Kyoto International Conference Center (ICC Kyoto)](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+March 11 - 13: [Yoshida-South Campus, Kyoto University](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
+March 14 - 15: [Kyoto International Conference Center (ICC Kyoto)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 **We recommend booking your accommodation well in advance**. Convenient areas for accessing both venues are around Kyoto Station and along the Karasuma Subway Line（京都市営地下鉄烏丸線）.
 
