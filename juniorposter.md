@@ -43,7 +43,7 @@ multi_language: false
     - 発表者として登録されている教員や外部協力者等の方も、本大会からは無料枠を使用しての参加となります。
     - 無料枠を超える引率者は、参加費をお支払いただく必要があります。
 
-![参加費と手続き時期](rsc/junior_poster_role.png)
+![参加費と手続き時期](media/junior_poster_role.png)
 
 ## 発表までに必要な手続き
 
@@ -53,7 +53,7 @@ multi_language: false
 
 以下の手順に従って、[講演申込みサイト](リンク)から発表の申し込み、要旨登録、参加手続き等を行ってください。
 
-![発表までのフローチャート](rsc/junior_poster_flow.png)
+![発表までのフローチャート](media/junior_poster_flow.png)
 
 ### \(1\) 申込情報の準備（発表担当の生徒・申込責任者）
 
