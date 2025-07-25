@@ -1,11 +1,13 @@
 ---
 url: https://esj-meeting.net/registinfo_en/
-menu: Registration > Registlation and Proposal
-toc: false
+menu: Registration > Overview
 multi_language: true
+remarks:
+  このページは、「Registration」のメニュー自体をクリック時にも開くように設定。
+  文字の色指定あり
 ---
 
-# Registrations and Proposals
+# Registration
 
 Applications for [Regular Presentations](regist_oral_poster_en), [Symposia](regist_session_en#symposium), and [Workshops](regist_session_en#workshop) are accepted until 31st Oct. 2024 (JST). Please check the details in below and register from the application site.
 
@@ -49,7 +51,8 @@ You can register for the conference participation at the below link.
   - If none of the above apply, please pay the registration fee.
 - Please also read [Other Notes](#other-notes) when registering.
 
-## Proposals for Presentations and Sessions
+## Deadlines for Presentations and Proposals
+
 You can apply for Regular Presentations, Symposia, and Workshops at the Application site.
 Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
 
@@ -68,27 +71,30 @@ Please read the description of each session (links in the table below) and [Othe
     </tr></thead>
   <tbody>
     <tr class="odd">
-      <td><a href = "opensession">Open Session</a></td>
-      <td><s>Wednesday, 31st Jul. 2024 23:59 (JST)</s></td>
-      <td rowspan=7>Friday, 21st Feb. 2025 23:59 (JST)</td>
+      <td><a href = "opensession_en">Open Session</a></td>
+      <td>Thu. 31 Jul. 2025 23:59 (JST)</td>
+      <td rowspan=7>Around Feb. 2026 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td><s>Friday, 30th Aug. 2024 23:59 (JST)</s></td>
+      <td>Fri. 29 Aug. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
-      <td><a href = "regist_session/#Forum">Forum</a></td>
-      <td><s>Sunday, 15th Sep. 2024 23:59 (JST)</s></td>
+      <td>Forum</td>
+      <td>Mon. 15 Sep. 2025 23:59 (JST)</td>
     </tr>
     <tr class="even">
-      <td><a href = "regist_session/#Symposium">Symposium</a><br />
-      <td rowspan=4>Thursday, 31st Oct. 2024 23:59 (JST)</td>
+      <td>Symposium<br />
+      <td rowspan=4> Registration to begin:<br>Wed. 1 Oct. 2025<br><br>Deadline:<br>Fri. 31 Oct. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td><a href = "regist_session/#Workshop">Workshop</a></td>
     </tr>
     <tr class="even">
-     <td><a href = "regist_oral_poster">Regular Presentation</a><br />
+     <td>Regular Presentation<br />
+    </tr>
+    <tr class="odd">
+      <td>Junior Poster Session</td>
     </tr>
   </tbody>
 </table>
@@ -96,42 +102,41 @@ Please read the description of each session (links in the table below) and [Othe
 - We are unable to respond to inquiries from 17:00 to the next day 10:00 (JST) on each deadline. Please check various procedures as soon as possible.
 - For all deadlines, we will not be able to respond to requests for additions, corrections, etc. after the deadline.
 - Please also read [Other Notes](#other-notes) when applying.
+## Restrictions on Multiple Presentations
 
-### Overlap Restrictions
-There are restrictions on overlapping presentations at the conference:
+The Ecological Society of Japan aims to create rules for participation that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule.
 
-- Overlap restrictions apply only if you are already an organizer or speaker of a session or presentation. There is no restriction on being a co-author of a presentation.
-- Symposium organizers/speakers cannot be organizers/speakers in other symposium, workshop, or regular presentations.
-  - However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
-- Workshop organizers/speakers can be regular presentation speakers.
-- Forum organizers/topic providers are not subject to the overlap restrictions.
+- Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation—from this conference onward, **each participant is allowed to give only one presentation with abstract (\*)**.
+    - Please note that, unlike previous conferences, <span style="color:red;">it is NOT permitted to be a presenter in both a workshop and a regular presentation at this conference</span>.
+    - Presentations given in forums, which are events organized by various committees, are not subject to this restriction.
+- In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as general introductions, commentators, panelists, or lightning talks, or to organize a session only.
+    - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
+    - For workshops, considering their diverse formats, they are scheduled so as not to overlap with symposia and oral presentations.
+- Each participant may organize only one session, except for forums. It is not permitted to register as an organizer for multiple sessions.
 
-||Symposium|Workshop|Regular Presentation|Forum|
-|:---:|:---:|:---:|:---:|:---:|
-|Symposium|×|×|×|〇|
-|Workshop|×|×|〇|〇|
-|Regular Presentation|×|〇|×|〇|
-|Forum|〇|〇|〇|〇|
+\* The basis for this restriction is the "presentation abstract" registered by each presenter. If the organizer of a session does not register as a "presentation" at the time of application and only provides information in the "session abstract," such presentations are not subject to the above restriction.
 
-※ If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of the category marked with an "×".
+## Presentation Eligibility by Membership Type
 
-### Presentation Eligibility by Membership Type
-Presentations at the conference are generally limited to members (regular, student, and emeritus members). Non-members are eligible in the following two cases:
+Only ESJ members (regular, student and emeritus members) are eligible to be presenters (primary author) at the conference. Non-members are eligible to present in the following three cases:
 
-- When to speak as an invited speaker in symposium
-- When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
+- As an invited speaker in a symposium.
+- Contributions in a symposium or workshop that does not require the submission of a presentation abstract, for example, general introductions, commentators, panelists, lightning talks, etc.
+- High school students and younger presenting in the Junior Poster Session.
 
-| **Session type**                                      | **Member \*1** | **Non-member** |
-|---------------------------------------------------|:-------------:|:------------:|
-| Regular Presentation (Oral or Poster) \*2             | ◯           |            |
-| Symposium/Workshop organizer                 | ◯           |            |
-| Symposium presenter \*2                           | ◯           | ◯ \*3      |
-| Workshop presenter \*2                               | ◯           |            |
-| Commentator/Opinion in Symposium/Workshop| ◯           | ◯          |
+Co-presenters are not required to be members.
 
-\*1　Refers to regular, student or emeritus members of the Ecological Society of Japan. Associate members are not included.  
-\*2　Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
-\*3　Limited to invited speakers.
+| **Presentation Type** | **Member \*1** | **Non-Member** |
+|:---------------------|:--------------:|:--------------:|
+| Regular Presentation (Oral or Poster) | ◯ | |
+| Symposium/Workshop Organizer | ◯ | |
+| Symposium Presenter | ◯ | ◯ \*2 |
+| Workshop Presenter | ◯ | |
+| Contributions in Symposium/Workshop<br/>without abstract submission \*3 | ◯ | ◯ |
+
+\*1 Regular/Student members and emeritus members of the Ecological Society of Japan. Supporting members are not included.  
+\*2 Limited to invited speakers.  
+\*3 Limited to presentations that are not registered as "presentations" at the time of application by the session organizer.
 
 ## Procedure for new membership to the Ecological Society of Japan
 
