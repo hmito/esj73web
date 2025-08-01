@@ -28,7 +28,7 @@ Important deadlines are as follows.
   - You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
 
 
-<img src="../media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
+<img src="media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
 
 ## Registration for Participation
 You can register for the conference participation at the below link.

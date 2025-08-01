@@ -11,7 +11,7 @@ All presentations will take place at the **Sapporo Convention Center** ([Website
 
 ## Access
 
-![Access map (Figure from the website of Sapporo Convention Center)](../media/to_venue_map_en.gif)
+![Access map (Figure from the website of Sapporo Convention Center)](media/to_venue_map_en.gif)
 
 
 ### From central Sapporo to the venue

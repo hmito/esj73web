@@ -10,7 +10,7 @@ multi_language: true
 [【Google Map】](https://maps.app.goo.gl/3715B6bF2e5urKno8)
 
 ## 会場へのアクセス
-![会場への地図（札幌コンベンションセンターのウェブページ掲載図）](../media/to_venue_map_ja.gif)
+![会場への地図（札幌コンベンションセンターのウェブページ掲載図）](media/to_venue_map_ja.gif)
 
 ### 札幌中心部から会場
 札幌中心部から大会会場の札幌コンベンションセンターへは、札幌市営地下鉄東西線、もしくはJR北海道バスが利用できます。  
