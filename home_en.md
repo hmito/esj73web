@@ -8,7 +8,7 @@ multi_language: true
 
 ## Important notice
 
-- **We are now opening a call for [Open Sessions](/opensession_en) (Application: 2025.07.01 - 07.31)**
+- **~~We are now opening a call for [Open Sessions](/opensession_en) (Application: 2025.07.01 - 07.31)~~**
 - **We are now opening a call for [ER Symposia](/ersympo_en) (Application: 2025.07.01 - 08.29)**
 
 ### Upcoming Schedule
