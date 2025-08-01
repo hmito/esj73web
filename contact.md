@@ -1,20 +1,5 @@
 ---
 url: https://esj-meeting.net/contact/
-<<<<<<< HEAD:web/contact.md
-menu: お問合せ > お問合せ
-toc: false
-multi_language: true
-remarks: Phase 1でなし崩し的に作成されたページのため、mdをあとから追記
----
-
-# お問合せ
-
-## 問い合わせの前に
-お問い合わせの前に、[よくある質問](faq)についても、事前にご確認ください。毎年、多くの労力が問い合わせへの対応に割かれています。大会企画委員・実行委員の負担軽減にご協力ください。
-
-## 問い合わせを送る
-[こちらのフォーム](https://otoiawase.jp/do/public/form/seitai/2)からお問い合わせ下さい。
-=======
 menu: お問い合わせ > お問い合わせ
 multi_language: true
 remarks:
@@ -31,6 +16,5 @@ remarks:
 大会についてのお問い合わせは、以下のフォームからお願いします。
 
 [【お問い合わせフォーム】](https://otoiawase.jp/do/public/form/seitai/2)
->>>>>>> 2b88de11cbbf7c98b16087adaabdf98ef66c1c6a:contact.md
 
 **各締切日の17:00〜翌日10:00はお問い合わせに対応できません。** 各種手順の確認はお早めにお願いします。
