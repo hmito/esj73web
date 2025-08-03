@@ -111,11 +111,12 @@ Visual Studio Codeでは編集中に画面上部のPreviewボタン![ボタン�
 
 ```markdown
 ![画像の説明](画像のパスやファイル名)
-![ESJ71ロゴ](https://esj-meeting.net/wp-content/uploads/2023/06/esj71_logo.png)
+![生態学会ロゴ](https://www.esj.ne.jp/esj/image/header_logo2016.png)
 ```
 
 ＜例＞
-![ESJ71ロゴ](https://esj-meeting.net/wp-content/uploads/2023/06/esj71_logo.png)
+
+![生態学会ロゴ](https://www.esj.ne.jp/esj/image/header_logo2016.png)
 
 注：装飾的な役割で画像を使う場合には画像の説明は不要です。
 
@@ -123,22 +124,22 @@ Visual Studio Codeでは編集中に画面上部のPreviewボタン![ボタン�
 
 ```markdown
 [リンク文字列](リンク先のURL)
-[ESJ Meeting](https://esj-meeting.net/home_ja/)
+[大会ウェブサイト](https://esj-meeting.net/home/)
 ```
 
 ＜例＞
-[ESJ Meeting](https://esj-meeting.net/home_ja/)
+[大会ウェブサイト](https://esj-meeting.net/home/)
 
 外部サイトなど、新しいタブ・ウィンドウでリンクを開きたい場合はHTMLで記述してください。
 （`rel="noreferrer noopener"`はWordPressが自動的に追加してくれます）
 
 ```markdown
 <a href="リンク先のURL" target="_blank">リンク文字列</a>
-<a href="https://esj71.gakkai.online" target="_blank">大会プラットフォーム</a>
+<a href="https://esj-meeting.net/home/" target="_blank">大会ウェブサイト</a>
 ```
 
 ＜例＞
-<a href="https://esj71.gakkai.online" target="_blank">大会プラットフォーム</a>
+<a href="https://esj-meeting.net/home/" target="_blank">大会ウェブサイト</a>
 
 ### 表
 
@@ -149,6 +150,7 @@ Visual Studio Codeでは編集中に画面上部のPreviewボタン![ボタン�
 ```
 
 ＜例＞
+
 | 見出し1 | 見出し2 |
 | ------- | ------- |
 | 値1     | 値2     |
@@ -251,7 +253,7 @@ multi_language:
 #### URL
 
 ページのURLはWordPress上で設定するので、この情報をヘッダーの`url:`に記載することにします。
-例えば`url: https://esj-meeting.net/home_ja/`など。
+例えば`url: https://esj-meeting.net/home/`など。
 よくわからない場合は空欄にしておいてもらえればWeb担当で適当な値を設定します。
 
 #### メニュー
