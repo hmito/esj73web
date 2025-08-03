@@ -6,7 +6,8 @@ multi_language: true
 ---
 
 # Proposal for sessions
-* There are three types of sessions: [Symposia](#symposium), [Workshops](#workshop),and [Forums](#forum).
+
+- There are three types of sessions: [Symposia](#symposium), [Workshops](#workshop),and [Forums](#forum).
     - Symposium category includes the regular symposium as well as two special types: the [Open Session](opensession_en), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](ersympo_en), where travel grants and free admission to the conference are available for inviting international researchers.
 - At all sessions, [speakers will be asked to present on-site](#online-support).
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
@@ -77,7 +78,6 @@ In order to prevent problems with the recordings, all recording work will be han
 - In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the conference platform.
 - In view of the increasing number of international students and participants from overseas, we encourage Symposia to be held in English. Even if the meeting is held in Japanese, please make efforts to the extent possible by writing the slides in English and preparing a simple handout in English.
 
-
 ### For Organizers
 
 You can apply for the sessions at the following pages.
@@ -86,13 +86,13 @@ You can apply for the sessions at the following pages.
 
 - The deadline to apply for the Symposium and Workshop is 31st Oct. 2024 23:59 (JST).
 - Organizers apply for proposal of sessions using the membership number registered on the conference application site. The membership number can also be found by using the member search function on [My Page](https://iap-jp.org/esj/mypage/login/login).
-	- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
+    - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
 - Organizers will register all presentation together. Please collect the following informations before submitting.
     - Title (no more than 150 characters)
-	- Name and affiliation of speakers/co-presenters
-	- Membership number of speakers (login ID for invited speakers)
+    - Name and affiliation of speakers/co-presenters
+    - Membership number of speakers (login ID for invited speakers)
 - Please access the application site and enter the session title, session abstract (maximum 400 words for English), and information on each presentation.
-	- Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
+    - Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
     - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on demand, and whether or not you would like to stream each of the presentation on demand.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
 - The conference committee will not be involved in the content of the session, but those that are deemed to contain the contents that defames or slanders individuals or groups may not be adopted.
@@ -101,20 +101,20 @@ You can apply for the sessions at the following pages.
 ### For Speakers
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
-	- Non-members are requested to apply for membership by 31st Oct. 2024 23:59 (JST) and pay the conference fee by 21st Feb. 2025 23:59 (JST), by referring to [this page](registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
+    - Non-members are requested to apply for membership by 31st Oct. 2024 23:59 (JST) and pay the conference fee by 21st Feb. 2025 23:59 (JST), by referring to [this page](registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
 - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
-	- Title (both in Japanese and English, maximum 150 characters)
+    - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
-	- Membership number of speakers (login ID for invited speakers)
+    - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](registinfo_en#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
 - Please also see [Other Notes](registinfo_en#other-notes).
 
 ## Proposal of Forum
 
-- Tentative proposals for Forum are due on Friday, 15th Sep. 2024. Applications should be submitted by the representative of each committee.
-- Tentative proposals will be reviewed by the Board of Directors, and a final decision on whether or not to adopt the proposals will be made after coordination with the Annual Meeting Planning Committee and the Executive Committee. In the course of these discussions, it may be requested to revise the content or adjust the format of the event.
-- For those forums that have been adopted, please submit the full proposal through the conference application website.
-- Organization and presentation in Forums are not subject to the overlap restriction.
-- If non-member speakers are invited to the Forum, they may attend only that forum free of charge. Free participation in other programs, such as Symposia and Regular Presentation, is not allowed, and if they wish to attend, they must pay the conference registration fee.
+- Proposals for Forums are solicited from representatives of each committee of the Ecological Society of Japan.
+- Tentative proposals will be reviewed by the Board of Directors, and a final decision on adoption will be made after coordination with the Annual Meeting Planning Committee and the Executive Committee. During this process, you may be asked to revise the content or adjust the format of the event.
+- For Forums that are adopted, please submit the full proposal through the conference application website.
+- Organization and presentations in Forums are not subject to the [ restrictions on multiple presentations](/registinfo_en#restrictions-on-multiple-presentations).
+- If non-member speakers are invited to a Forum, they may participate in that Forum free of charge. Free participation in other programs, such as Symposia and Regular Presentations, is not permitted; if they wish to attend these, they must pay the conference registration fee.
