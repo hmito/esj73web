@@ -84,7 +84,7 @@ Student members who have not obtained a Ph.D. (as of the  deadline for regular p
 
 ### Evaluation Criteria
 
-Poster award will be judged based on online posters. The evaluation criteria will focus on **ability to convey information** and **quality of research** of the poster.
+The evaluation criteria will focus on **ability to convey information** and **quality of research** of the poster.
 
 - **Ability to convey information**: The clarity of the research content will be evaluated. It is important that the text and figures are easy to read, that there is not too much information, and that the essential points can be understood without explanation. For example, the following efforts are required.
     1. Good title
@@ -97,9 +97,15 @@ Poster award will be judged based on online posters. The evaluation criteria wil
     3. Appropriateness of analysis methods
     4. Validity of discussion and conclusions
 
+Poster award will be judged based on online posters.
+
 - Only the poster itself will be evaluated; graphical abstracts and explanatory videos will generally not be considered.
     - However, judges may refer to graphical abstracts and explanatory videos to understand the research content.
 - For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter via text chat and evaluate based on their responses.
+- The language used does not directly affect the evaluation, but in the event of a tie, **posters that can be understood in English** will be given higher priority. This applies in the following cases.
+    - English is included in the title, introduction, and conclusion.
+    - Understanding the outline of research by reading English alone.
+    - An English version of the poster is available on a separate page.
 
 ### Precautions
 
@@ -107,10 +113,7 @@ Poster award will be judged based on online posters. The evaluation criteria wil
 - The format for the poster should be **one A0-size sheet**. Either portrait or landscape orientation is acceptable. This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
-- The language used does not directly affect the evaluation, but in the event of a tie, **posters that can be understood in English** will be given higher priority. This applies in the following cases.
-    - English is included in the title, introduction, and conclusion.
-    - Understanding the outline of research by reading English alone.
-    - An English version of the poster is available on a separate page.
+
 
 ## Awards for Online Poster Presentations
 
