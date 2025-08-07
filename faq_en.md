@@ -74,7 +74,7 @@ A. You can freely cancel or change your submitted information on the webpage bef
 
 **Q. I want to cancel my presentation. How should I do this?**
 
-A. You can freely cancel your presentation on the webpage before the deadline for registration (October 31, 2025). After the deadline, please contact us from the [inquiry form](contact_en). Please note that the information at the time of the registration deadline will appear on the program and the ESJ72 official website.
+A. You can freely cancel your presentation on the webpage before the deadline for registration (October 31, 2025). After the deadline, please contact us from the [inquiry form](contact_en) (in that case, **let us know the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ72 official website.
 
 **Q. I want to cancel my registration to the ESJ72. How should I do this?**
 
