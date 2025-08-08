@@ -7,7 +7,26 @@ multi_language: true
 
 # Sessions
 
+## ER Symposia
+
+The following symposium was selected for this year's [ER Symposium](ersympo_en) (symposium where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research).
+
+---
+
+**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
+
+【Organizer】<br/>
+Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)
+
+【ER Invited Speaker】<br/>
+Jonathan Lenoir (University of Picardy Jules Verne, France)
+
+---
+
+The journal Ecological Research supports the travel expenses of ER invited speakers. The invited speaker is invited to contribute a review or feature paper related to the symposium content on the journal of Ecological Research.
+
 ## Open Session
+
 The following two themes were selected for this year's [Open Sessions](opensession_en) (symposium that involve the addition of new presentation categories).
 
 ---
@@ -33,24 +52,3 @@ Ayumi Katayama (Kyushu University)
 [Objectives]<br/>
 [The following is the English translation provided by the Conference Preparation Committee]<br/>
 The population of deer is increasing in various regions across the country, causing severe problems in many areas. Research on deer spans a wide range of academic fields, including veterinary medicine (such as deer ecology), ecology (the impact of deer browsing on plant and animal diversity), forestry (how to protect reforested trees from deer browsing), and ecosystem ecology (the impact of deer browsing on the loss of understory vegetation and its effects on material cycles). While individual studies and papers have accumulated and societal interest is high, it is time to comprehensively understand and organize the results across disciplines to identify the pressing issues. By utilizing the framework of open sessions at this conference, we aim to present research on deer from various fields. This will contribute to the further development of individual research, the planning of interdisciplinary large-scale projects, and the organization of special issues, ultimately resolving deer-related issues in real-world society.
-
----
-
-These selected themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations. Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue. See [open session](opensession_en) in detail.
-
-## ER Symposia
-The following symposium was selected for this year's [ER Symposium](ersympo_en) (symposium where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research).
-
----
-
-**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
-
-【Organizer】<br/>
-Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)
-
-【ER Invited Speaker】<br/>
-Jonathan Lenoir (University of Picardy Jules Verne, France)
-
----
-
-In ER Symposium, the journal Ecological Research supports the travel expenses of invited speakers. Additionally, the invited speaker is invited to contribute a review or feature paper related to the symposium content on the journal of Ecological Research.
