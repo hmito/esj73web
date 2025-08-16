@@ -8,16 +8,17 @@ multi_language: true
 # 企画集会
 
 ## ER シンポジウム
+
 今年度の[ER シンポジウム（ER招待講演を希望するシンポジウム）](ersympo)では、以下のシンポジウムが採択されました。
 
 ---
 
-**『Species responses to climate change in terrestrial and aquatic ecosystems』(仮タイトル)**
+### 『Species responses to climate change in terrestrial and aquatic ecosystems』(仮タイトル)**
 
-【提案者】<br/>
+【提案者】  
 森本淳子・石山信雄・崎山智樹（北海道大学）
 
-【ER招待講演者】<br/>
+【ER招待講演者】  
 
 ![](media/to_venue_map_ja.gif)
 
@@ -32,26 +33,38 @@ ERシンポジウム招待講演者へは旅費の補助が行われるほか、
 
 ## 公募セッション
 
-今年度の[公募セッション（発表分野の追加を伴うシンポジウム）](opensession)では、以下の2つのテーマが採択されました。
+今年度の[公募セッション（発表分野の追加を伴うシンポジウム）](opensession)では、以下の3つのテーマが採択されました。
 
 ---
 
-**【音響生態学 / Acoustic Ecology】**
+### 【野生動物取引 / Wildlife Trade】
 
-【提案者】<br/>
-Samuel R.P-J. Ross (Okinawa Institute of Science & Technology Graduate University)
+【提案者】  
+寺田佐恵子（大阪公立大学）、Hubert Cheung (立命館アジア太平洋大学)
 
-【提案の狙い】<br/>
-Because many animals produce sound to communicate, the study of sound in ecology is now common. These studies take many forms, including: the study of behaviour and acoustic signalling; ecological studies of populations or communities monitored using new developments in passive acoustic recording technologies; and the study of how anthropogenic noise pollution affects species and ecosystems. Acoustic studies now span multiple realms and taxa, with traditional studies including marine mammals or stridulating insects or birds, but new studies on freshwater streams, soil invertebrates, and plant responses to noise. The Open Session "Acoustic Ecology" invites any researchers studying any aspects of sound and ecology to discuss in an open setting the role of sound in the study of ecology.
-Objectives
-1. Demonstrate the power of acoustic monitoring, bioacoustics, and ecoacoustics for the applied and fundamental ecology from individuals to communities.
-2. Connect ecologists in Japan (at all career stages) who are interested in acoustics, with a view to increasing uptake of acoustic ecology research in Japan, as well as production of best practice guidelines for acoustic monitoring of Japanese ecosystems (which could be developed during a follow-up meeting after connections made during the open session).
+【提案の狙い】  
+野生生物の過剰利用は、世界の生物多様性損失の主要因の一つであり、持続不可能で違法な野生生物取引は、地球上の多様な生物の種の存続を脅かしている。野生生物を持続可能に利用するためには、効果的な野生生物取引ガバナンスが不可欠であり、そのためには科学的な情報に基づく取引規制の制定と、その実効性の担保が必要である。しかし、種の生息状況や個体群動態の評価に内在する不確実性、取引のサプライチェーンの複雑さ、多様な社会的・文化的背景、そしてグローバルに複合的に生じる取引の影響などにより、野生生物取引に関する意思決定と法執行は極めて困難なものとなっている。この課題を克服するためには、異なる研究分野間の協働と異文化理解の促進が不可欠である。  
+そこで、日本国内外の野生生物取引に関する研究者を生態学会大会に招き、国際的かつ学際的な議論の場を醸成することを目的として、「野生生物取引」についてのシンポジウムを提案する。本シンポジウムの開催により、国内外の野生生物取引政策についての科学的な議論を深め、国際共同研究を強化し、長期的効果のある持続可能な解決策の発展に貢献することを目指す。  
+講演者らは、国内外の野生生物取引規制や関連研究を紹介し、21世紀に即した野生生物取引ガバナンスへの適応的アプローチの推進について議論する。また、保全措置を確実に進めるために重要な多様なステークホルダーの巻き込みについて斬新かつ実践的な手法を示し、さらに野生生物取引管理の改善にも有用な、より広範な地球環境ガバナンス分野からの教訓を紹介する。
 
-**【シカ害問題 / Deer-induced Problems】**
+---
 
-【提案者】<br/>
-片山歩美（九州大学）
+### 【延長された表現型 / Extended Phenotype】
 
-【提案の狙い】<br/>
-全国の様々な地域でシカの個体数が増加しており、各地で深刻な問題をもたらしている。シカに関する研究は、例えば、獣医学（シカの生態など）、生態学（シカ食害が植物や動物の多様性に与える影響など）、林学（シカ食害から造林木をどの様に守るかなど）、生態系生態学（シカ食害による下層植生消失が物質循環に与える影響など）など、多岐の学問分野にわたる。個々のテーマにおける研究や論文は蓄積され、社会的にも関心が高いことから、これまでの成果を分野横断的に理解・整理し、本当に解決すべき問題を新たに見出す段階に来ていると考えられる。本大会で公募セッションという枠組みを利用し、シカに関するあらゆる研究を発表する機会を設けることで、それぞれの研究のさらなる発展および分野横断的な大型プロジェクトの立案や特集号の企画に繋げ、実社会におけるシカ問題の解決の一端を担うことを狙いとする。
+【提案者】  
+佐藤拓哉 (京都大学生態学研究センター)
+
+【提案の狙い】  
+分子生物学と生態学が協働することで、生物学の未開拓領域に踏み込むことが期待されている。しかし、自然生態系における興味深い現象に対して、分子レベルの解析へと踏み出す動機や、他分野との共同研究の機会を見出しにくい学会員は、いまだ少なくない。本公募シンポジウムでは、寄生者や内部共生者による「延長された表現型」をテーマに掲げて、その分子機構・ゲノム進化・生態学的帰結の解明が、如何に専門分野の異なる研究者の共同によってなされ、異分野融合領域の形成へと結実するかを紹介する。
+それにより、（1）学会員に今後の研究展開の足がかりとなる機会を提供すること、（2）生態学と他の生物学分野との融合をいかに推進し、学問領域として確立していくかを議論することを目的とする。
+
+---
+
+### 【人と自然 / People and Nature】
+
+【提案者】  
+時任美乃理（京都大学農学研究科）、徳地直子（京都大学フィールド科学教育研究センター）
+
+【提案の狙い】  
+本テーマは、現代社会における「人と自然のつながりの現在地」を多角的に捉え直すことをねらいとする。森林資源を活かした地域づくり、市民による科学調査への参加、故郷を離れた人々の自然へのまなざしなど、近年、人と自然の関係性はこれまでになく多様なかたちで構築されている。こうした実践や意識の変化を手がかりに、人と自然の相互作用を再検討し、生態学・社会学・教育学・市民科学といった多様な知見を交差させながら、従来の自然観や保全概念の枠組みを問い直す機会としたい。
 
