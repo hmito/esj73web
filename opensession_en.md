@@ -6,7 +6,7 @@ multi_language: true
 
 # Open Session
 
-[\<Check the selected Open Session\>](sessions#open-session)
+[\<Check the selected Open Session\>](/sessions_en#open-session)
 
 Following the previous meeting, ESJ73 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
 

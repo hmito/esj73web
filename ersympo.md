@@ -6,7 +6,7 @@ multi_language: true
 
 # ER シンポジウム（ER招待講演を希望するシンポジウム）
 
-[【本大会の採択結果は、こちらをご覧ください】](session#er-シンポジウム)
+[【本大会の採択結果は、こちらをご覧ください】](/sessions#er-シンポジウム)
 
 ESJ73では、海外の優秀な研究者を招聘してシンポジウムでの講演と[Ecological Research誌](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\) への寄稿をお願いする「ER シンポジウム」という制度があります。本制度は、多様な視点からの提案を歓迎しております。女性や若手の研究者の皆様も、ぜひご応募をご検討ください。
 

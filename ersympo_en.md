@@ -6,7 +6,7 @@ multi_language: true
 
 # ER Symposium
 
-[\<Check the selected ER-Symposium\>](session_en#er-symposia)
+[\<Check the selected ER-Symposium\>](/sessions_en#er-symposia)
 
 ESJ73 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal [Ecological Research](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\).
 
