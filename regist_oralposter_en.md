@@ -15,13 +15,13 @@ Regular presentations include oral and poster sessions.
 - Presentations are onsite only. Online presentations are not available.
 - All presentations must be made using [the PCs provided at the venue](presentation_en#notice). You are not allowed to present using your own PC.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
-- [Abolition of the English Oral Presentation Award]
+- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award will be discontinued at ESJ73](/registinfo_en#notice-on-the-discontinuation-of-the-english-presentation-award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
 
 **Poster session**
 
 - There are two opportunities to present posters: online presentations (for all participants) using the conference platform, and on-site presentations (for applicants) at the conference venue.
 - Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 12th to 14th Mar. 2025).
-- There will be a core time during the conference period for on-site poster presentations. 
+- There will be a core time during the conference period for on-site poster presentations.
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#poster-award). However, this does not apply to those who have received the Poster Award at a previous ESJ meeting.
 
 ## Application for Regular Presentations
