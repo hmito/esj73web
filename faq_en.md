@@ -121,3 +121,19 @@ No. This ie because cancelled presentations will be deleted from the conference 
 ### My presentation is scheduled for a symposium (or workshop). Can I record my presentation in advance and stream it by self-on-demand?
 
 No. All symposia and workshops (requested on-demand streaming in advance) at this conference will be recorded at the venue by a contractor and streamed later. Therefore, self-on-demand by organizers and speakers is not possible.
+
+### Can I stream my presentation including the contents that cannot be contained at on-site due to time constraints by self-on-demand?
+
+The content and time of video should be equivalent to presentation at on-site. Significant differences from the presentation at on-site would be contrary to the purpose of self-on-demand streaming.
+
+### Can my oral presentation be recorded on-site and streamed self-on-demand?
+
+No. This is because the PCs used for oral presentations at the venue cannot record presentations or extract data afterwards. In addition, bringing your own equipment (video cameras, tripods, etc.) to the venue for recording is not permitted, as it interfere with the smooth transition between presentations.
+
+### I canceled my oral presentation, but recorded it in advance. Is it acceptable to stream the recorded presentation by self-on-demand?
+
+No. This ie because cancelled presentations will be deleted from the conference platform.
+
+### My presentation is scheduled for a symposium (or workshop). Can I record my presentation in advance and stream it by self-on-demand?
+
+No. All symposia and workshops (requested on-demand streaming in advance) at this conference will be recorded at the venue by a contractor and streamed later. Therefore, self-on-demand by organizers and speakers is not possible.
