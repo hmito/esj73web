@@ -20,8 +20,8 @@ Regular presentations include oral and poster sessions.
 **Poster session**
 
 - There are two opportunities to present posters: online presentations (for all participants) using the conference platform, and on-site presentations (for applicants) at the conference venue.
-- Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 12th to 14th Mar. 2025).
-- There will be a core time during the conference period for on-site poster presentations.
+- Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 8th to 10th Mar. 2025).
+- There will be a core time during the conference period for on-site poster presentations. 
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#poster-award). However, this does not apply to those who have received the Poster Award at a previous ESJ meeting.
 
 ## Application for Regular Presentations
@@ -80,7 +80,7 @@ To encourage researchers in the early stages of their careers, poster awards wil
 Student members who have not obtained a Ph.D. (as of the  deadline for regular presentations) are eligible to apply. Please select "Apply for Poster Award" when you apply for a presentation.
 
 - However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan (including joint meetings with other societies such as EAFES) are not eligible to apply, even if they meet the above requirements. 
-- Speakers who requested “Acoustic Ecology” and "Deer-induced Problems" in the [Open session](sessions#open-session) as their presentation field are also not eligible to apply for the Poster Award.
+- Speakers who requested “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" in the [Open session](sessions#open-session) as their presentation field are also not eligible to apply for the Poster Award.
 
 ### Evaluation Criteria
 
@@ -99,6 +99,7 @@ The evaluation criteria will focus on **ability to convey information** and **qu
 
 Poster award will be judged based on online posters.
 
+- As part of our efforts to promote internationalization at academic conferences, we will award additional points for research conducted from an international perspective or showing potential for such development. Depending on the research field, however, this will not be considered a mandatory evaluation criterion.
 - Only the poster itself will be evaluated; graphical abstracts and explanatory videos will generally not be considered.
     - However, judges may refer to graphical abstracts and explanatory videos to understand the research content.
 - For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter via text chat and evaluate based on their responses.
@@ -109,7 +110,7 @@ Poster award will be judged based on online posters.
 
 ### Precautions
 
-- The judging will take place before the conference begins, so please make sure to upload your poster to ONLINE CONF by the specified deadline (scheduled for March 11, 2025, 23:59 (JST)).
+- The judging will take place before the conference begins, so please make sure to upload your poster to ONLINE CONF by the specified deadline (scheduled for March 7, 2026, 23:59 (JST)).
 - The format for the poster should be **one A0-size sheet**. Either portrait or landscape orientation is acceptable. This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
@@ -124,12 +125,12 @@ Please note that these awards are not official awards of the Ecological Society 
 ### "Like!" Award
 
 - To encourage communication among participants through the comment function, we are introducing a "Like!" Award in addition to the regular poster awards. All posters will be considered for the "Like!" Award. 
-- Selection will be based on the number of "Like!" received for the poster presentations. All conference participants, including high school students, are eligible to vote "Like!".
-- In the selection process for this award, posters that receive more viewers will have an advantage. Due to the nature of the viewing system, the smaller numbered posters may have a higher chance of winning.
+- Selection will be based on the number of "Like!" received for the poster presentations, which will be tallied at the end of the conference. All conference participants, including high school students, are eligible to vote "Like!".
+
 
 ### Best Discusser Award
 
 - An award will be presented to an individual conference participant who has contributed to the excitement of all poster presentations, including high school student posters, by posting high quality comments.
-- The number of “Like!” on comments will be tallied for each contest participant and used for selection. All contest participants, including high school students, have the right to “Like!” comments.
+- The number of “Like!” on comments will be tallied for each contest participant and used for selection, with the final count taken at the end of the conference. All contest participants, including high school students, have the right to “Like!” comments.
 
 ## About the abolition of the English Oral Presentation Award
