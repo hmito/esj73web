@@ -54,29 +54,29 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 ### Online Presentations
 
-Online presentations will not be accepted at this conference. This is to avoid problems in advance because presenters cannot use their own PCs for presentations and there are limitations on wifi network at the conference venue. We appreciate your understanding.
+**Online presentations will not be accepted for presentation with abstract submission at this conference**. This is to avoid problems in advance because there are limitations on wifi network at the conference venue. We appreciate your understanding.
 
-If it is difficult to make a presentation onsite, **prerecorded video presentations will be accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session) and for forum presentations only.
+If it is difficult to make a presentation onsite, **remote presentations using Zoom will be only accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session) and for forum presentations only. However, the connection to Zoom is strictly limited to organizer and presenter. Additionally, the conference organizing committee will not provide a Wi-Fi environment solely for the purpose of remote presentations. Please prepare the Wi-Fi environment at the organizer's responsibility.
 
 ### Streaming of Presentations
 
 All symposia and a part of workshops and forums will be recorded and made available on ONLINE CONF at a later date.
 
-In order to prevent problems with the recordings, all recording work will be handled by a contractor. Recording will only be done on the presentation PCs set up at the venue, so only the slides and audio will be recorded. Neither the venue nor the speaker's face will be shown on the recordings. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
+In order to prevent problems with the recordings, all recording work will be handled by a contractor. Recording will only be done on the cameras set up by the contractor at the venue, so the venue's surroundings, speaker's face and audio will be recording. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
 
 ## Organization of Symposium and Workshop
 
 ### How to organize Sessions
 
-- Presentations must be made using [the PCs set up at the venue](presentation_en#notice). PCs brought in by organizers or speakers are not allowed to be used.
+- **Presentations must be made using the PCs brought in by organizers or speakers**. [the PCs set up at the venue](presentation_en#notice) are not allowed to be used.
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](registinfo_en#presentation-eligibility-by-membership-type)).
-- The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. However, only the combination of Workshop and Regular presentation can be duplicated (see [Overlap restrictions](registinfo_en#overlap-restrictions)).
+- The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. In this conference, the combination of Workshop and Regular presentation also cannot be duplicated (see [Overlap restrictions](registinfo_en#overlap-restrictions)).
 - Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.
-    - Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them.
+    - **Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them**.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
 - From the viewpoint of respecting diversity, organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers.
 - In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the conference platform.
-- In view of the increasing number of international students and participants from overseas, we encourage Symposia to be held in English. Even if the meeting is held in Japanese, please make efforts to the extent possible by writing the slides in English and preparing a simple handout in English.
+- In view of the increasing number of international students and participants from overseas, we encourage Symposia to be held in English. Even if the meeting is held in Japanese, please make efforts to the extent possible by preparing a simple handout in English.
 
 ### For Organizers
 
@@ -84,9 +84,9 @@ You can apply for the sessions at the following pages.
 
 **[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
-- The deadline to apply for the Symposium and Workshop is 31st Oct. 2024 23:59 (JST).
+- The deadline to apply for the Symposium and Workshop is 31st Oct. 2025 23:59 (JST).
 - Organizers apply for proposal of sessions using the membership number registered on the conference application site. The membership number can also be found by using the member search function on [My Page](https://iap-jp.org/esj/mypage/login/login).
-    - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
+    - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
 - Organizers will register all presentation together. Please collect the following informations before submitting.
     - Title (no more than 150 characters)
     - Name and affiliation of speakers/co-presenters
@@ -101,8 +101,8 @@ You can apply for the sessions at the following pages.
 ### For Speakers
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
-    - Non-members are requested to apply for membership by 31st Oct. 2024 23:59 (JST) and pay the conference fee by 21st Feb. 2025 23:59 (JST), by referring to [this page](registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
-- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
+    - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 20st Feb. 2026 23:59 (JST), by referring to [this page](registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
+- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
