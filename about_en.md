@@ -116,7 +116,7 @@ The detailed timetable will be released around the end of December or beginning 
 <td rowspan=2>Poster session</td>
 <td>online</td>
 <td>△</td>
-<td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
+<td colspan=4>* Can be viewed and commented on らくらくカンファレンス until April.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -130,10 +130,10 @@ The detailed timetable will be released around the end of December or beginning 
 <td>○</td>
 </tr>
 <tr class="even">
-<td rowspan=2>High school student poster</td>
+<td rowspan=2>Junior Poster session</td>
 <td>online</td>
 <td>△</td>
-<td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
+<td colspan=4>* Can be viewed and commented on らくらくカンファレンス until April.</td>
 </tr>
 <tr class="even">
 <td>onsite</td>
@@ -181,7 +181,7 @@ The detailed timetable will be released around the end of December or beginning 
 ☆: onsite + real-time streaming + on-demand streaming<br/>
 ◎: onsite + on-demand streaming<br/>
 ○: onsite only<br/>
-△: ONLINE CONF<br/>
+△: らくらくカンファレンス<br/>
 
 \* Although the banquet will not be held as an official event of the conference, we plan to set up a space for socializing at the venue. Please bring your own food and beverages.
 

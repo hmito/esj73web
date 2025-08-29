@@ -110,7 +110,7 @@ Poster award will be judged based on online posters.
 
 ### Precautions
 
-- The judging will take place before the conference begins, so please make sure to upload your poster to ONLINE CONF by the specified deadline (scheduled for March 7, 2026, 23:59 (JST)).
+- The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline (scheduled for March 7, 2026, 23:59 (JST)).
 - The format for the poster should be **one A0-size sheet**. Either portrait or landscape orientation is acceptable. This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
@@ -118,19 +118,19 @@ Poster award will be judged based on online posters.
 
 ## Awards for Online Poster Presentations
 
-To promote communication among participants through the use of the comment function in the poster presentations at this conference, we have established a “Like!” Award and a Best Discusser Award, which will be selected by all conference participants. The winners of the awards will be announced on the ONLINE CONF and conference website as soon as they are determined.
+To promote communication among participants through the use of the comment function in the poster presentations at this conference, we have established a “Like!” Award and a Best Discusser Award, which will be selected by all conference participants. The winners of the awards will be announced on the RakuRaku-Conference and conference website as soon as they are determined.
 
 Please note that these awards are not official awards of the Ecological Society of Japan, but are awarded independently by ESJ73.
 
 ### "Like!" Award
 
 - To encourage communication among participants through the comment function, we are introducing a "Like!" Award in addition to the regular poster awards. All posters will be considered for the "Like!" Award. 
-- Selection will be based on the number of "Like!" received for the poster presentations, which will be tallied at the end of the conference. All conference participants, including high school students, are eligible to vote "Like!".
+- Selection will be based on the number of "Like!" received for the poster presentations, which will be tallied at the end of the conference. All conference participants, including presenters at Junior Poster sessions, are eligible to vote "Like!".
 
 
 ### Best Discusser Award
 
-- An award will be presented to an individual conference participant who has contributed to the excitement of all poster presentations, including high school student posters, by posting high quality comments.
-- The number of “Like!” on comments will be tallied for each contest participant and used for selection, with the final count taken at the end of the conference. All contest participants, including high school students, have the right to “Like!” comments.
+- An award will be presented to an individual conference participant who has contributed to the excitement of all poster presentations, including presenters at Junior Poster sessions, by posting high quality comments.
+- The number of “Like!” on comments will be tallied for each contest participant and used for selection, with the final count taken at the end of the conference. All contest participants, including presenters at Junior Poster sessions, have the right to “Like!” comments.
 
 ## About the abolition of the English Oral Presentation Award

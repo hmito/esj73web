@@ -48,7 +48,7 @@ Yes. If you wish to pay by invoice, please apply for participation at the regist
 
 ### Will receipts for the registration fee be issued?
 
-Yes. Receipts will be issued from RakuRaku Conference (ex- ONLINE CONF), not from the registration system. They will be available after 6th January, when RakuRaku Conference will be open.
+Yes. Receipts will be issued from RakuRaku-Conference (ex- ONLINE CONF), not from the registration system. They will be available after 6th January, when RakuRaku-Conference will be open.
 
 ### Is the registration fee taxable?
 
@@ -98,7 +98,7 @@ No, you can give your presentation even if you miss the abstract submission dead
 
 ### I registered in advance but have not received the program booklet
 
-Program booklet will not be produced for ESJ73. Please obtain the necessary information from the ESJ73 official website, the ESJ abstract website, or the conference platform (RakuRaku Conference).
+Program booklet will not be produced for ESJ73. Please obtain the necessary information from the ESJ73 official website, the ESJ abstract website, or the conference platform (RakuRaku-Conference).
 
 ### Do forum speakers need to register their abstracts?
 

@@ -60,7 +60,7 @@ If it is difficult to make a presentation onsite, **remote presentations using Z
 
 ### Streaming of Presentations
 
-All symposia and a part of workshops and forums will be recorded and made available on ONLINE CONF at a later date.
+All symposia and a part of workshops and forums will be recorded and made available on RakuRaku-Conference at a later date.
 
 In order to prevent problems with the recordings, all recording work will be handled by a contractor. Recording will only be done on the cameras set up by the contractor at the venue, so the venue's surroundings, speaker's face and audio will be recording. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
 
