@@ -9,11 +9,6 @@ remarks:
 
 # Registration
 
-We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
-
-- [Open Sessions](/opensession_en)
-- [ER Symposium](/ersympo_en)
-
 Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open around October.
 
 ## Deadlines for Presentations and Proposals
@@ -34,12 +29,12 @@ Please note that the listed deadlines are subject to change.
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Thu. 31 Jul. 2025 23:59 (JST)</td>
+      <td><del>Thu. 31 Jul. 2025 23:59 (JST)</del></td>
       <td rowspan=7>Around Feb. 2026 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Fri. 29 Aug. 2025 23:59 (JST)</td>
+      <td><del>Fri. 29 Aug. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
