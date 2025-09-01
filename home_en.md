@@ -7,6 +7,7 @@ multi_language: true
 # Home
 
 ## Important notice
+
 - ~~We are now accepting applications for [Open Sessions](/opensession) (Application period: 2025.07.01 - 07.31).~~
 - ~~We are now accepting applications for [ER Symposia](/ersympo) (Application period: 2025.07.01 - 08.29).~~
 - Applications for Regular Presentations, Symposia, Workshops, and Junior Posters are scheduled to open on **October 1**. Further details will be announced on this website at the end of September.
