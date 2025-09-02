@@ -76,6 +76,9 @@ Please note that if your proposal is accepted, the information provided in your 
 
 Travel expenses are covered within the society's travel expense regulations (URL: [https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances.
 
+For further details, please refer to the following file. We apologize, but only the Japanese version is available.  
+[\[About Travel Expenses for Overseas Invitees (Japanese only)\]](/media/海外招聘者旅費について_2023.docx)
+
 ## Note 2
 
 In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
