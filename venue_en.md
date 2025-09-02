@@ -1,47 +1,47 @@
 ---
-url: https://esj-meeting.net/venue_en/
-menu: Meeting information > Venue
+url: https://esj-meeting.net/venue/
+menu: Venue Information > Venue
 multi_language: true
 ---
 
 # Venue
-All presentations will take place at the **Sapporo Convention Center** ([Website](https://www.sora-scc.jp/eng/)).
+The venue will differ between the first and second half of the meeting.  
+March 11–13: Kyoto University, Yoshida Campus (Yoshida South Area) / [Access]  
+March 14–15: Kyoto International Conference Center / [Access]  
 
-[\<Google Map\>](https://maps.app.goo.gl/3715B6bF2e5urKno8)
+---
 
-## Access
+### March 11–13  From Kyoto Station / Subway Line to Kyoto University, Yoshida South Campus
+From Kyoto Station or along the subway line, you can reach Kyoto University Yoshida South Campus by:  
+1) Subway Karasuma Line + Kyoto City Bus, 2) Keihan Railway, or 3) Hoop Bus.  
 
-![Access map (Figure from the website of Sapporo Convention Center)](media/to_venue_map_en.gif)
+1. **Kyoto City Subway + Kyoto City Bus (IC cards accepted)**  
+   • Take the Karasuma Subway Line bound for *Kokusaikaikan* and get off at **Imadegawa Station**.  
+   • From the south ticket gate, Exit 3, walk 30 m left to the **Karasuma Imadegawa** bus stop.  
+   • Take City Bus Route 201 bound for *Hyakumanben/Gion*, get off at **Kyodai Seimon-mae**, then walk about 5 minutes.  
+     [Google Maps Route](https://maps.app.goo.gl/mpaWz6E2aHQNUBGY9)  
+   • Alternatively, take City Bus Route 203 bound for *Ginkakuji/Nishikiyama Depot*, get off at **Hyakumanben**, then walk about 10 minutes.  
 
+2. **Keihan Railway (IC cards accepted)**  
+   • Take the Keihan Main Line bound for *Demachiyanagi* and get off at **Demachiyanagi Station**.  
+   • From Exit 7, it is about a 15-minute walk to the campus.  
 
-### From central Sapporo to the venue
-To get to the Sapporo Convention Center from central Sapporo, take the Sapporo City Subway or JR Hokkaido Bus.
+3. **HOOP Bus (IC cards and cashless payment accepted)**  
+   • You can board the Hoop Bus from Kyoto Station Hachijo Exit (departing point), via Shijo Kawaramachi and Kawaramachi Oike.  
+     [Hoop Bus: Route, Timetable, Bus Stops](https://hoopbus.jp)  
+   • Get off at **Kyodai Seimon-mae**, about a 5-minute walk to the campus.  
+   • Travel time is about 30+ minutes from Kyoto Station, depending on traffic conditions.  
 
-1. **Sapporo City Subway Tozai Line**  
-	- The line runs east-west along the Odori Park in the centre of the city. It operates every 7 minutes during the day.
-	- The venue is an 8-minute walk from Subway Higashi-Sapporo Station (T12) on Tozai Line. 
-	- From the Susukino or Clock Tower area, it is roughly a 10-minute walk to Odori Station on the Tozai Line, from Odori Station take a train in the direction of Oyachi or Shin-Sapporo, the third stop is Higashi-Sapporo Station. The journey takes 6 minutes.
-	- From the Sapporo Station or the Nakajima Koen, take the Namboku Line and transfer at Subway Odori Station.
-2. **JR Hokkaido Bus**  
-	- There are about four buses per hour during the day from the Sapporo Station and Clock Tower bus stop to Shin-Sapporo Station on the “Route 1” bus.
-	- The venue is about a 6-minute walk from the Chuo 1-jo 1-chome bus stop on "Route 1" bus.
-	- The ride from Sapporo Station to Chuo 1-jo 1-chome takes about 20 minutes.
+(Note) It is also possible to use City Bus Route 206 from Kyoto Station or Route 201 from Shijo. However, these buses are often extremely crowded and take longer, so we recommend the **Subway + City Bus** or **HOOP Bus** options above.  
 
-### From New Chitose Airport to Sapporo
-The venue can be accessed from New Chitose Airport via JR Sapporo Station (central Sapporo), JR Shin-Sapporo Station, or Subway Oyachi Station
+---
 
-1. **via JR Sapporo Station**  
-	- From New Chitose Airport Station, you can take the JR rapid train or the airport shuttle bus to central Sapporo. 
-	- The fastest rapid train takes 36 minutes to JR Sapporo Station. 
-	- Two companies (Hokuto Kotsu and Hokkaido Chuo Bus) operate the airport shuttle bus service, which takes 40 to 80 minutes. Buses go via Odori. 
-	- Subway or local buses are available from central Sapporo to the venue (see “From central Sapporo to the venue”).
-2. **via JR Shin-Sapporo Station**  
-	- Take the JR rapid train from New Chitose Airport Station and change to the subway at JR Shin-Sapporo Station. 
-	- From Shin Sapporo Subway Station, take the Tozai Subway Line to Higashi-Sapporo Station (about 13 minutes). 
-	- You can also take a local bus from Shin-Sapporo Station (JR Hokkaido Bus Route 1, about 29 minutes).
-3. **via Subway Oyachi Station**  
-	- From New Chitose Airport, take the airport shuttle bus (Oyachi Line) to Oyachi, then transfer to the subway. 
-	- Buses to Oyachi leave once or twice an hour from Hokuto Kotsu and Chuo Bus, and the trip to Oyachi Station takes about 40 minutes. 
-	- From Oyachi Station, take the Tozai Subway Line to Higashi-Sapporo Station, a 10-minute ride.
+### March 14–15  From Kyoto Station / Subway Line to Kyoto International Conference Center (IC cards accepted)
+• Take the Karasuma Subway Line bound for *Kokusaikaikan* and get off at **Kokusaikaikan Station**.  
+• From Exit 4-2, it is about a 5-minute walk to the Conference Center.  
 
+---
 
+# Accommodation with Good Access to Both Venues  (Please book early)
+- Around JR Kyoto Station: Kyoto Station Hachijo Gate, Karasuma Gate, and nearby areas  
+- Along the Subway Karasuma Line: Karasuma-Shijo, Karasuma-Oike, Karasuma-Marutamachi, Karasuma-Gojo, Karasuma-Kujo, etc.  
