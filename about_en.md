@@ -15,8 +15,8 @@ March 11 (Wed) – March 15 (Sun), 2026
 
 **= Venue =**  
 The venue will change between the first and second halves of the meeting  
-March 11 - 13: [Yoshida-South Campus, Kyoto University](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
-March 14 - 15: [Kyoto International Conference Center (ICC Kyoto)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+March 11 - 13: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
+March 14 - 15: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 **We recommend booking your accommodation well in advance**. Convenient areas for accessing both venues are around Kyoto Station and along the Karasuma Subway Line（京都市営地下鉄烏丸線）.
 
@@ -43,15 +43,17 @@ The detailed timetable will be released around the end of December or beginning 
 <col style="width: 14%" />
 <col style="width: 14%" />
 <col style="width: 14%" />
+<col style="width: 14%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>3/12-3/14<br/>　(Wed-Fri)</strong></th>
-<th><strong>3/15<br/>　(Sat)</strong></th>
-<th><strong>3/16<br/>　(Sun)</strong></th>
-<th><strong>3/17<br/>　(Mon)</strong></th>
-<th><strong>3/18<br/>　(Tue)</strong></th>
+<th><strong>3/8-3/10<br/>　(Sun-Tue)</strong></th>
+<th><strong>3/11<br/>　(Wed)</strong></th>
+<th><strong>3/12<br/>　(Thu)</strong></th>
+<th><strong>3/13<br/>　(Fri)</strong></th>
+<th><strong>3/14<br/>　(Sat)</strong></th>
+<th><strong>3/15<br/>　(Sun)</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -62,23 +64,25 @@ The detailed timetable will be released around the end of December or beginning 
 <td></td>
 <td></td>
 <td>☆</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>Award ceremony and lecture</td>
 <td></td>
-<td>☆</td>
-<td>☆</td>
+<td></td>
+<td></td>
 <td></td>
 <td>☆</td>
+<td></td>
 </tr>
 <tr class="even">
 <td colspan=2><a href="session_en#open-session">Open session</a>, <a href="session_en#er-symposia"> ER Symposia </a></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>☆</td>
-<td>☆</td>
-<td>☆</td>
-</tr>
 </tr>
 <tr class="odd">
 <td colspan=2>Symposia</td>
@@ -86,92 +90,90 @@ The detailed timetable will be released around the end of December or beginning 
 <td></td>
 <td>◎</td>
 <td>◎</td>
-<td>◎</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td colspan=2>Workshops</td>
 <td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
 <td></td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>Forums</td>
 <td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
 <td></td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
+<td></td>
 </tr>
 <tr class="even">
-<td colspan=2>Oral session</td>
+<td colspan=2>Oral session (in JP/EN)</td>
 <td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td rowspan=2>Poster session</td>
 <td>online</td>
 <td>△</td>
-<td colspan=4>* Can be viewed and commented on らくらくカンファレンス until April.</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan=5>* Can be viewed and commented on ONLINE CONF until April.</td>
 </tr>
 <tr class="odd">
 <td>onsite</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td>○</td>
-<td>○</td>
+<td></td>
 </tr>
 <tr class="even">
-<td rowspan=2>Junior Poster session</td>
+<td rowspan=2>High school student poster</td>
 <td>online</td>
 <td>△</td>
-<td colspan=4>* Can be viewed and commented on らくらくカンファレンス until April.</td>
+<td colspan=5>* Can be viewed and commented on ONLINE CONF until April.</td>
 </tr>
 <tr class="even">
 <td>onsite</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>Ecology course for high school students</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td colspan=2>Ecology course for children</td>
-<td></td>
-<td></td>
-<td>○</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td colspan=2>Public lecture</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="ven">
-<td colspan=2>Social gathering venue*</td>
+<tr class="odd">
+<td colspan=2>Social Gathering</td>
 <td></td>
-<td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
 <td></td>
 </tr>
@@ -181,7 +183,7 @@ The detailed timetable will be released around the end of December or beginning 
 ☆: onsite + real-time streaming + on-demand streaming<br/>
 ◎: onsite + on-demand streaming<br/>
 ○: onsite only<br/>
-△: らくらくカンファレンス<br/>
+△: ONLINE CONF<br/>
 
 \* Although the banquet will not be held as an official event of the conference, we plan to set up a space for socializing at the venue. Please bring your own food and beverages.
 
@@ -194,6 +196,9 @@ Participation fees are as follows. For more information on how to apply for part
 |**Students**|8500 JPY|9500 JPY|
 |**Invited speakers<br/>Undergraduate or below without presentation**|Free|Free|
 
+## The Social Gathering
+A mixer will be held on the evening of the 14th at the ICC Kyoto. Food and drinks may be brought from outside or purchased from food trucks (payable on-site). We encourage everyone to participate. Details will be posted later.
+
 <!-- 7/1のTFで対応　Note: Participation in workshops only is available online, not on-site. -->
 
 ## Support for Participants
@@ -205,6 +210,9 @@ ESJ72 will have a [Childcare Room](childcare#child-care) at the venue. We also p
 The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/e_index.html#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
 
 If you require reasonable accommodations for presentations or attendance at the meeting due to health conditions or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](/reasonable_accom_en).
+
+Kyoto University provides a [Free Access Map](https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/) that clearly displays access routes, so please refer to it as well.
+Barrier-free information for the ICC Kyoto 国立京都国際会館 is available [here](https://www.icckyoto.or.jp/facility/accessibility/).
 
 ## Code of Conduct
 

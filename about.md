@@ -58,15 +58,17 @@ remarks:
 <col style="width: 14%" />
 <col style="width: 14%" />
 <col style="width: 14%" />
+<col style="width: 14%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>3月12-14日<br/>　(水-金)</strong></th>
-<th><strong>3月15日<br/>　(土)</strong></th>
-<th><strong>3月16日<br/>　(日)</strong></th>
-<th><strong>3月17日<br/>　(月)</strong></th>
-<th><strong>3月18日<br/>　(火)</strong></th>
+<th><strong>3月8-10日<br/>　(日-火)</strong></th>
+<th><strong>3月11日<br/>　(水)</strong></th>
+<th><strong>3月12日<br/>　(木)</strong></th>
+<th><strong>3月13日<br/>　(金)</strong></th>
+<th><strong>3月14日<br/>　(土)</strong></th>
+<th><strong>3月15日<br/>　(日)</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -74,24 +76,27 @@ remarks:
 <td colspan=2>総会</td>
 <td></td>
 <td></td>
-<td>☆</td>
 <td></td>
+<td></td>
+<td>☆</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>授賞式・受賞講演</td>
 <td></td>
-<td>☆</td>
-<td>☆</td>
+<td></td>
+<td></td>
 <td></td>
 <td>☆</td>
+<td></td>
 </tr>
 <tr class="even">
 <td colspan=2><a href="session#公募セッション#">公募セッション</a>、<a href="session#er-シンポジウム">ERシンポジウム</a></td>
 <td></td>
 <td></td>
-<td>☆</td>
-<td>☆</td>
+<td></td>
+<td></td>
+<td></td>
 <td>☆</td>
 </tr>
 <tr class="odd">
@@ -100,23 +105,26 @@ remarks:
 <td></td>
 <td>◎</td>
 <td>◎</td>
-<td>◎</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td colspan=2>自由集会</td>
 <td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
 <td></td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>フォーラム</td>
 <td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
 <td></td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
-<td>◎ or ○</td>
+<td></td>
 </tr>
 <tr class="even">
 <td colspan=2>口頭発表･英語口頭発表</td>
@@ -124,68 +132,63 @@ remarks:
 <td>○</td>
 <td>○</td>
 <td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
 <td>△</td>
-<td colspan=4>※4月頃までらくらくカンファレンス上で閲覧・コメント可能</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan=5>※4月頃までONLINE CONF上で閲覧・コメント可能</td>
 </tr>
 <tr class="odd">
 <td>オンサイト</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td>○</td>
-<td>○ </td>
+<td></td>
 </tr>
 <tr class="even">
-<td rowspan=2>ジュニアポスター</td>
+<td rowspan=2>高校生ポスター</td>
 <td>オンライン</td>
 <td>△</td>
-<td colspan=4>※4月頃までらくらくカンファレンス上で閲覧・コメント可能</td>
+<td colspan=5>※4月頃までONLINE CONF上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2><a href = "junior/#みんなのジュニア生態学講座">みんなのジュニア生態学講座</a></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="childlec">こども生態学講座</a></td>
-<td></td>
-<td></td>
-<td>○</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td colspan=2>公開講演会</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
-<td colspan=2>懇親会場※</td>
+<tr class="odd">
+<td colspan=2>懇親会（ミキサー）</td>
 <td></td>
-<td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
+<td></td>
 <td>○</td>
 <td></td>
 </tr>
@@ -195,9 +198,7 @@ remarks:
 ☆：対面＋リアルタイム配信＋オンデマンド配信<br/>
 ◎：対面＋オンデマンド配信<br/>
 ○：対面のみ<br/>
-△：らくらくカンファレンス
-
-※大会公式イベントとしての懇親会は開催しませんが、会場内に懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。
+△：ONLINE CONF
 
 ## 参加費および各種申し込みについて
 参加費は以下の通りです。参加・講演の申し込みや集会企画の方法についての詳細は、[各種申込み](registinfo)をご覧ください。
@@ -206,12 +207,13 @@ remarks:
 |---|---|---|
 |**一般**|17000円|19000円|
 |**学生**|8500円|9500円|
-|**招待講演者、ジュニアポスター発表者<br/>講演のない学部生・中高生**|無料|無料|
+|**招待講演者、高校生ポスター発表者<br/>講演のない学部生・中高生**|無料|無料|
+
+## 懇親会について
+14日夜に国際会館会場内にて懇親用（ミキサー）を実施します。飲食物についてはご持参いただくか、キッチンカー（現地精算）をご利用いただけます。皆様奮ってご参加ください。詳細は後日掲載します。
 
 ## 育児支援・キャリア支援
 ESJ72では、会場内に[託児室](childcare#託児室)を設置します。また、託児利用に関わらず全ての家族連れ参加者が利用できる[ファミリー休憩室](childcare#ファミリー休憩室)を設置する予定です。詳しくは[育児支援](childcare)のページをご確認ください。
-
-また、新型コロナ感染症拡大以降実施していなかった[「こども生態学講座」](childlec)も3月16日に開催します。小中学生を対象とした、室内でゲーム感覚で生態学を学べる企画を予定しています。ふるってご参加ください。
 
 ESJ72では、若手研究者へのキャリア支援として、[キャリア支援相談室](career#キャリア支援相談室)を大会期間中もしくは大会期間の前後に開催する予定です。また、昨大会に引き続き、一部のシンポジウムや自由集会、フォーラムについては、技術者向けの継続教育の認定単位である[CPD認定プログラム制度](career#cpd認定プログラム)を設定する予定です。詳しくは[キャリア支援](career)のページをご確認ください。
 
@@ -220,6 +222,10 @@ ESJ72では、若手研究者へのキャリア支援として、[キャリア�
 日本生態学会では、[ダイバーシティ推進宣言](https://www.esj.ne.jp/esj/#diversity)を掲げ、多様な背景をもつ研究者の参画を奨励しています。多様な立場やジェンダー、国籍の研究者からの意欲的な提案を期待しています。またシンポジウム・自由集会の企画者は、企画者や講演者の立場やジェンダーなどのバランスに配慮して集会を構成してください。
 
 本大会では、誰もが参加しやすい環境の整備を進めています。発表や聴講に際して、健康上の理由やその他の事情により合理的配慮が必要な場合には、あらかじめご相談ください。どのような配慮が提供可能か検討させていただきます。詳細は[合理的配慮の提供](/reasonable_accom)をご覧ください。
+
+京都大学がアクセス経路をわかりやすく表示した[フリーアクセスマップ](https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/)を提供しているので、こちらもご参照ください。
+国立京都国際会館のバリアフリー情報は[こちら](https://www.icckyoto.or.jp/facility/accessibility/)
+
 
 ## 大会行動規範
 
