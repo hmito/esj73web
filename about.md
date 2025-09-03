@@ -105,7 +105,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、<a href="/sessions#er-シンポジウム">ERシンポジウム</a></td>
+<td colspan=2><a href="/sessions#er-シンポジウム">ERシンポジウム</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -114,7 +114,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2>シンポジウム</td>
+<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -138,7 +138,7 @@ remarks:
 <td>○</td>
 <td>○</td>
 <td>○</td>
-<td></td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td colspan=2>口頭発表･英語口頭発表</td>
@@ -162,7 +162,7 @@ remarks:
 <td></td>
 <td></td>
 <td>○</td>
-<td></td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td rowspan=2>ジュニアポスター</td>
