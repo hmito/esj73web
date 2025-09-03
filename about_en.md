@@ -104,7 +104,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/sessions#open-session">Open Sessions</a>, <a href="/sessions#er-symposia">ER Symposia</a></td>
+<td colspan=2><a href="/sessions#er-symposia">ER Symposia</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,7 +113,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2>Symposia</td>
+<td colspan=2><a href="/sessions#open-session">Open Sessions</a>, Symposia</td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -137,10 +137,10 @@ The detailed timetable will be released around the beginning of January. Please 
 <td>○</td>
 <td>○</td>
 <td>○</td>
-<td></td>
+<td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>Oral sessions(in JP/EN)</td>
+<td colspan=2>Oral sessions (in JP/EN)</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -161,7 +161,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 <td></td>
 <td>○</td>
-<td></td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td rowspan=2>Junior Poster</td>
