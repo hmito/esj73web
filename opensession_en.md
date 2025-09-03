@@ -10,8 +10,6 @@ multi_language: true
 
 Following the previous meeting, ESJ73 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
 
-Following the previous meeting, ESJ72 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
-
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
 
 This venue offers opportunities to interact with more speakers and audience members than regular symposia. Also, regular presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
