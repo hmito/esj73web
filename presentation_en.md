@@ -7,25 +7,40 @@ multi_language: true
 
 # Guidelines for Presentations
 
-## Notice
-- All oral presentations and sessions must be made using the presentation PCs set up at the venue. Presentations cannot be made using your own PC.
-	- The OS of the presentation PC is Windows 10. Presentations can be made with PowerPoint files or PDF files.
-	- Video can be played back as long as it is in MP4 format. Other formats are not guaranteed.
+Please note that only currently available information regarding the presentations is provided here. **More detailed information will to be updated around January**.
 
-## Poster Presentation 
-### Online Poster Presentations
+## Oral Presentation
 
-- Since it will be difficult for on-site participants to view online posters during the conference, a viewing period for all participants will be provided before the conference (scheduled for March 12-14). Therefore, all poster presenters must upload their posters to RakuRaku-Conference by the specified deadline (scheduled for March 11 at 23:59). Note that you may revise or replace your poster after uploading it. Poster uploads are expected to become available after January 31. 
-- For similar reasons, there will be no core time or video discussion spaces for online posters at this conference. If you wish to provide direct explanations online, please use online meeting systems such as Zoom on your own. The text chat function on RakuRaku-Conference is available, so please make use of it.
-- For online poster presentations, you may upload a graphical abstract, the main poster, supplementary materials (PDF), and an explanatory video. Uploading supplementary materials, graphical abstracts, and explanatory videos is not mandatory.
-- Poster presentations are intended to succinctly summarize the overall research within a limited space. In line with this purpose and to align with the conditions of on-site presentations as closely as possible, the poster format will be one A0-sized sheet. The orientation can be either portrait or landscape, depending on your preference, such as choosing portrait orientation to match on-site presentations or landscape orientation to fit computer screens.
-- The main poster should be created in PDF format (without embedded audio or video). The maximum file size is 5MB. Please ensure that your file does not exceed this limit. To facilitate quicker loading on the platform, it is recommended to keep the file size below 1MB and the size per page below 500KB.
-- Our conference places a strong emphasis on international exchange. We welcome considerations for audiences who may not understand Japanese. Specifically, consider providing key points in both Japanese and English on the poster or preparing a separate English version of the poster. If you opt for "bilingual," include explanations in English on the poster or prepare an English version of the poster. When preparing a separate English version of the poster, we recommend providing two sets of A0-sized posters (one in Japanese and one in English). If opting for "English" only, please prepare your poster in English.
-- Supplementary materials (such as additional figures, data, or documents) can also be included to enhance the audience's understanding. These materials should be stored in the same PDF file as the poster, following the main poster content on separate pages, and uploaded as a single PDF file (the total file size, including the English version or supplementary materials, must not exceed 5MB).
-- The graphical abstract will be used as the thumbnail image in the poster list and as the first poster image displayed on the platform. Please create it as a JPG image with dimensions of 1200 pixels by 1200 pixels. It does not necessarily need to be an image that summarizes the research content; for example, a photo of the organism being studied is also acceptable. What is important is that it serves as an eye-catching element. If a graphical abstract is not uploaded, the first page of the poster itself will be displayed in the poster list.
+- All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
+- A Speaker Ready Room will be provided for uploading presentations. You will need to upload your presentation files, such as PowerPoint, yourself at the venue.
+    - Details will be updated around January.
+- If you wish, you can use the [Self-on-demand](#self-on-demand) to record your presentation in advance and stream it on the conference platform.
 
-### On-site Poster Presentations
+## Sessions
 
-- The size of the boards used for on-site poster displays is 210 cm (height) × 90 cm (width), allowing for A0-sized vertical posters. Presenters are free to use this space as needed. However, please ensure that the poster does not extend beyond this space and interfere with neighboring boards.
-- Core times will be scheduled during the conference period for each poster presentation. During these core times, please be present at your poster to explain it to participants.
+- For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
+    - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
+- At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc.
+- If the organizer requests it, the presentation will be recorded by a contractor.
+    - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self-On-Demand Streaming](#self-on-demand) prepared for oral presentations is not available.
+    - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording. Please note that for Q&A and panel discussions, only content spoken through the microphone can be recorded.
 
+## Self-On-Demand
+
+At this conference, all oral presenters will utilize “self-on-demand streaming,” where they record their own presentations and stream them on the conference platform.
+
+- It covers all oral presentations.
+    - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
+- The use of self-on-demand streaming is **optional**. It is not mandatory for presentations.
+    - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use self-on-demand streaming**.
+- You may only upload one video containing content equivalent to the presentation given on the day.
+    - Format is MP4 only, with a maximum size of approximately 2GB.
+    - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
+- **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
+- Uploading and streaming will be conducted on the conference platform “RakuRaku-Conference”.
+    - Uploads can be made at any time after releasing the RakuRaku-Conference (1/6). There is no deadline for uploads, and replacements can be made at any time.
+    - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
+    - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the conference platform.
+- Presenters shall bear full responsibility for any consequences arising from the content of their videos.
+    - Online video streaming constitutes public transmission under copyright law. Please take care to avoid copyright violations and defamation issues.
+    - When citing published works, always clearly indicate the source. If your presentation includes works owned by others, you must obtain permission from the copyright holder for streaming.
