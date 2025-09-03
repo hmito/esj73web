@@ -72,12 +72,12 @@ Please read the description of each session (links in the table below) and [Othe
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Thu. 31 Jul. 2025 23:59 (JST)</td>
+      <td><del>Thu. 31 Jul. 2025 23:59 (JST)</del></td>
       <td rowspan=7>Around Feb. 2026 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Fri. 29 Aug. 2025 23:59 (JST)</td>
+      <td><del>Fri. 29 Aug. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td>Forum</td>

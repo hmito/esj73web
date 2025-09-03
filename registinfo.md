@@ -72,12 +72,12 @@ remarks:
   <tbody>
     <tr class="odd">
       <td><a href = "opensession">公募セッション</a></td>
-      <td>2025年7月31日(木) 23:59</td>
+      <td><del>2025年7月31日(木) 23:59</del></td>
       <td rowspan=7>2026年2月頃を予定<br/>(変更の可能性あり)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo">ERシンポジウム</a></td>
-      <td>2025年8月29日(金) 23:59</td>
+      <td><del>2025年8月29日(金) 23:59</del></td>
     </tr>
     <tr class="odd">
       <td>フォーラム</td>
