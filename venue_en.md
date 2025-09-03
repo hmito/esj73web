@@ -64,8 +64,6 @@ The Karasuma Subway Line provides convenient access.
 - Take the Karasuma Subway Line bound for "Kokusaikaikan" and get off at "Kokusaikaikan Station."
 - Exit from Exit 4-2 and walk about 5 minutes.
 
-Depending on your accommodation, you may also use City Bus Routes 5, 31, 65, or Kyoto Bus Routes Toku-16 and Toku-17.
-
 You can also access Kyoto ICC by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
 
 ## Accommodation
