@@ -20,27 +20,23 @@ multi_language: true
 |Applicant|Open|Open|Applied by committees of ESJ|
 |Time|3 hours|1.5 hours|1.5 hours|
 |Presenters| On-site|On-site|On-site|
-|Online support|On-demand streaming|On-demand streaming (partly)|On-demand streaming (partly)|
+|[Online support](#online-support)|On-demand streaming|On-demand streaming |On-demand streaming|
 |Priority|Top priority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
-|Regular Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
-|Presentations in other sessions by organizers/speakers|Not allowed|Not allowed|Allowed|
 
 ### Symposium
 
 Symposium is the main session of the conference, and we call members to submit proposals for organizing. Conference participants look forward to symposia with fresh themes that have never been presented before.
 
 - Duration of the session is 180 minutes. Speakers are required to present on-site.
-- In principle, all presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference.
+- To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. Please see [here](#procedure-for-utilizing-invited-speaker-system-for-symposium) for procedures for invited lectures.
 - To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers and non-members through the Invited Speaker System.
-- To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
 
 ### Workshop
 
 Workshop is the session traditionally emphasized by the Ecological Society of Japan as a place to help launch new fields and to allow free discussion of various topics outside the framework of ecology.
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
-- If requested, the presentations will be recorded and streamed on-demand to conference participants during the congress or for about a month after the congress. However, in the case of a large number of requests for streaming, on-demand streaming may be selected in principle on a first-come, first-served basis.
 - It is also possible to hold the session without abstract submissions, such as statement of opinions or lightning talks. In this case, there is no need to register for abstract submissions.
 
 ### Forum
@@ -48,31 +44,32 @@ Workshop is the session traditionally emphasized by the Ecological Society of Ja
 Forum is organized by the committees of the Ecological Society of Japan to solicit the opinions of a wide range of members on issues related to the management of the Ecological Society of Japan and ecology that the Society is working on, to promote information sharing among members, and to build consensus within the Society through wide-ranging discussions.
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
-- If requested, the presentations will be recorded and streamed on-demand to conference participants during the congress or for about a month after the congress. However, in the case of a large number of requests for streaming, on-demand streaming may be selected in principle on a first-come, first-served basis.
 
 ## Online Support
 
 ### Online Presentations
 
-**Online presentations will not be accepted for presentation with abstract submission at this conference**. This is to avoid problems in advance because there are limitations on wifi network at the conference venue. We appreciate your understanding.
+**Online presentations will not be accepted for presentation with abstract submission at this conference**. This is to avoid problems in advance because there are limitations on channel capacity at the conference venue. We appreciate your understanding.
 
-If it is difficult to make a presentation onsite, **remote presentations using Zoom will be only accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session) and for forum presentations only. However, the connection to Zoom is strictly limited to organizer and presenter. Additionally, the conference organizing committee will not provide a Wi-Fi environment solely for the purpose of remote presentations. Please prepare the Wi-Fi environment at the organizer's responsibility.
+If it is difficult to make a presentation onsite, **remote presentations using Zoom will be only accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session). It is also possible to save such presentations to the on-demand streaming described below. **However, the connection to Zoom is strictly limited to organizer and presenter**. Although the conference organizing committee will not provide a Wi-Fi environment solely for the purpose of remote presentations, you may use Wi-fi provided at the conference venue (see [here](/about_en#wi-fi-connectivity) for detail). Alternatively, organizers may prepare their own Wi-Fi environment.
 
-### Streaming of Presentations
+### On-demand Streaming of Presentations
 
-All symposia and a part of workshops and forums will be recorded and made available on RakuRaku-Conference at a later date.
+All sessions at this conference—including symposia, workshops, and forums—will be recorded and made available later on the RakuRaku-Conference at a later date.
 
-In order to prevent problems with the recordings, all recording work will be handled by a contractor. Recording will only be done on the cameras set up by the contractor at the venue, so the venue's surroundings, speaker's face and audio will be recording. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
+In order to prevent problems with the recordings, all recording works will be handled by a contractor. Recording will only be done on the cameras set up by the contractor at the venue, so the venue's surroundings, speaker's face and audio will be recorded. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
 
 ## Organization of Symposium and Workshop
 
 ### How to organize Sessions
 
-- **Presentations must be made using the PCs brought in by organizers or speakers**. [the PCs set up at the venue](presentation_en#notice) are not allowed to be used.
-- For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](registinfo_en#presentation-eligibility-by-membership-type)).
+- For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#presentation-eligibility-by-membership-type)).
+    - For the specific procedures regarding the use of the invited speaker system, please refer to [here](#procedure-for-utilizing-invited-speaker-system-for-symposium).
 - The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. In this conference, the combination of Workshop and Regular presentation also cannot be duplicated (see [Overlap restrictions](registinfo_en#overlap-restrictions)).
 - Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.
     - **Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them**.
+    - Symposia and oral presentations can be held during the same time slot. Presentations without abstract submission will not be rescheduled even if they overlap with your assigned oral presentation time slot.
+    - Due to the diverse formats of workshops, they will be scheduled during time slots that do not overlap with symposia and oral presentations.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
 - From the viewpoint of respecting diversity, organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers.
 - In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the conference platform.
@@ -93,7 +90,7 @@ You can apply for the sessions at the following pages.
     - Membership number of speakers (login ID for invited speakers)
 - Please access the application site and enter the session title, session abstract (maximum 400 words for English), and information on each presentation.
     - Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
-    - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on demand, and whether or not you would like to stream each of the presentation on demand.
+    - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on-demand, and whether or not you would like to stream each of the presentation on-demand.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
 - The conference committee will not be involved in the content of the session, but those that are deemed to contain the contents that defames or slanders individuals or groups may not be adopted.
 - Please also read [Other Notes](registinfo_en#other-notes) before applying.
@@ -108,7 +105,7 @@ You can apply for the sessions at the following pages.
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
-- Please complete the [conference registration procedures](registinfo_en#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
+- Please complete the [conference registration procedures](/registinfo_en#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
 - Please also see [Other Notes](registinfo_en#other-notes).
 
 ## Proposal of Forum
@@ -118,3 +115,14 @@ You can apply for the sessions at the following pages.
 - For Forums that are adopted, please submit the full proposal through the conference application website.
 - Organization and presentations in Forums are not subject to the [ restrictions on multiple presentations](/registinfo_en#restrictions-on-multiple-presentations).
 - If non-member speakers are invited to a Forum, they may participate in that Forum free of charge. Free participation in other programs, such as Symposia and Regular Presentations, is not permitted; if they wish to attend these, they must pay the conference registration fee.
+
+## Procedure for Utilizing Invited Speaker System for Symposium
+
+To promote collaboration with other fields, we welcome invited lectures from non-members of the Ecological Society. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. To utilize this system, please ask the invited speakers to follow the procedures outlined below.
+
+- Please access [the conference application site](https://iap-jp.org/esj/conf/login_en.php).
+- Please proceed as follows: Non-members/High school students ⇒ New Registration (for those without a login ID).
+- Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (Symposium Speaker - General) [Presentation Permitted at Symposium Only]’ or ‘Non-Member (Symposium Speaker - Student) [Presentation Permitted at Symposium Only]’ and complete your registration.
+<!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも--->
+
+By applying through the above procedure, one can register as an invited speaker without conference registration fee.
