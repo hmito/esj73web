@@ -200,6 +200,7 @@ The detailed timetable will be released around the beginning of January. Please 
 </table>
 
 ## Fees and Registrations
+
 Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](registinfo_en).
 
 ||Early bird<br/>Until Feb 17| Normal price<br/>After Feb 18|
@@ -216,6 +217,14 @@ The Mixer will be held on the evening of March 14 at the Kyoto International Con
 - No advance registration is required.
 - Please note that the conference will not provide free food or drinks.
 - Further details will be announced in due course.
+
+## Wi-Fi connectivity
+Free Wi-Fi is available at both venues.
+
+- **Yoshida-South Campus, Kyoto University:** [eduroam](https://www.eduroam.jp/en) is generally available throughout the venue. Participants with an eduroam account may use this service.
+- **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \([ICCK_Public_WiFi](https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\) is available throughout the venue. Please note that each connection session is limited to 60 minutes.
+
+*Note that this information is provided for reference regarding venue facilities only. The conference organizers cannot guarantee the quality or availability of the wireless network at the venues and will not provide any support for Wi-Fi connectivity. We kindly ask for your understanding that inquiries regarding Wi-Fi cannot be accommodated.*
 
 ## Support for Participants
 
