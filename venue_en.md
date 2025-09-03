@@ -57,7 +57,7 @@ The Keihan Railway is convenient for access from the Kamogawa area and Fushimi.
 - Take the Keihan Main Line bound for "Demachiyanagi" and get off at "Demachiyanagi Station."
 - Exit from Exit 7 and walk about 15 minutes.
 
-### March 14-15: Access to Kyoto International Conference Center
+### March 14-15: Access to Kyoto ICC
 
 The Karasuma Subway Line provides convenient access.
 
@@ -65,6 +65,8 @@ The Karasuma Subway Line provides convenient access.
 - Exit from Exit 4-2 and walk about 5 minutes.
 
 Depending on your accommodation, you may also use City Bus Routes 5, 31, 65, or Kyoto Bus Routes Toku-16 and Toku-17.
+
+You can also access Kyoto ICC by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
 
 ## Accommodation
 
