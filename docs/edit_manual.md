@@ -207,6 +207,7 @@ remarks:
 - **正会員 (一般・学生)**: regular/student members
 - **名誉会員**: emeritus members
 - **賛助会員**: supporting members
+- **セルフ・オンデマンド配信**: Self On-Demand Streaming
 
 ### 4. ホームページ全体での情報の一貫性のチェック
 
