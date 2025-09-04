@@ -93,7 +93,7 @@ You can apply for the sessions at the following pages.
 - Organizers will register all presentation together. Please collect the following informations before submitting.
     - Title (no more than 150 characters)
     - Name and affiliation of speakers/co-presenters
-    - Membership number of speakers (login ID for invited speakers)
+    - Membership number of speakers (login ID for symposium invited speakers)
 - Please access the application site and enter the session title, session abstract (maximum 400 words for English), and information on each presentation.
     - Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
     - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on-demand, and whether or not you would like to stream each of the presentation on-demand.
@@ -104,9 +104,9 @@ You can apply for the sessions at the following pages.
 
 ### For Speakers
 
-- Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
+- Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of symposium invited  speakers.
     - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 17st Feb. 2026 23:59 (JST), by referring to [this page](/registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
-- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
+- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
@@ -133,6 +133,7 @@ To apply for the program, please ask the invited speakers to follow the procedur
 1. Please proceed as follows: Non-members ⇒ Create a new ID.
 1. Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
 1. Please fill in the required information in the other fields and complete the registration procedure.
+1. Please inform the organizer of your ID on the application site.
 <!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも ⇒ チェックして文言を修正済み--->
 
 By applying through the above procedure, one can register as an invited speaker without conference registration fee.
