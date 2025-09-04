@@ -87,9 +87,9 @@ You can freely cancel your presentation on the webpage before the deadline for r
 
 Please contact us from the [inquiry form](contact_en). You can cancel your registration free of charge until 21st Feb. 2025.
 
-### I would like to give a presentation at the symposium. Can I also apply for the oral or poster presentation to have a presentation in case my proposal for the symposium is not accepted?
+### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 
-Please don't apply for symposium and oral/poster presentation together. In case your proposal is not accepted, alternative measures such as transferring for the workshop or oral/poster presentation will be provided.
+Please avoid submitting duplicate applications for both a symposium/workshops (talks with abstract registration) and a general presentation. If your session is not accepted, alternative measures such as changing the session type or transferring your application to a general presentation will be provided.
 
 ## Abstracts
 

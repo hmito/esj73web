@@ -96,6 +96,7 @@ You can apply for the sessions at the following pages.
     - Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
     - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on-demand, and whether or not you would like to stream each of the presentation on-demand.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
+    - In the case that your proposal is not accepted in the lottery, [alternative measures](/faq_en#i-would-like-to-give-a-presentation-in-a-symposium-or-workshop-but-can-i-also-apply-for-a-general-presentation-in-case-my-session-is-not-accepted) will be provided. Please refrain from submitting duplicate applications for Regular Presentations as a backup in case your session proposal is not accepted.
 - The conference committee will not be involved in the content of the session, but those that are deemed to contain the contents that defames or slanders individuals or groups may not be adopted.
 - Please also read [Other Notes](registinfo_en#other-notes) before applying.
 
