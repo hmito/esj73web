@@ -127,7 +127,7 @@ You can apply for the sessions at the following pages.
 
 To promote collaboration with other fields, we welcome invited speakers from non-members of the Ecological Society of Japan. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
 
-To utilize this system, please ask the invited speakers to follow the procedures outlined below.
+To apply for the program, please ask the invited speakers to follow the procedures outlined below.
 
 1. Please access [the conference application site](https://iap-jp.org/esj/conf/login_en.php).
 1. Please proceed as follows: Non-members ⇒ Create a new ID.
