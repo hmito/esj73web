@@ -16,15 +16,15 @@ multi_language: true
 ### **『Species responses to climate change in terrestrial and aquatic ecosystems』(仮タイトル)**
 
 【提案者】
-森本淳子・石山信雄・崎山智樹（北海道大学）
+＝==WIP=== <!--森本淳子・石山信雄・崎山智樹（北海道大学）-->
 
 【ER招待講演者】
-<!--- 写真及びプロフィールは後ほど追加する--->
-![](/media/...)
 
-**Jonathan Lenoir** (University of Picardy Jules Verne, France)
+==WIP:Photo=== <!-- ![](/media/...) -->
 
-プロフィール・・・
+==WIP:Name and Affi=== <!--**Jonathan Lenoir** (University of Picardy Jules Verne, France)-->
+
+==WIP:Profile=== <!--プロフィール・・・-->
 
 ---
 
