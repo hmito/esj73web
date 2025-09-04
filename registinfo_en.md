@@ -18,7 +18,7 @@ Important deadlines are as follows.
 ||**Thursday, 31st Oct. 2025<br/>23:59 (JST)**|**Friday, 17th Tue. 2026 <br/>13:00 (JST)**|**Friday, 17th Tue. 2026 <br/>23:59 (JST)**|**After 18th Feb. 2026**|
 |:---:|---|---|---|---|
 |[**Procedures for participation in the conference**](#registration-for-participation)||Early bird registration<br/>　Regular：17000 JPY<br/>　Student：8500 JPY||Normal price registration<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
-|[**Procedures for Presentations**](#deadlines-for-presentations-and-proposals)|Deadline for Proposals||Deadline for Abstract Submission||
+|[**Procedures for Presentations and Sessions**](#application-for-presentations-and-sessions)|Deadline for Proposals||Deadline for Abstract Submission||
 |[**Non-members joining the ESJ for presentations**](#procedure-for-new-membership-to-the-ecological-society-of-japan)|Deadline for new members to join the ESJ||Deadline for payment of membership fee||
 
 - Invited speakers at symposia, and undergraduate or below who is not organizer and speaker can participate without registration fee.
@@ -51,7 +51,7 @@ You can register for the conference participation at the below link.
     - If none of the above apply, please pay the registration fee.
 - Please also read [Other Notes](#other-notes) when registering.
 
-## Deadlines for Presentations and Proposals
+## Application for Presentations and Sessions
 
 You can apply for Regular Presentations, Symposia, and Workshops at the Application site.
 Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
@@ -73,7 +73,7 @@ Please read the description of each session (links in the table below) and [Othe
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
       <td><del>Thu. 31 Jul. 2025 23:59 (JST)</del></td>
-      <td rowspan=7>Around Feb. 2026 (tentative)</td>
+      <td rowspan=7>17th Feb. 2026</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
