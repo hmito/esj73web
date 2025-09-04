@@ -109,7 +109,7 @@ You can apply for the sessions at the following pages.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
-- Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
+- Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2026 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](/registinfo_en#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
 - Please also see [Other Notes](/registinfo_en#other-notes).
 

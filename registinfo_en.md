@@ -180,7 +180,7 @@ The conference does not accept revisions based on errata after the presentation 
 
 ### Cancellation Policy
 
-If a cancellation request is received before the refund deadline for each event (17th Feb. 2025 for this year's event), a refund will be made, excluding bank transfer fees and other expenses. In principle, no refunds will be made after the refund deadline has passed.
+If a cancellation request is received before the refund deadline for each event (17th Feb. 2026 for this year's event), a refund will be made, excluding bank transfer fees and other expenses. In principle, no refunds will be made after the refund deadline has passed.
 
 ### Handling of Research Achievements in the Event of Disasters
 
