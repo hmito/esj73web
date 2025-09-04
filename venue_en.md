@@ -26,6 +26,7 @@ City buses departing from Shijo Street and Kyoto Station are often extremely cro
 The Karasuma Subway Line runs north-south from Kyoto Station and also provides direct access to the Kyoto International Conference Center. For Kyoto Univ. Yoshida South Campus:
 
 - Take the Karasuma Subway Line and get off at "Imadegawa Station."
+    - From Kyoto Station or the Shijo area, take the train bound for "Kokusaikaikan."
 - Exit from the south ticket gate via Exit 3, and walk 30 meters to the eastbound "Karasuma Imadegawa" bus stop.
 - Use one of the following buses, each operating approximately every 10 minutes:
     - City Bus Route 201 bound for "Hyakumanben/Gion": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
@@ -36,6 +37,8 @@ The Karasuma Subway Line runs north-south from Kyoto Station and also provides d
 The Tozai Subway Line is convenient for access from the Nijo and Yamashina areas. You can transfer from the JR Line at Yamashina Station.
 
 - Take the Tozai Subway Line and get off at "Higashiyama Station."
+    - From the Yamashina area, take the train bound for "Uzumasa Tenjingawa."
+    - From the Nijo or Karasuma area, take the train bound for "Rokujizo" or "Biwako-Hamaotsu."
 - Exit from Exit 2, walk 80 meters to the left to the northbound "Higashiyama Sanjo" bus stop, located diagonally across the "Higashiyama Sanjo" intersection.
 - Use one of the following buses, each operating approximately every 10 minutes:
     - City Bus Route 201 bound for "Hyakumanben/Senbon Imadegawa": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
@@ -48,7 +51,7 @@ The [Hoop Bus](https://hoopbus.jp) connecting Kyoto Station Hachijo-guchi and Ky
 - Board the Hoop Bus and ride for approximately 30 minutes. Get off at "Kyoto University-mae," then walk about 5 minutes.
     - The boarding location at Kyoto Station is the [Hachijo Exit](https://hoopbus.jp/place/) on the south side.
     - Buses run every 15 minutes in the morning and every 30 minutes during the day.
-    - Please note that the route is one-way; take care when boarding from locations other than Kyoto Station or Kawaramachi Oike.
+    - One-way circular route; take care when boarding from locations other than Kyoto Station or Kawaramachi Oike.
 
 #### 4. Keihan Railway (IC cards accepted)
 
