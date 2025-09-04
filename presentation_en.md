@@ -14,7 +14,7 @@ Please note that only currently available information regarding the presentation
 - All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
 - A Speaker Ready Room will be provided for uploading presentations. You will need to upload your presentation files, such as PowerPoint, yourself at the venue.
     - Details will be updated around January.
-- If you wish, you can use the [Self-on-demand](#self-on-demand) to record your presentation in advance and stream it on the conference platform.
+- If you wish, you can use the [Self On-Demand Streaming](#self-on-demand-streaming) to record your presentation in advance and stream it on the conference platform.
 
 ## Sessions
 
@@ -22,17 +22,17 @@ Please note that only currently available information regarding the presentation
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
 - At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc.
 - If the organizer requests it, the presentation will be recorded by a contractor.
-    - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self-On-Demand Streaming](#self-on-demand) prepared for oral presentations is not available.
+    - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#self-on-demand-streaming) prepared for oral presentations is not available.
     - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording. Please note that for Q&A and panel discussions, only content spoken through the microphone can be recorded.
 
-## Self-On-Demand
+## Self On-Demand Streaming
 
-At this conference, all oral presenters will utilize “self-on-demand streaming,” where they record their own presentations and stream them on the conference platform.
+At this conference, all oral presenters will utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
 
 - It covers all oral presentations.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
-- The use of self-on-demand streaming is **optional**. It is not mandatory for presentations.
-    - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use self-on-demand streaming**.
+- The use of Self On-Demand Streaming is **optional**. It is not mandatory for presentations.
+    - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use Self On-Demand Streaming**.
 - You may only upload one video containing content equivalent to the presentation given on the day.
     - Format is MP4 only, with a maximum size of approximately 2GB.
     - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.

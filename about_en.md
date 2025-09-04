@@ -28,14 +28,14 @@ March 14 - 15: [Kyoto International Conference Center (ICC Kyoto, 国立京都�
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
     - Online presentations will involve uploading files in advance, allowing participants to freely view them during the meeting period. No core time will be scheduled.
     - Core time will be scheduled for onsite poster presenters.
-- On-demand streaming will be available on the conference platform.
+- On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
-    - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["self on-demand streaming"](/presentation_en#self-on-demand-streaming).
+    - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["Self On-Demand Streaming"](/presentation_en#self-on-demand-streaming).
     - Poster presentations: All posters will be published online, and presenters may also upload explanatory videos they have recorded themselves.
 
 The availability of online participation is as follows:
 
-||On-demand Streaming|
+||On-Demand Streaming|
 |---|:---|
 |Award Lectures|◎|
 |General Meeting|◎|
@@ -44,8 +44,8 @@ The availability of online participation is as follows:
 |Oral Presentations, English Oral Presentations|○\*|
 |Junior Ecology Course, Public Lecture|◎|
 
-◎: On-demand streaming recorded by the organizers  
-○: Self on-demand streaming recorded by presenters
+◎: On-Demand Streaming recorded by the organizers  
+○: Self On-Demand Streaming recorded by presenters
 
 \* Streaming is available only if desired by the session organizers or presenters.
 
@@ -256,4 +256,4 @@ Participants must not discriminate against individuals based on attributes such 
 Participants must not engage in any form of harassment, including actions that harm the activities or careers of others, cause discomfort to individuals or groups, or encourage such behavior.
 
 3. **Prohibition of Unauthorized Photography and Recording**  
-Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.
+Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-Demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.

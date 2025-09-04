@@ -20,7 +20,7 @@ multi_language: true
 |Applicant|Open|Open|Applied by committees of ESJ|
 |Time|3 hours|1.5 hours|1.5 hours|
 |Presenters| On-site|On-site|On-site|
-|[Online support](#online-support)|On-demand streaming|On-demand streaming |On-demand streaming|
+|[Online support](#online-support)|On-Demand Streaming|On-Demand Streaming |On-Demand Streaming|
 |Priority|Top priority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
 
@@ -53,7 +53,7 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 If it is difficult to make a presentation onsite, **remote presentations using Zoom will be only accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session). It is also possible to save such presentations to the on-demand streaming described below. **However, the connection to Zoom is strictly limited to organizer and presenter**. Although the conference organizing committee will not provide a Wi-Fi environment solely for the purpose of remote presentations, you may use Wi-fi provided at the conference venue (see [here](/about_en#wi-fi-connectivity) for detail). Alternatively, organizers may prepare their own Wi-Fi environment.
 
-### On-demand Streaming of Presentations
+### On-Demand Streaming of Presentations
 
 All sessions at this conference—including symposia, workshops, and forums—will be recorded and made available later on the RakuRaku-Conference at a later date.
 
