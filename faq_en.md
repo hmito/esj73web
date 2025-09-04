@@ -47,7 +47,7 @@ Participants who attend only workshops must also apply for conference registrati
 
 ### Is it possible to pay the participation fee using public funds from my institution (such as invoice payment)?
 
-Yes, it is possible. If you wish to pay by invoice, please first register for participation through the system. Select "Postal Transfer" as the payment method. Payment must be made in advance. After completing your registration, please contact us via the [inquiry page](contact).
+Yes, it is possible. If you wish to pay by invoice, please first register for participation through the system. Select "Postal Transfer" as the payment method. Payment must be made in advance. After completing your registration, please contact us via the [inquiry page](/contact_en).
 
 ### Will a receipt be issued for the participation fee?
 
@@ -69,7 +69,7 @@ Under no circumstances will the deadline be extended. For details, please refer 
 
 ### I lost my membership ID/login ID
 
-If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact us from the [inquiry form](contact_en).
+If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact us from the [inquiry form](/contact_en).
 
 ### If I am attending only as an audience and not giving a presentation, by when should I apply?
 
@@ -81,11 +81,11 @@ You can freely cancel or change your submitted information on the webpage before
 
 ### I want to cancel my presentation. How should I do this?
 
-You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
+You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
 
 ### I want to cancel my attendance. How should I do this?
 
-Please contact us from the [inquiry form](contact_en). You can cancel your registration free of charge until 21st Feb. 2025.
+Please contact us from the [inquiry form](/contact_en). You can cancel your registration free of charge until 21st Feb. 2025.
 
 ### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 

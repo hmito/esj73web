@@ -203,7 +203,7 @@ For application, please see [**here**](/registinfo_en).
 
 ## Fees and Registrations
 
-Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](registinfo_en).
+Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](/registinfo_en).
 
 ||Early bird<br/>Until Feb 17| Normal price<br/>After Feb 18|
 |---|---|---|
@@ -230,7 +230,7 @@ Free Wi-Fi is available at both venues. Please note that the quality or availabi
 
 ## Support for Participants
 
-ESJ73 will have a [Childcare Room](childcare_en#child-care) at the venue. We also plan to set up a [Family Lounge](childcare_en#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](childcare_en) page for details.
+ESJ73 will have a [Childcare Room](/childcare_en#child-care) at the venue. We also plan to set up a [Family Lounge](/childcare_en#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](/childcare_en) page for details.
 
 ## Promoting Diversity at the Meeting
 

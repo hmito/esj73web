@@ -7,7 +7,7 @@ multi_language: true
 
 # Childcare support
 
-[Child care](childcare_en#Child_Care) and [family lounge](childcare_en#Family_Lounge) will be available at the ESJ73 meeting.
+[Child care](#Child_Care) and [family lounge](#Family_Lounge) will be available at the ESJ73 meeting.
 
 ## Child Care
 

@@ -8,10 +8,10 @@ multi_language: true
 
 ## Important notice
 - **The timetable is currently being organized. The final timetable will be available after the end of December.**
-	- 11.13 Tentative [schedule of sessions](about_en_en#Schedule), which were supposed to be held according to the number of applications, has been posted.
-- **[Participation in the conference](registinfo_en#registration-for-participation) is now open for registration.**
+	- 11.13 Tentative [schedule of sessions](/about_en_en#Schedule), which were supposed to be held according to the number of applications, has been posted.
+- **[Participation in the conference](/registinfo_en#registration-for-participation) is now open for registration.**
 	- Note that registration will not be available from 1st Dec. 2024 to 5th Jan. 2025 due to the system transition.
-- **[The selected open sessions and ER symposium](session_en) are available.**
+- **[The selected open sessions and ER symposium](/session_en) are available.**
 
 ### Upcoming Schedule
 

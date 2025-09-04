@@ -13,7 +13,7 @@ Regular presentations include oral and poster sessions.
 
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available.
-- All presentations must be made using [the PCs provided at the venue](presentation_en#notice). You are not allowed to present using your own PC.
+- All presentations must be made using [the PCs provided at the venue](/presentation_en#notice). You are not allowed to present using your own PC.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
 - Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award will be discontinued at ESJ73](/registinfo_en#notice-on-the-discontinuation-of-the-english-presentation-award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
 
@@ -80,7 +80,7 @@ To encourage researchers in the early stages of their careers, poster awards wil
 Student members who have not obtained a Ph.D. (as of the  deadline for regular presentations) are eligible to apply. Please select "Apply for Poster Award" when you apply for a presentation.
 
 - However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan (including joint meetings with other societies such as EAFES) are not eligible to apply, even if they meet the above requirements. 
-- Speakers who requested “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" in the [Open session](sessions#open-session) as their presentation field are also not eligible to apply for the Poster Award.
+- Speakers who requested “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" in the [Open session](/sessions_en#open-session) as their presentation field are also not eligible to apply for the Poster Award.
 
 ### Evaluation Criteria
 

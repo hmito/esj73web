@@ -34,7 +34,7 @@ The journal Ecological Research supports the travel expenses of ER invited speak
 
 ## Open Session
 
-The following three themes were selected for this year's [Open Sessions](opensession_en) (symposium that involve the addition of new presentation categories).
+The following three themes were selected for this year's [Open Sessions](/opensession_en) (symposium that involve the addition of new presentation categories).
 
 ---
 

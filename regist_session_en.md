@@ -8,7 +8,7 @@ multi_language: true
 # Proposal for sessions
 
 - There are three types of sessions: [Symposia](#symposium), [Workshops](#workshop),and [Forums](#forum).
-    - Symposium category includes the regular symposium as well as two special types: the [Open Session](opensession_en), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](ersympo_en), where travel grants and free admission to the conference are available for inviting international researchers.
+    - Symposium category includes the regular symposium as well as two special types: the [Open Session](/opensession_en), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](/ersympo_en), where travel grants and free admission to the conference are available for inviting international researchers.
 - At all sessions, [speakers will be asked to present on-site](#online-support).
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
 
@@ -98,12 +98,12 @@ You can apply for the sessions at the following pages.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
     - In the case that your proposal is not accepted in the lottery, [alternative measures](/faq_en#i-would-like-to-give-a-presentation-in-a-symposium-or-workshop-but-can-i-also-apply-for-a-general-presentation-in-case-my-session-is-not-accepted) will be provided. Please refrain from submitting duplicate applications for Regular Presentations as a backup in case your session proposal is not accepted.
 - The conference committee will not be involved in the content of the session, but those that are deemed to contain the contents that defames or slanders individuals or groups may not be adopted.
-- Please also read [Other Notes](registinfo_en#other-notes) before applying.
+- Please also read [Other Notes](/registinfo_en#other-notes) before applying.
 
 ### For Speakers
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
-    - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 20st Feb. 2026 23:59 (JST), by referring to [this page](registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
+    - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 20st Feb. 2026 23:59 (JST), by referring to [this page](/registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
 - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
@@ -111,7 +111,7 @@ You can apply for the sessions at the following pages.
     - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](/registinfo_en#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
-- Please also see [Other Notes](registinfo_en#other-notes).
+- Please also see [Other Notes](/registinfo_en#other-notes).
 
 ## Proposal of Forum
 

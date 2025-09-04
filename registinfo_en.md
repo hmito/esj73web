@@ -9,7 +9,7 @@ remarks:
 
 # Registration
 
-Applications for [Regular Presentations](regist_oral_poster_en), [Symposia](regist_session_en#symposium), and [Workshops](regist_session_en#workshop) are accepted until 31st Oct. 2024 (JST). Please check the details in below and register from the application site.
+Applications for [Regular Presentations](/regist_oral_poster_en), [Symposia](/regist_session_en#symposium), and [Workshops](/regist_session_en#workshop) are accepted until 31st Oct. 2024 (JST). Please check the details in below and register from the application site.
 
 **[[Go to the Applications site]](https://iap-jp.org/esj/conf/login_en.php)**
 
