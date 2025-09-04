@@ -118,11 +118,12 @@ You can apply for the sessions at the following pages.
 
 ## Procedure for Utilizing Invited Speaker System for Symposium
 
-To promote collaboration with other fields, we welcome invited lectures from non-members of the Ecological Society. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. To utilize this system, please ask the invited speakers to follow the procedures outlined below.
+To promote collaboration with other fields, we welcome invited speakers from non-members of the Ecological Society of Japan. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. To utilize this system, please ask the invited speakers to follow the procedures outlined below.
 
 - Please access [the conference application site](https://iap-jp.org/esj/conf/login_en.php).
-- Please proceed as follows: Non-members/High school students ⇒ New Registration (for those without a login ID).
-- Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (Symposium Speaker - General) [Presentation Permitted at Symposium Only]’ or ‘Non-Member (Symposium Speaker - Student) [Presentation Permitted at Symposium Only]’ and complete your registration.
-<!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも--->
+- Please proceed as follows: Non-members ⇒ Create a new ID.
+- Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
+- Please fill in the required information in the other fields and complete the registration procedure.
+<!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも ⇒ チェックして文言を修正済み--->
 
 By applying through the above procedure, one can register as an invited speaker without conference registration fee.
