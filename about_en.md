@@ -53,6 +53,8 @@ The availability of online participation is as follows:
 
 The detailed timetable will be released around the beginning of January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
 
+For application, please see [**here**](/registinfo_en).
+
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -95,7 +97,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2>Mixer</td>
+<td colspan=2><a href="#mixer">Mixer</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -104,7 +106,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/sessions#er-symposia">ER Symposia</a></td>
+<td colspan=2><a href="/sessions_en#er-symposia">ER Symposia</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,7 +115,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/sessions#open-session">Open Sessions</a>, Symposia</td>
+<td colspan=2><a href="/sessions_en#open-session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -122,7 +124,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Workshops</td>
+<td colspan=2><a href="/regist_session_en">Workshops</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -131,7 +133,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2>Forums</td>
+<td colspan=2><a href="/regist_session_en">Forums</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -140,7 +142,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>Oral sessions (in JP/EN)</td>
+<td colspan=2><a href="/regist_oralposter_en">Oral sessions</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -149,12 +151,12 @@ The detailed timetable will be released around the beginning of January. Please 
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan=2>Poster sessions</td>
+<td rowspan=2><a href="/regist_oralposter_en">Poster sessions</a></td>
 <td>Online</td>
 <td>○</td>
 <td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
 </tr>
-<tr class="even">
+    <tr class="even">
 <td>Onsite</td>
 <td></td>
 <td></td>
@@ -164,7 +166,7 @@ The detailed timetable will be released around the beginning of January. Please 
 <td>○</td>
 </tr>
 <tr class="odd">
-<td rowspan=2>Junior Poster</td>
+<td rowspan=2><a href="/juniorposter">Junior Poster</a></td>
 <td>Online</td>
 <td>○</td>
 <td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
@@ -211,14 +213,14 @@ Participation fees are as follows. For more information on how to apply for part
 
 ## Mixer
 
+The Mixer will be held on the evening of March 14 at the Kyoto International Conference Center (ICC Kyoto). Instead of the traditional buffet-style party, we’re bringing in food trucks for a fun, casual gathering! Feel free to purchase your favorite food and drinks from the trucks, or bring your own—everyone is welcome to join in and enjoy the festivities.
 
-The Mixer will be held on the evening of March 14 at the Kyoto International Conference Center (ICC Kyoto). Food trucks will be available on-site, and participants may purchase food and drinks at their own expense. You are also welcome to bring your own food and beverages. We encourage all participants to join and enjoy the event.
-
-- No advance registration is required.
-- Please note that the conference will not provide free food or drinks.
-- Further details will be announced in due course.
+- No advance registration is required—just come and join the fun!
+- Please note that the conference will not provide food or drinks. You can buy from the food trucks or bring your own.
+- More details will be announced soon.
 
 ## Wi-Fi connectivity
+
 Free Wi-Fi is available at both venues.
 
 - **Yoshida-South Campus, Kyoto University:** [eduroam](https://www.eduroam.jp/en) is generally available throughout the venue. Participants with an eduroam account may use this service.

@@ -23,7 +23,7 @@ City buses departing from Shijo Street and Kyoto Station are often extremely cro
 
 #### 1. Karasuma Subway Line + City Bus
 
-The Karasuma Subway Line runs north-south from Kyoto Station and also provides direct access to the Kyoto International Conference Center. For Kyoto Univ. Yoshida South Campus:
+The area along the Karasuma Subway Line, which runs north-south from Kyoto Station, offers convenient access to both venues and is highly recommended. The most convenient route is to take the Karasuma Subway Line to Imadegawa Station and transfer to a city bus.
 
 - Take the Karasuma Subway Line and get off at "Imadegawa Station."
     - From Kyoto Station or the Shijo area, take the train bound for "Kokusaikaikan."
@@ -32,9 +32,25 @@ The Karasuma Subway Line runs north-south from Kyoto Station and also provides d
     - City Bus Route 201 bound for "Hyakumanben/Gion": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 203 bound for "Ginkakuji/Kinrin-shako": Get off at "Hyakumanben," then walk about 10 minutes.
 
-#### 2. Tozai Subway Line + City Bus
+#### 2. Keihan Railway (IC cards accepted)
 
-The Tozai Subway Line is convenient for access from the Nijo and Yamashina areas. You can transfer from the JR Line at Yamashina Station.
+From the Kamogawa area and Fushimi area, Keihan Railway is convenient.
+
+- Take the Keihan Main Line bound for "Demachiyanagi" and get off at "Demachiyanagi Station."
+- Exit from Exit 7 and walk about 15 minutes.
+
+#### 3. Hoop Bus (IC cards and cashless payment accepted)
+
+From Kyoto Station, [Hoop Bus](https://hoopbus.jp) connecting Kyoto Station Hachijo-guchi and Kyoto University Hospital is a convenient and less crowded option.
+
+- Board the Hoop Bus and ride for approximately 30 minutes. Get off at "Kyoto University-mae," then walk about 5 minutes.
+    - The boarding location at Kyoto Station is the [Hachijo Exit](https://hoopbus.jp/place/) on the south side.
+    - Buses run every 15 minutes in the morning and every 30 minutes during the day.
+    - One-way circular route; take care when boarding from locations other than Kyoto Station or Kawaramachi Oike.
+
+#### 4. Tozai Subway Line + City Bus
+
+From Nijo and Yamashina areas, the Tozai Subway Line is the best choice. You can transfer from the JR Line at Yamashina Station.
 
 - Take the Tozai Subway Line and get off at "Higashiyama Station."
     - From the Yamashina area, take the train bound for "Uzumasa Tenjingawa."
@@ -43,22 +59,6 @@ The Tozai Subway Line is convenient for access from the Nijo and Yamashina areas
 - Use one of the following buses, each operating approximately every 10 minutes:
     - City Bus Route 201 bound for "Hyakumanben/Senbon Imadegawa": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 206 bound for "Takano/Kitaoji Bus Terminal": Get off at "Kyodai Seimon-mae," then walk about 10 minutes.
-
-#### 3. Hoop Bus (IC cards and cashless payment accepted)
-
-The [Hoop Bus](https://hoopbus.jp) connecting Kyoto Station Hachijo-guchi and Kyoto University Hospital is a convenient and less crowded option.
-
-- Board the Hoop Bus and ride for approximately 30 minutes. Get off at "Kyoto University-mae," then walk about 5 minutes.
-    - The boarding location at Kyoto Station is the [Hachijo Exit](https://hoopbus.jp/place/) on the south side.
-    - Buses run every 15 minutes in the morning and every 30 minutes during the day.
-    - One-way circular route; take care when boarding from locations other than Kyoto Station or Kawaramachi Oike.
-
-#### 4. Keihan Railway (IC cards accepted)
-
-The Keihan Railway is convenient for access from the Kamogawa area and Fushimi.
-
-- Take the Keihan Main Line bound for "Demachiyanagi" and get off at "Demachiyanagi Station."
-- Exit from Exit 7 and walk about 15 minutes.
 
 ### March 14-15: Access to Kyoto ICC
 
