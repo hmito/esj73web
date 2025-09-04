@@ -51,19 +51,21 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 **Online presentations will not be accepted for presentations with abstract submission at this conference.**
 
-If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for presentations that do not require abstract submission**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. **However, connection to Zoom is strictly limited to organizers and presenters.**
+**Online presentations will not be accepted for presentations with abstract submission** at this conference, except in cases where reasonable accommodation is required.
 
-The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#wi-fi-connectivity).
+If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for presentations that do not require abstract submission**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will [not provide a Wi-Fi environment for sessions](/presentation_en#sessions), so session organizers are required to prepare their own Wi-Fi if needed.
 
 ### On-Demand Streaming of Presentations
 
 All sessions at this conference—including symposia, workshops, and forums—will be recorded and made available later on the RakuRaku-Conference at a later date.
 
-In order to prevent problems with the recordings, all recording works will be handled by a contractor. Recording will only be done on the cameras set up by the contractor at the venue, so the venue's surroundings, speaker's face and audio will be recorded. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
+In order to prevent problems with the recordings, all recording works will be handled by a contractor. Organizers cannot perform the recording.
 
 ## Organization of Symposium and Workshop
 
 ### How to organize Sessions
+
+The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#sessions) page for **notes regarding the venue facilities and recording**.
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#presentation-eligibility-by-membership-type)).
     - For information on how to use the symposium invited speaker program, please refer to [**here**](#symposium-invited-speaker-program).
