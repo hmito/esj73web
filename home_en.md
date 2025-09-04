@@ -26,13 +26,16 @@ The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be he
 **Venue: Two locations - [Yoshida-South Campus, Kyoto University](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6)\(11th-13th\) and [Kyoto International Conference Center (ICC Kyoto)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7)\(14th-15th\)**
 
 For more details about the meeting, please see [here](/about_en).
+All oral presentations and sessions at this conference will be held [on-site](/about_en#format). Poster presentations will be conducted online, but those who wish may also present on-site.
 
-All presentations at this meeting are planned to be held onsite. We are also working to enhance online contents, such as "self on-demand streaming" where organizers and speakers can upload recorded videos of the presentation at the meeting themselves.
-
-Details of the meeting will be posted on this website as they are decided.
+Conference events, symposia, and workshops will be recorded by professional staff and made available via [On-Demand streaming](/about_en#format). For oral presentations, presenters may record and upload their own videos for distribution through the [“Self On-Demand Streaming”](/presentation_en#self-on-demand-streaming) system. We encourage you to take advantage of this opportunity.
 
 ## Update history
 
+- 2025.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
+- 2025.09.30: Basic meeting information, access to the venue, and childcare support have been posted.
+- 2025.09.30: Guidelines for presenters and frequently asked questions have been posted.
+- 2025.09.30: Information on the Ecocup (futsal event) and the Junior Ecology Course has been posted (Japanese version articles only).
 - 2025.08.29: The call for ER Symposia has closed.
 - 2025.07.31: The call for Open Sessions has closed.
 - 2025.07.01: The call for Open Sessions and ER Symposia has started.
