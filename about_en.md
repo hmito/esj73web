@@ -37,15 +37,15 @@ The availability of online participation is as follows:
 
 ||On-Demand Streaming|
 |---|:---|
-|Award Lectures|◎|
-|General Meeting|◎|
-|Symposia, ER Symposia, Open Sessions|◎\*|
-|Workshops, Forums|◎\*|
-|Oral Presentations, English Oral Presentations|○\*|
-|Junior Ecology Course, Public Lecture|◎|
+|Award Lectures|○|
+|General Meeting|○|
+|Symposia, ER Symposia, Open Sessions|○\*|
+|Workshops, Forums|○\*|
+|Oral Presentations, English Oral Presentations|△\*|
+|Junior Ecology Course, Public Lecture|○|
 
-◎: On-Demand Streaming recorded by the organizers  
-○: Self On-Demand Streaming recorded by presenters
+○: On-Demand Streaming recorded by the organizers  
+△: Self On-Demand Streaming recorded by presenters
 
 \* Streaming is available only if desired by the session organizers or presenters.
 
@@ -221,12 +221,12 @@ The Mixer will be held on the evening of March 14 at the Kyoto International Con
 
 ## Wi-Fi connectivity
 
-Free Wi-Fi is available at both venues.
+Free Wi-Fi is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
 
 - **Yoshida-South Campus, Kyoto University:** [eduroam](https://www.eduroam.jp/en) is generally available throughout the venue. Participants with an eduroam account may use this service.
 - **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \([ICCK_Public_WiFi](https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\) is available throughout the venue. Please note that each connection session is limited to 60 minutes.
 
-*Note that this information is provided for reference regarding venue facilities only. The conference organizers cannot guarantee the quality or availability of the wireless network at the venues and will not provide any support for Wi-Fi connectivity. We kindly ask for your understanding that inquiries regarding Wi-Fi cannot be accommodated.*
+*This information is provided for reference regarding venue facilities only. The conference organizers cannot accommodate any requests or inquiries regarding Wi-Fi connectivity.*
 
 ## Support for Participants
 
