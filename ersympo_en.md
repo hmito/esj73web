@@ -81,7 +81,7 @@ For further details, please refer to the following file. We apologize, but only 
 
 ## Note 2
 
-In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
+In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a ["Symposium Invited Speaker Program"](/regist_session_en#symposium-invited-speaker-program). This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this program.
 
 ## Reference: Common Guidelines for Regular Symposia
 

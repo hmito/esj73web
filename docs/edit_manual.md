@@ -208,6 +208,7 @@ remarks:
 - **名誉会員**: emeritus members
 - **賛助会員**: supporting members
 - **セルフ・オンデマンド配信**: Self On-Demand Streaming
+- **シンポジウム招待講演制度**：symposium invited speaker program
 
 ### 4. ホームページ全体での情報の一貫性のチェック
 

@@ -121,7 +121,7 @@ The Ecological Society of Japan aims to create rules for participation that are 
 
 Only ESJ members (regular, student and emeritus members) are eligible to be presenters (primary author) at the conference. Non-members are eligible to present in the following three cases:
 
-- As an invited speaker in a symposium.
+- As an invited speaker in a symposium \([Symposium Invited Speaker Program](/regist_session_en#symposium-invited-speaker-program)\).
 - Contributions in a symposium or workshop that does not require the submission of a presentation abstract, for example, general introductions, commentators, panelists, lightning talks, etc.
 - High school students and younger presenting in the Junior Poster Session.
 

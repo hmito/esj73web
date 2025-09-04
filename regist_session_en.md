@@ -22,14 +22,14 @@ multi_language: true
 |Presenters| On-site|On-site|On-site|
 |[Online support](#online-support)|On-Demand Streaming|On-Demand Streaming |On-Demand Streaming|
 |Priority|Top priority|Lottery if too many applications|Top priority|
-|Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
+|Presentations by non-ESJ members|**Encouraged**<br>［Invited speakers](#Symposium Invited Speaker Program) are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
 
 ### Symposium
 
 Symposium is the main session of the conference, and we call members to submit proposals for organizing. Conference participants look forward to symposia with fresh themes that have never been presented before.
 
 - Duration of the session is 180 minutes. Speakers are required to present on-site.
-- To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. Please see [here](#procedure-for-utilizing-invited-speaker-system-for-symposium) for procedures for invited lectures.
+- To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. Please see [**here**](#symposium-invited-speaker-program) for procedures for invited lectures.
 - To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers and non-members through the Invited Speaker System.
 
 ### Workshop
@@ -64,7 +64,7 @@ In order to prevent problems with the recordings, all recording works will be ha
 ### How to organize Sessions
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#presentation-eligibility-by-membership-type)).
-    - For the specific procedures regarding the use of the invited speaker system, please refer to [here](#procedure-for-utilizing-invited-speaker-system-for-symposium).
+    - For information on how to use the symposium invited speaker program, please refer to [**here**](#symposium-invited-speaker-program).
 - The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. In this conference, the combination of Workshop and Regular presentation also cannot be duplicated (see [Overlap restrictions](registinfo_en#overlap-restrictions)).
 - Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.
     - **Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them**.
@@ -116,14 +116,16 @@ You can apply for the sessions at the following pages.
 - Organization and presentations in Forums are not subject to the [ restrictions on multiple presentations](/registinfo_en#restrictions-on-multiple-presentations).
 - If non-member speakers are invited to a Forum, they may participate in that Forum free of charge. Free participation in other programs, such as Symposia and Regular Presentations, is not permitted; if they wish to attend these, they must pay the conference registration fee.
 
-## Procedure for Utilizing Invited Speaker System for Symposium
+## Symposium Invited Speaker Program
 
-To promote collaboration with other fields, we welcome invited speakers from non-members of the Ecological Society of Japan. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**. To utilize this system, please ask the invited speakers to follow the procedures outlined below.
+To promote collaboration with other fields, we welcome invited speakers from non-members of the Ecological Society of Japan. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
 
-- Please access [the conference application site](https://iap-jp.org/esj/conf/login_en.php).
-- Please proceed as follows: Non-members ⇒ Create a new ID.
-- Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
-- Please fill in the required information in the other fields and complete the registration procedure.
+To utilize this system, please ask the invited speakers to follow the procedures outlined below.
+
+1. Please access [the conference application site](https://iap-jp.org/esj/conf/login_en.php).
+1. Please proceed as follows: Non-members ⇒ Create a new ID.
+1. Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
+1. Please fill in the required information in the other fields and complete the registration procedure.
 <!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも ⇒ チェックして文言を修正済み--->
 
 By applying through the above procedure, one can register as an invited speaker without conference registration fee.
