@@ -49,9 +49,11 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 ### Online Presentations
 
-**Online presentations will not be accepted for presentation with abstract submission at this conference**. This is to avoid problems in advance because there are limitations on channel capacity at the conference venue. We appreciate your understanding.
+**Online presentations will not be accepted for presentations with abstract submission at this conference.**
 
-If it is difficult to make a presentation onsite, **remote presentations using Zoom will be only accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session). It is also possible to save such presentations to the on-demand streaming described below. **However, the connection to Zoom is strictly limited to organizer and presenter**. Although the conference organizing committee will not provide a Wi-Fi environment solely for the purpose of remote presentations, you may use Wi-fi provided at the conference venue (see [here](/about_en#wi-fi-connectivity) for detail). Alternatively, organizers may prepare their own Wi-Fi environment.
+If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for presentations that do not require abstract submission**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. **However, connection to Zoom is strictly limited to organizers and presenters.**
+
+The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#wi-fi-connectivity).
 
 ### On-Demand Streaming of Presentations
 
@@ -65,15 +67,17 @@ In order to prevent problems with the recordings, all recording works will be ha
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#presentation-eligibility-by-membership-type)).
     - For information on how to use the symposium invited speaker program, please refer to [**here**](#symposium-invited-speaker-program).
-- The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. In this conference, the combination of Workshop and Regular presentation also cannot be duplicated (see [Overlap restrictions](registinfo_en#overlap-restrictions)).
-- Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.
-    - **Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them**.
-    - Symposia and oral presentations can be held during the same time slot. Presentations without abstract submission will not be rescheduled even if they overlap with your assigned oral presentation time slot.
-    - Due to the diverse formats of workshops, they will be scheduled during time slots that do not overlap with symposia and oral presentations.
+- From ESJ73, [**each participant is allowed to give only one presentation with abstract\(\*\)**](/registinfo_en#restrictions-on-multiple-presentations). Unlike previous conferences, **it is no longer permitted to be a presenter in both a Workshop and a Regular Presentation**.
+- Presentations such as explanation of purpose, commentator, panelist, or lightning talk, which do not require abstract submission \(\*\), are not counted as presentations. Therefore, participation in sessions in these formats is possible even for non-members and is not subject to the restriction on multiple presentations.
+    - However, **even for presentations without abstract submission, conference registration is required. Organizers are requested to inform participants accordingly**.
+    - Symposia and Regular Presentations may be scheduled in the same time slot. If a presentation without abstract submission overlaps with your own presentation time, **no adjustment of presentation slots will be made**.
+    - As Workshops may take various formats, they are planned to be scheduled in time slots that do not overlap with Symposia or Regular Presentations.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
-- From the viewpoint of respecting diversity, organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers.
+- Organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers, in accordance with the [promotion of diversity at the conference](/about_en#promoting-diversity-at-the-meeting).
 - In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the conference platform.
 - In view of the increasing number of international students and participants from overseas, we encourage Symposia to be held in English. Even if the meeting is held in Japanese, please make efforts to the extent possible by preparing a simple handout in English.
+
+\* The basis for this restriction is the "presentation abstract" registered by each presenter. If the organizer of a session does not register as a "presentation" at the time of application and only provides information in the "session abstract," such presentations are not subject to the above restriction.
 
 ### For Organizers
 
