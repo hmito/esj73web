@@ -7,76 +7,83 @@ multi_language: true
 
 # Frequently Asked Questions
 
-## Deadline and conference program
+## Conference program
 
-### Can you extend the deadline? The deadline has passed for: applying for membership to conduct a session or presentation; applying for a session or a presentation; submitting an abstract.
+### Can you adjust the schedule for my presentation or session? What should I do?
 
-We cannot extend the deadlines for any reason.
+We cannot accept any requests to change the conference program under any circumstances. For more details, please refer to [*Why are we so inflexible?*](https://esj.ne.jp/meeting/info/why_so_inflexible.html).
 
-### Can you schedule my presentation/session slot to fit the days when I am available? I can only participate in the conference on some of the days.
+### I registered in advance but have not received the program booklet
 
-We cannot accept any requests to change the conference program.
+## Qualifications for Entry
 
-### Can you arrange our presentations to be sequential? My colleagues and I plan to have several oral presentations on related research topics.
+### Can non-members attend as audience?
 
-We cannot accept any requests to change the conference program. For more details about why we are so rigid, please refer to the following: *[Why are we so inflexible? – Reasons for requesting strict compliance with the deadlines and regulations](https://esj.ne.jp/meeting/info/why_so_inflexible_e.html)*
+Non-members can attend as audience by paying the conference registration fee.
 
-## Qualifications for entry and registration fee
+### Can non-members give a presentation?
 
-### Can non-members participate or give a presentation?
+Except for invited speakers in symposia or forums, non-members cannot register abstracts or organize sessions. For details, please refer to [Eligibility for Registration by Membership Type](/registinfo_en#presentation-eligibility-by-membership-type).
 
-Upon paying the registration fee, non-members can join the audience. Non-members can be co-authors of presentations. 
+However, non-members may be co-authors of presentations given by members.
 
-About the presentation, except for invited speakers to the Symposia or the Forum, non-members cannot be either organizers or speakers. Please confirm the qualifications for entry for other roles (e.g., presenter or organizer) in the [Eligibility for Registration](/registinfo_en#presentation-eligibility-by-membership-type).
+### I want to invite non-members to my session. What should I do?
 
-### Are the workshop presenters required to apply for entry and pay the registration fee?
+For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please see [**here**](/regist_session_en#symposium-invited-speaker-program).
 
-Because the workshops are formalized events, presenters who only attend the workshops are also required to apply for entry and pay the registration fee. Please check the [registration for participation](registinfo_en_en#
-#Registration-for-participation).
+Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events.
 
-### Are audience members who only attend the workshops required to apply for entry and pay the registration fee?
+For workshops, non-members cannot register abstracts or give presentations. Please join the Ecological Society of Japan and apply as a regular member.
 
-Participants who attend only the workshops are also required to register for the conference and pay the registration fee. Since in ESJ73 online contents seems to be extremely limited, [the workshop-only-participation fee is no longer offered](/registinfo_en#abolition-of-quota-for-participation-in-workshops-only). We apologize for the inconvenience, but we kindly ask you to participate in the convention as a regular participant.
+Note: Non-members may give presentations that do not require abstract registration, such as introductory remarks, commentary, panel discussions, or lightning talks. However, even in these cases, the conference registration fee must be paid.
 
-### Can non-members attend the public lectures?
+### I want to attend only a workshop. What should I do?
 
-Yes. Participants who attend only the public lectures do not have to apply for entry and paying a registration fee is not required.
+Participants who attend only workshops must also apply for conference registration and pay the registration fee. The workshop-only participation quota was abolished at ESJ72. Please register as a regular participant.
 
-### Can the registration and banquet fees be paid by my organization using public expense?
+### Can non-members freely attend the public lectures?
 
-Yes. If you wish to pay by invoice, please apply for participation at the registration system first. Please select "Postal Transfer" as the payment method. We request that you pay in advance. After completing the application, please contact us from the [inquiry form](contact_en).
+## About Participation Fees
 
-### Will receipts for the registration fee be issued?
+### Is it possible to pay the participation fee using public funds from my institution (such as invoice payment)?
 
-Yes. Receipts will be issued from RakuRaku-Conference (ex- ONLINE CONF), not from the registration system. They will be available after 6th January, when RakuRaku-Conference will be open.
+Yes, it is possible. If you wish to pay by invoice, please first register for participation through the system. Select "Postal Transfer" as the payment method. Payment must be made in advance. After completing your registration, please contact us via the [inquiry page](contact).
 
-### Is the registration fee taxable?
+### Will a receipt be issued for the participation fee?
 
-The registration fee for the members (both regular participants and students) is not taxable, and the registration fee for the non-members is taxable and includes tax.
+Receipts are issued from the conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on January 6, 2025.
 
-### What expenses are included in the participation fee?
+### Is the participation fee subject to tax?
 
-The participation fee only covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
+For members (both regular and student), the fee is tax-exempt (not subject to tax). For non-members, the fee is subject to tax and includes tax.
+
+### What costs are included in the participation fee?
+
+The participation fee covers the cost of attending research presentations and meetings. It does not include lunch, banquet fees, etc.
 
 ## Application (to attend the meeting and/or apply for a presentation)
+
+### I missed the application deadline. What should I do now?
+
+Under no circumstances will the deadline be extended. For details, please refer to [*Why are we so inflexible?*](https://esj.ne.jp/meeting/info/why_so_inflexible_e.html).
 
 ### I lost my membership ID/login ID
 
 If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact us from the [inquiry form](contact_en).
 
-### If I'm not planning to give a presentation, can I apply to attend the meeting after the application deadline for the presentation registration has passed?
+### If I am attending only as an audience and not giving a presentation, by when should I apply?
 
-Yes. You can apply and pay for the meeting as an audience member until the starting day of the ESJ73 meeting.
+You can apply to attend as an audience until the day of the conference.
 
 ### I'd like to change the information I submitted about my oral/poster presentation
 
-You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration (October 31, 2025). After that, you cannot correct any information about your presentation.
+You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration Oct. 31, 2025). After that, you cannot correct any information about your presentation.
 
 ### I want to cancel my presentation. How should I do this?
 
-You can freely cancel your presentation on the webpage before the deadline for registration (October 31, 2025). After the deadline, please contact us from the [inquiry form](contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
+You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
 
-### I want to cancel my registration. How should I do this?
+### I want to cancel my attendance. How should I do this?
 
 Please contact us from the [inquiry form](contact_en). You can cancel your registration free of charge until 21st Feb. 2025.
 
@@ -93,12 +100,6 @@ Abstracts will not be peer-reviewed. Abstracts will be published as they are reg
 ### I was not able to register my abstract by the deadline. Will my presentation be canceled?
 
 No, you can give your presentation even if you miss the abstract submission deadline. However, your abstract will be left blank.
-
-## Mailing program booklet
-
-### I registered in advance but have not received the program booklet
-
-Program booklet will not be produced for ESJ73. Please obtain the necessary information from the ESJ73 official website, the ESJ abstract website, or the conference platform (RakuRaku-Conference).
 
 ### Do forum speakers need to register their abstracts?
 
