@@ -51,7 +51,7 @@ Yes, it is possible. If you wish to pay by invoice, please first register for pa
 
 ### Will a receipt be issued for the participation fee?
 
-Receipts are issued from the conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on January 6, 2025.
+Receipts are issued from the conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026.
 
 ### Is the participation fee subject to tax?
 
@@ -85,7 +85,7 @@ You can freely cancel your presentation on the webpage before the deadline for r
 
 ### I want to cancel my attendance. How should I do this?
 
-Please contact us from the [inquiry form](/contact_en). You can cancel your registration free of charge until 21st Feb. 2025.
+Please contact us from the [inquiry form](/contact_en). You can cancel your registration free of charge until 17th Feb. 2026.
 
 ### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 

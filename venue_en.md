@@ -8,8 +8,8 @@ multi_language: true
 
 The venue will change between the first and second halves of the meeting.
 
-March 11 - 13: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
-March 14 - 15: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+11th - 13th Mar.: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
+14 - 15 Mar.: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 ## Access to the Venues
 
@@ -17,7 +17,7 @@ Transportation options to the venues include city buses, subways, Keihan Railway
 
 ![venue access map](/media/to_venue_map_en.png)
 
-### March 11–13: Access to Kyoto University, Yoshida South Campus
+### 11th–13th: Access to Kyoto University, Yoshida South Campus
 
 City buses departing from Shijo Street and Kyoto Station are often extremely crowded and may take longer. The recommended routes are listed below. All options accept [pre-paid IC Travel Card](https://www.japan.travel/en/plan/ic-card/).
 
@@ -60,7 +60,7 @@ From Nijo and Yamashina areas, the Tozai Subway Line is the best choice. You can
     - City Bus Route 201 bound for "Hyakumanben/Senbon Imadegawa": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 206 bound for "Takano/Kitaoji Bus Terminal": Get off at "Kyodai Seimon-mae," then walk about 10 minutes.
 
-### March 14-15: Access to Kyoto ICC
+### 14th-15th: Access to Kyoto ICC
 
 The Karasuma Subway Line provides convenient access.
 

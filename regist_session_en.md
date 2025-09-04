@@ -103,13 +103,13 @@ You can apply for the sessions at the following pages.
 ### For Speakers
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
-    - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 20st Feb. 2026 23:59 (JST), by referring to [this page](/registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
+    - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 17st Feb. 2026 23:59 (JST), by referring to [this page](/registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
 - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
-- Please submit your abstract (maximum 400 words) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
+- Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](/registinfo_en#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
 - Please also see [Other Notes](/registinfo_en#other-notes).
 

@@ -11,12 +11,12 @@ remarks:
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 
 **= Dates =**  
-March 11 (Wed) – March 15 (Sun), 2026
+11th Mar. (Wed) – 15 Mar. (Sun), 2026
 
 **= Venue =**  
 The venue will change between the first and second halves of the meeting  
-March 11 - 13: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
-March 14 - 15: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+11 - 13 Mar.: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
+14 - 15 Mar.: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 **We recommend booking your accommodation well in advance.** Convenient areas for accessing both venues include the vicinity of Kyoto Station and along the Karasuma Subway Line (Kyoto Municipal Subway Karasuma Line).
 
@@ -213,7 +213,7 @@ Participation fees are as follows. For more information on how to apply for part
 
 ## Mixer
 
-The Mixer will be held on the evening of March 14 at the Kyoto International Conference Center (ICC Kyoto). Instead of the traditional buffet-style party, we’re bringing in food trucks for a fun, casual gathering! Feel free to purchase your favorite food and drinks from the trucks, or bring your own—everyone is welcome to join in and enjoy the festivities.
+The Mixer will be held on the evening of 14th Mar. at the Kyoto International Conference Center (ICC Kyoto). Instead of the traditional buffet-style party, we’re bringing in food trucks for a fun, casual gathering! Feel free to purchase your favorite food and drinks from the trucks, or bring your own—everyone is welcome to join in and enjoy the festivities.
 
 - No advance registration is required—just come and join the fun!
 - Please note that the conference will not provide food or drinks. You can buy from the food trucks or bring your own.
