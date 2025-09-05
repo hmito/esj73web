@@ -69,6 +69,11 @@ The Karasuma Subway Line provides convenient access.
 
 You can also access Kyoto ICC by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
 
+### Additional Information
+
+- [Subway-Bus Route Map (PDF)](https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/ENG202503(map)WEB.pdf)
+- [Kyoto City Bus & Subway Information Guide](https://www2.city.kyoto.lg.jp/kotsu/webguide/en/index.html)
+
 ## Accommodation
 
 There are limited accommodation options near Kyoto University and the Kyoto International Conference Center. We recommend staying in central Kyoto, especially along the **Karasuma Subway Line** or near **JR Kyoto Station**, for convenient access to both venues.
