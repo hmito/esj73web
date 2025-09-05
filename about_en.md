@@ -50,6 +50,14 @@ The availability of online participation is as follows:
 
 \* Streaming is available only if desired by the session organizers or presenters.
 
+--------------------------------------------------------------------------
+
+Please read and agree to the following before participating in conference events and sessions that will be available via on-demand streaming:
+
+- All events subject to on-demand streaming will be **recorded in their entirety, including Q&A sessions**.
+- Cameras will be installed at the venue for recording, so **the audience and venue atmosphere may be captured in the videos**.
+- Requests for video editing or other modifications cannot be accommodated.
+
 ## Schedule
 
 The detailed timetable will be released around the beginning of January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
