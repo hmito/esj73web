@@ -34,7 +34,7 @@ The venue will change between the first and second halves of the meeting
     - Poster presentations: All posters will be published online, and presenters may also upload explanatory videos they have recorded themselves.
 - **All major events will be recorded in their entirety, including Q&A sessions, and made available via on-demand streaming.** Recording will be conducted by professional cameras installed at the venue, so **the audience and speakers’ faces may be captured during filming**. By participating in these events, you are deemed to have understood and agreed to these terms.
 
-The availability of online participation is as follows:
+The availability of online participation is as follows. Please note that **real-time video streaming will not be provided** at this meeting.
 
 ||On-Demand Streaming|
 |---|:---|
