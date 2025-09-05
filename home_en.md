@@ -40,7 +40,7 @@ Conference events, symposia, and workshops will be recorded by professional staf
 - 2025.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
 - 2025.09.30: Basic meeting information, access to the venue, and childcare support have been posted.
 - 2025.09.30: Guidelines for presenters and frequently asked questions have been posted.
-- 2025.09.30: Information on the Ecocup (futsal event) and the Junior Ecology Course has been posted (Japanese version articles only).
+- 2025.09.30: Information on the Ecocup (futsal tournament for ESJ members) and the Junior Ecology Course (special lecture for high school students) has been posted (Japanese articles only).
 - 2025.08.29: The call for ER Symposia has closed.
 - 2025.07.31: The call for Open Sessions has closed.
 - 2025.07.01: The call for Open Sessions and ER Symposia has started.
