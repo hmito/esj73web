@@ -56,7 +56,6 @@ Please read and agree to the following before participating in conference events
 
 - All events subject to on-demand streaming will be **recorded in their entirety, including Q&A sessions**.
 - Cameras will be installed at the venue for recording, so **the audience and venue atmosphere may be captured in the videos**.
-- Requests for video editing or other modifications cannot be accommodated.
 
 ## Schedule
 
