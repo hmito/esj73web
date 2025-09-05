@@ -71,12 +71,12 @@ Please read the description of each session (links in the table below) and [Othe
     </tr></thead>
   <tbody>
     <tr class="odd">
-      <td><a href = "opensession_en">Open Session</a></td>
+      <td><a href="/opensession_en">Open Session</a></td>
       <td><del>Thu. 31 Jul. 2025 23:59 (JST)</del></td>
       <td rowspan=7>17th Feb. 2026</td>
     </tr>
     <tr class="even">
-      <td><a href = "ersympo_en">ER Symposium</a></td>
+      <td><a href="/ersympo_en">ER Symposium</a></td>
       <td><del>Fri. 29 Aug. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
@@ -88,7 +88,7 @@ Please read the description of each session (links in the table below) and [Othe
       <td rowspan=4> Registration to begin:<br>Wed. 1 Oct. 2025<br><br>Deadline:<br>Fri. 31 Oct. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
-      <td><a href = "regist_session/#Workshop">Workshop</a></td>
+      <td><a href="/regist_session/#Workshop">Workshop</a></td>
     </tr>
     <tr class="even">
      <td>Regular Presentation<br />
