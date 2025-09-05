@@ -7,14 +7,6 @@ multi_language: true
 
 # Frequently Asked Questions
 
-## Conference program
-
-### Can you adjust the schedule for my presentation or session? What should I do?
-
-We cannot accept any requests to change the conference program under any circumstances. For more details, please refer to [*Why are we so inflexible?*](https://esj.ne.jp/meeting/info/why_so_inflexible.html).
-
-### I registered in advance but have not received the program booklet
-
 ## Qualifications for Entry
 
 ### Can non-members attend as audience?
@@ -90,6 +82,14 @@ Please contact us from the [inquiry form](/contact_en). You can cancel your regi
 ### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 
 Please avoid submitting duplicate applications for both a symposium/workshops (talks with abstract registration) and a general presentation. If your session is not accepted, alternative measures such as changing the session type or transferring your application to a general presentation will be provided.
+
+## Conference program
+
+### Can you adjust the schedule for my presentation or session? What should I do?
+
+We cannot accept any requests to change the conference program under any circumstances. For more details, please refer to [*Why are we so inflexible?*](https://esj.ne.jp/meeting/info/why_so_inflexible.html).
+
+### I registered in advance but have not received the program booklet
 
 ## Abstracts
 
