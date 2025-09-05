@@ -6,13 +6,31 @@ multi_language: true
 <!--英語版です_-->
 
 # Childcare support
+[Child care] and [family lounge] will be available at the ESJ73 meeting. 
 
-[Child care](#Child_Care) and [family lounge](#Family_Lounge) will be available at the ESJ73 meeting.
+## Child Care 
+Child care will be provided in the ESJ73 venue to those who have completed advance application and payment. The service is provided by Poppins service Kyoto, Poppins Corporation, which is contracted out by the ESJ. 
 
-## Child Care
+### Operating dates
+Kyoto Univ. Yoshida campus: March 11, 2026 to March 13, 2026. 
+Kyoto International Conference Center: March 14, 2026 to March 15, 2026. 
 
-===WIP===
+### Fees
+To be updated (in late December 2024).
 
-## Family Lounge
+### Registration
+To be updated (in late December 2024).
 
-===WIP===
+## Family Lounge operation dates
+A family lounge will be set up for participants with their infant(s) and school children. No reservation is required. Please use the room to eat with your child(ren) or just to relax.
+
+Kyoto Univ. Yoshida campus: March 11, 2026 to March 13, 2026. 
+Kyoto International Conference Center: March 14, 2026 to March 15, 2026. 
+
+## Nursing rooms
+In the Kyoto University's Yoshida Campus, one room will open as a nursing room.
+The Kyoto International Conference Center has a nursing room within the venue as part of its facilities.
+
+## Facilities
+Kyoto University's Yoshida Campus has multipurpose restrooms available for both men and women, equipped with diaper-changing facilities.
+At the Kyoto International Conference Center, diaper-changing stations are installed in both the men's and women's restrooms.
