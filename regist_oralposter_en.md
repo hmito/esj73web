@@ -48,32 +48,55 @@ You can apply for various types of presentations at the following page.
 - Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 17st Feb. 2026 23:59 (JST).
 - Please also check [Other Notes](/registinfo_en#other-notes) before submitting your abstract.
 
-<table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr> 
-  <td><a href="session_en#open-session">Acoustic Ecology (Open session)</a></td>
-  <td><a href="session_en#open-session">Deer-induced Problems (Open session)</a></td>
-  <td>Behavior</td> <td>Plant ecophysiology</td> </tr> <tr> <td>Biodiversity</td> <td>Evolution</td> <td>Animal populations</td> <td>Plant populations</td> </tr> <tr> <td>Invasive species</td> <td>Mathematical ecology</td> <td>Life history of animals</td> <td>Life history of plants</td> </tr> <tr> <td>Conservation</td>
-<td>Landscape ecology</td>
-<td>Animal reproduction</td>
-<td>Plant reproduction</td>
+<table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody>
+<tr>
+<td><a href="/sessions_en#open-session">Wildlife Trade (Open session)</a></td>
+<td><a href="/sessions_en#open-session">Extended Phenotype (Open session)</a></td>
+<td><a href="/sessions_en#open-session">Human Dimension (Open session)</a></td>
+<td></td>
 </tr>
 <tr>
-<td>Ecosystem management</td>
+<td>Plant ecophysiology</td>
+<td>Behavior</td>
+<td>Evolution</td>
+<td>Biodiversity</td>
+</tr>
+<tr>
+<td>Plant populations</td>
+<td>Animal populations</td>
+<td>Mathematical ecology</td>
+<td>Invasive species</td>
+</tr>
+<tr>
+<td>Life history of plants</td>
+<td>Life history of animals</td>
 <td>Succession and regeneration</td>
-<td>Animal communities</td>
-<td>Plant communities</td>
+<td>Conservation</td>
 </tr>
 <tr>
-<td>Education and popularization of ecology</td>
+<td>Plant reproduction</td>
+<td>Animal reproduction</td>
+<td>Landscape ecology</td>
+<td>Ecosystem management</td>
+</tr>
+<tr>
+<td>Plant communities</td>
+<td>Animal communities</td>
 <td>Material cycling</td>
+<td>Education and popularization of ecology</td>
+</tr>
+<tr>
 <td>Animal-plant interactions</td>
 <td>Microbial ecology</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ## Poster Award
- 
-To encourage researchers in the early stages of their careers, poster awards will be given for outstanding poster presentations. 
+
+To encourage researchers in the early stages of their careers, poster awards will be given for outstanding poster presentations.
 
 ### Eligibility
 

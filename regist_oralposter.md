@@ -59,40 +59,46 @@ multi_language: true
 </colgroup>
 <tbody>
 <tr>
-  <td><a href="sessions#公募セッション">音響生態学 (公募)</a></td>
-  <td><a href="sessions#公募セッション">シカ害問題 (公募)</a></td>
-  <td>行動</td>
+  <td><a href="/sessions#公募セッション">野生動物取引 (公募)</a></td>
+  <td><a href="/sessions#公募セッション">延長された表現型 (公募)</a></td>
+  <td><a href="/sessions#公募セッション">人と自然 (公募)</a></td>
+  <td></td>
+</tr>
+<tr>
   <td>植物生理生態</td>
-</tr>
-<tr>
-  <td>生物多様性</td>
+  <td>行動</td>
   <td>進化</td>
-  <td>動物個体群</td>
+  <td>生物多様性</td>
+</tr>
+<tr>
   <td>植物個体群</td>
-</tr>
-<tr>
-  <td>外来種</td>
+  <td>動物個体群</td>
   <td>数理</td>
-  <td>動物生活史</td>
+  <td>外来種</td>
+</tr>
+<tr>
   <td>植物生活史</td>
-</tr>
-<tr>
-  <td>保全</td>
-  <td>景観</td>
-  <td>動物繁殖</td>
-  <td>植物繁殖</td>
-</tr>
-<tr>
-  <td>生態系管理</td>
+  <td>動物生活史</td>
   <td>遷移・更新</td>
-  <td>動物群集</td>
-  <td>群落</td>
+  <td>保全</td>
 </tr>
 <tr>
-  <td>生態学教育・普及</td>
+  <td>植物繁殖</td>
+  <td>動物繁殖</td>
+  <td>景観</td>
+  <td>生態系管理</td>
+</tr>
+<tr>
+  <td>群落</td>
+  <td>動物群集</td>
   <td>物質循環</td>
-  <td>動物と植物の相互関係</td>
+  <td>生態学教育・普及</td>
+</tr>
+<tr>
   <td>菌類・微生物</td>
+  <td>動物と植物の相互関係</td>
+  <td></td>
+  <td></td>
 </tr>
 </tbody>
 </table>
