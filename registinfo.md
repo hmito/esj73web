@@ -9,7 +9,7 @@ remarks:
 
 # 各種申込み概要
 
-[一般講演](/regist_oralposter)、[シンポジウム](/regist_session\#シンポジウム)、[自由集会](/regist_session\#自由集会)を募集中です。締切は2025年10月31日です。詳細を確認の上、下記申込みサイトからお手続きください。
+[一般講演](/regist_oralposter)、[シンポジウム](/regist_session/#シンポジウム)、[自由集会](/regist_session/#自由集会)を募集中です。締切は2025年10月31日です。詳細を確認の上、下記申込みサイトからお手続きください。
 
 **[【大会参加・各種講演申込みサイトへ移動】](https://iap-jp.org/esj/conf/login.php)**
 
