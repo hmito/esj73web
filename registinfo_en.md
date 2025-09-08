@@ -35,7 +35,7 @@ You can register for the conference participation at the below link.
 
 **[[Go to the Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
-||Early bird<br/>until 17th Feb.|Normal price<br/>after 18th Feb.|
+||Early bird<br/>until 17th Feb. 13:00|Normal price<br/>after 20th Feb.|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Student**|8500 JPY|9500 JPY|

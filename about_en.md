@@ -213,7 +213,7 @@ For application, please see [**here**](/registinfo_en).
 
 Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](/registinfo_en).
 
-||Early bird<br/>Until Feb 17| Normal price<br/>After Feb 18|
+||Early bird<br/>Until Feb. 17 13:00| Normal price<br/>After Feb. 20|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Students**|8500 JPY|9500 JPY|

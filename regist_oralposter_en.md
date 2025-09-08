@@ -30,9 +30,9 @@ Regular presentations include oral and poster sessions.
 
 - Please enter your preferred presentation format (oral or poster) when you apply. However, we may not be able to accommodate your request depending on the number of presentations.
 - Speakers for regular presentations are limited to members of the Ecological Society of Japan.
-    - Non-members may also eligible to have their names listed as co-presenters (see [Presentation Eligibility by Membership Type](/registinfo_en.md#presentation-eligibility-by-membership-type)).
+    - Non-members may also eligible to have their names listed as co-presenters (see [Presentation Eligibility by Membership Type](/registinfo_en#presentation-eligibility-by-membership-type)).
 	- Non-members who wish to present a lecture should complete the admission procedure to the Society by 31st Oct. 2025 23:59 (JST), referring to [Procedure for new membership to the Ecological Society of Japan](/registinfo_en#procedure-for-new-membership-to-the-ecological-society-of-japan).
-- Please note that **["one-person, one-presentation"](/registinfo_en.md#restrictions-on-multiple-presentations) (with abstract submission) is the general rule** for this conference. You cannot be a speaker for other regular presentations, symposia, and workshops.
+- Please note that **["one-person, one-presentation"](/registinfo_en#restrictions-on-multiple-presentations) (with abstract submission) is the general rule** for this conference. You cannot be a speaker for other regular presentations, symposia, and workshops.
     - **Presentations without abstract submissions, such as general introductions, commentators, panelists, and lightning talks, are acceptable**. However, symposia may be held at the same time as oral presentations. Even if times of presentations overlap, no adjustments will be made to the presentation schedule.
 
 ### How to apply
