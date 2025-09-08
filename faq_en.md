@@ -15,13 +15,13 @@ Non-members can attend as audience by paying the conference registration fee.
 
 ### Can non-members give a presentation?
 
-Except for invited speakers in symposia or forums, non-members cannot register abstracts or organize sessions. For details, please refer to [Eligibility for Registration by Membership Type](/registinfo_en#presentation-eligibility-by-membership-type).
+Except for invited speakers in symposia or forums, non-members cannot register abstracts or organize sessions. For details, please refer to [Eligibility for Registration by Membership Type](/registinfo_en#Presentation-Eligibility-by-Membership-Type).
 
 However, non-members may be co-authors of presentations given by members.
 
 ### I want to invite non-members to my session. What should I do?
 
-For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please see [**here**](/regist_session_en#symposium-invited-speaker-program).
+For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please check [**Symposium Invited Speaker Program**](/regist_session_en#Symposium-Invited-Speaker-Program).
 
 Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events.
 
@@ -38,6 +38,9 @@ Participants who attend only workshops must also apply for conference registrati
 ## About Participation Fees
 
 ### Is it possible to pay the participation fee using public funds from my institution (such as invoice payment)?
+
+Yes, it is possible. For details on the procedure, please see [**“Invoice Payment”**](/registinfo_en#Invoice-Payment).
+
 
 Yes, it is possible. If you wish to pay by invoice, please first register for participation through the system. Select "Postal Transfer" as the payment method. Payment must be made in advance. After completing your registration, please contact us via the [inquiry page](/contact_en).
 

@@ -16,8 +16,8 @@ remarks:
 
 **=会場=**  
 前半と後半で会場が変わります。詳細は[**会場ページ**](/venue)をご覧ください。  
-11～13日：[京都大学吉田キャンパス吉田南構内](/venue#京都大学吉田キャンパス吉田南構内へのアクセス)  
-14～15日：[国立京都国際会館](/venue#国立京都国際会館へのアクセス)
+11～13日：[京都大学吉田キャンパス吉田南構内](/venue#11-13日：京都大学吉田南構内へのアクセス)  
+14～15日：[国立京都国際会館](/venue#14-15日：国立京都国際会館へのアクセス)
 
 - **宿泊先をできるだけ早くに確保されることをおすすめします**。両会場へのアクセスに便利なエリアは京都駅周辺や京都市営地下鉄烏丸線沿線です。
 
@@ -31,7 +31,7 @@ remarks:
     - オンサイト発表者を対象にコアタイムも設けます。
 - 大会プラットフォーム上では、オンデマンド配信を実施します。
     - 大会の主要な企画や各種集会：大会側で録画の上、後日オンラインプラットフォーム上で公開します。
-    - 口頭発表：自身で事前・後日録画した動画を大会プラットフォーム上で公開する[「セルフ・オンデマンド配信」](/presentation#セルフオンデマンド配信)が利用可能です。
+    - 口頭発表：自身で事前・後日録画した動画を大会プラットフォーム上で公開する[「セルフ・オンデマンド配信」](/presentation#セルフ・オンデマンド配信)が利用可能です。
     - ポスター発表：ポスターは全件オンラインで掲載されるほか、自身で録画した説明動画を大会プラットフォーム上で公開可能です。
 
 オンライン参加への対応状況は、以下の通りです。なお、本大会では**リアルタイムでの動画配信は実施しません**。
@@ -114,7 +114,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/sessions#er-シンポジウム">ERシンポジウム</a></td>
+<td colspan=2><a href="/sessions#ER-シンポジウム">ERシンポジウム</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,7 +123,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、<a href="/regist_session">シンポジウム</a></td>
+<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -132,7 +132,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/regist_session">自由集会</a></td>
+<td colspan=2>自由集会</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -141,7 +141,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/regist_session">フォーラム</a></td>
+<td colspan=2>フォーラム</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -150,7 +150,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/regist_oralposter">口頭発表･英語口頭発表</a></td>
+<td colspan=2>口頭発表･英語口頭発表</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -159,7 +159,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan=2><a href="/regist_oralposter">ポスター発表</a></td>
+<td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
 <td>○</td>
 <td colspan=5>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
@@ -174,7 +174,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="odd">
-<td rowspan=2><a href="/juniorposter">ジュニアポスター</a></td>
+<td rowspan=2>ジュニアポスター</td>
 <td>オンライン</td>
 <td>○</td>
 <td colspan=5>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
