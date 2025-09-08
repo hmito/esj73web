@@ -118,7 +118,7 @@ You can apply for the sessions at the following pages.
 - Proposals for Forums are solicited from representatives of each committee of the Ecological Society of Japan.
 - Tentative proposals will be reviewed by the Board of Directors, and a final decision on adoption will be made after coordination with the Annual Meeting Planning Committee and the Executive Committee. During this process, you may be asked to revise the content or adjust the format of the event.
 - For Forums that are adopted, please submit the full proposal through the conference application website.
-- Organization and presentations in Forums are not subject to the [ restrictions on multiple presentations](/registinfo_en#restrictions-on-multiple-presentations).
+- Organization and presentations in Forums are not subject to the [restrictions on multiple presentations](/registinfo_en#restrictions-on-multiple-presentations).
 - If non-member speakers are invited to a Forum, they may participate in that Forum free of charge. Free participation in other programs, such as Symposia and Regular Presentations, is not permitted; if they wish to attend these, they must pay the conference registration fee.
 
 ## Symposium Invited Speaker Program
