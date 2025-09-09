@@ -6,7 +6,7 @@ multi_language: true
 
 # Childcare support
 
-[Child care](#child-care) and [family lounge](#family-lounge-operation-dates) will be available at the ESJ73 meeting. For other venue facilities such as nursing rooms and diaper changing spaces, please see [here] (#Facilities).
+[Child care](#Child-Care) and [family lounge](#Family-Lounge) will be available at the ESJ73 meeting. For other venue facilities such as nursing rooms and diaper changing spaces, please see [here] (#Facilities).
 
 ## Child Care
 

@@ -6,7 +6,7 @@ multi_language: true
 
 # ER シンポジウム（ER招待講演を希望するシンポジウム）
 
-[【本大会の採択結果は、こちらをご覧ください】](/sessions#er-シンポジウム)
+[【本大会の採択結果は、こちらをご覧ください】](/sessions#ER-シンポジウム)
 
 ESJ73では、海外の優秀な研究者を招聘してシンポジウムでの講演と[Ecological Research誌](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\) への寄稿をお願いする「ER シンポジウム」という制度があります。本制度は、多様な視点からの提案を歓迎しております。女性や若手の研究者の皆様も、ぜひご応募をご検討ください。
 
@@ -77,7 +77,7 @@ ERシンポジウム企画案の提案締め切りは**8月29日（金）日本�
 旅費については学会から生態学会旅費規則の範囲で支給されます（旅費規則URL：[https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)）。リンク先の規則には、航空券の券種についての記述がありませんが、原則としてエコノミークラスです。
 
 詳細は以下のファイルをご覧ください。  
-[【海外招聘者旅費について_2023.docx】](/media/海外招聘者旅費について_2023.docx)
+[【海外招聘者旅費について_2023.docx】](https://edit.esj-meeting.net/wp-content/uploads/2025/09/海外招聘者旅費について_2023.docx)
 
 ## 補記2
 

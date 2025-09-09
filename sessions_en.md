@@ -13,11 +13,11 @@ The following symposium was selected for this year's [ER Symposium](/ersympo_en)
 
 ---
 
-**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
+**"===WIP:Title==="**
 
 [Organizer]
 
-===WIP=== <!--Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)-->
+===WIP:Organizer=== <!--Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)-->
  <!--Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)-->
 
 [ER Invited Speaker]
