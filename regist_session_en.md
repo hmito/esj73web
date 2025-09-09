@@ -22,7 +22,7 @@ multi_language: true
 |Presenters| On-site|On-site|On-site|
 |[Online support](#online-support)|On-Demand Streaming|On-Demand Streaming |On-Demand Streaming|
 |Priority|Top priority|Lottery if too many applications|Top priority|
-|Presentations by non-ESJ members|**Encouraged**<br>［Invited speakers](#Symposium Invited Speaker Program) are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
+|Presentations by non-ESJ members|**Encouraged**<br><a href = "#Symposium-Invited-Speaker-Program">Invited speakers</a> are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
 
 ### Symposium
 
