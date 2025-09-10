@@ -9,7 +9,7 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oral_poster_en), [Symposia](/regist_session_en#symposium), and [Workshops](/regist_session_en#workshop) are accepted until 31st Oct. 2025 (JST). Please check the details in below and register from the application site.
+Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) are accepted until 31st Oct. 2025 (JST). Please check the details in below and register from the application site.
 
 **[[Go to the Applications site]](https://iap-jp.org/esj/conf/login_en.php)**
 
@@ -17,17 +17,17 @@ Important deadlines are as follows.
 
 ||**Thursday, 31st Oct. 2025<br/>23:59 (JST)**|**Friday, 17th Tue. 2026 <br/>13:00 (JST)**|**Friday, 17th Tue. 2026 <br/>23:59 (JST)**|**After 18th Feb. 2026**|
 |:---:|---|---|---|---|
-|[**Procedures for participation in the conference**](#registration-for-participation)||Early bird registration<br/>　Regular：17000 JPY<br/>　Student：8500 JPY||Normal price registration<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
-|[**Procedures for Presentations and Sessions**](#application-for-presentations-and-sessions)|Deadline for Proposals||Deadline for Abstract Submission||
-|[**Non-members joining the ESJ for presentations**](#procedure-for-new-membership-to-the-ecological-society-of-japan)|Deadline for new members to join the ESJ||Deadline for payment of membership fee||
+|[**Procedures for participation in the conference**](#Registration-for-Participation)||Early bird registration<br/>　Regular：17000 JPY<br/>　Student：8500 JPY||Normal price registration<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
+|[**Procedures for Presentations and Sessions**](#Application-for-Presentations-and-Sessions)|Deadline for Proposals||Deadline for Abstract Submission||
+|[**Non-members joining the ESJ for presentations**](#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan)|Deadline for new members to join the ESJ||Deadline for payment of membership fee||
 
 - Invited speakers at symposia, and undergraduate or below who is not organizer and speaker can participate without registration fee.
     - Invited speakers at forum may participate in the forum without registration fee, but those who wish to participate in other sessions or meetings are required to pay the conference registration fee.
 - Due to system transition, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026.
-- Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#if-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
+- Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
     - You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
 
-<img src="media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
+<img src="https://edit.esj-meeting.net/wp-content/uploads/2025/09/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
 
 ## Registration for Participation
 
@@ -35,7 +35,7 @@ You can register for the conference participation at the below link.
 
 **[[Go to the Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
-||Early bird<br/>until 17th Feb.|Normal price<br/>after 18th Feb.|
+||Early bird<br/>until 17th Feb. 13:00|Normal price<br/>after 20th Feb.|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Student**|8500 JPY|9500 JPY|
@@ -49,12 +49,11 @@ You can register for the conference participation at the below link.
 - Non-members are welcome to attend the conference as audience if they pay the registration fee.
     - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the conference platform after 6th Jan. 2026.
     - If none of the above apply, please pay the registration fee.
-- Please also read [Other Notes](#other-notes) when registering.
+- Please also read [Other Notes](#Other-Notes) when registering.
 
 ## Application for Presentations and Sessions
 
-You can apply for Regular Presentations, Symposia, and Workshops at the Application site.
-Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
+You can apply for Regular Presentations, Symposia, and Workshops at the Application site. Please read the description of each session (links in the table below) and [Other Notes](#Other-Notes) before applications.
 
 **[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
@@ -80,28 +79,28 @@ Please read the description of each session (links in the table below) and [Othe
       <td><del>Fri. 29 Aug. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
-      <td>Forum</td>
-      <td>Mon. 15 Sep. 2025 23:59 (JST)</td>
+      <td><a href="/regist_session_en#Forum">Forum</a></td>
+      <td><del>Mon. 15 Sep. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="even">
-      <td>Symposium<br />
+      <td><a href="/regist_session_en#Symposium">Symposium</a><br />
       <td rowspan=4> Registration to begin:<br>Wed. 1 Oct. 2025<br><br>Deadline:<br>Fri. 31 Oct. 2025 23:59 (JST)</td>
     </tr>
     <tr class="odd">
-      <td><a href="/regist_session/#Workshop">Workshop</a></td>
+      <td><a href="/regist_session_en/#Workshop">Workshop</a></td>
     </tr>
     <tr class="even">
-     <td>Regular Presentation<br />
+     <td><a href="/regist_oralposter_en">Regular Presentation</a><br />
     </tr>
     <tr class="odd">
-      <td>Junior Poster Session</td>
+      <td><a href="/juniorposter">Junior Poster Session</a></td>
     </tr>
   </tbody>
 </table>
 
 - We are unable to respond to inquiries from 17:00 to the next day 10:00 (JST) on each deadline. Please check various procedures as soon as possible.
 - For all deadlines, we will not be able to respond to requests for additions, corrections, etc. after the deadline.
-- Please also read [Other Notes](#other-notes) when applying.
+- Please also read [Other Notes](#Other-Notes) when applying.
 
 ## Restrictions on Multiple Presentations
 
@@ -122,7 +121,7 @@ The Ecological Society of Japan aims to create rules for participation that are 
 
 Only ESJ members (regular, student and emeritus members) are eligible to be presenters (primary author) at the conference. Non-members are eligible to present in the following three cases:
 
-- As an invited speaker in a symposium \([Symposium Invited Speaker Program](/regist_session_en#symposium-invited-speaker-program)\).
+- As an invited speaker in a symposium \([Symposium Invited Speaker Program](/regist_session_en#Symposium-Invited-Speaker-Program)\).
 - Contributions in a symposium or workshop that does not require the submission of a presentation abstract, for example, general introductions, commentators, panelists, lightning talks, etc.
 - High school students and younger presenting in the Junior Poster Session.
 
@@ -142,7 +141,7 @@ Co-presenters are not required to be members.
 
 ## Procedure for new membership to the Ecological Society of Japan
 
-Non-members are not eligible to present with [some exceptions](#presentation-eligibility-by-membership-type). Non-members who do not fall under any of the exceptions must **apply for membership in the Ecological Society of Japan prior to submitting registration and proposal**. The admission procedure may take some time, so please complete the procedure well in advance.
+Non-members are not eligible to present with [some exceptions](#Presentation-Eligibility-by-Membership-Type). Non-members who do not fall under any of the exceptions must **apply for membership in the Ecological Society of Japan prior to submitting registration and proposal**. The admission procedure may take some time, so please complete the procedure well in advance.
 
 **[[Go to the ESJ membership application site]](https://www.esj.ne.jp/esj/English/join.html)**
 
@@ -172,7 +171,14 @@ Participation certificates and receipts will be issued from the conference platf
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 
-If you wish to pay the registration fee publicly (e.g., by invoice payment), please apply for registration first. Next, please select “Postal Transfer” as the payment method, complete the application, and then contact us via the inquiry page. We ask that payment be made in advance.
+### Invoice Payment
+
+If you wish to have participation fees paid from public funds (e.g., invoice payment), please follow one of the procedures below depending on the timing of your request.
+
+- **[Until 27th Nov. 2025]** Please apply for registration first. Next, please select “Postal Transfer” as the payment method, complete the application, and then contact us via the inquiry page. We ask that payment be made in advance.
+- **[After 6th Jan. 2026]** On the payment page of ONLINE CONF, select "Bank Transfer" and click "View Bank Account Information" (green button). You will receive an e-mail with the payee account to your registered e-mail address. Please contact us through the Inquiry Form with your request for payment of public expenses along with the bank account information.
+
+Due to system maintenance, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
 
 ### Abolition of Errata
 

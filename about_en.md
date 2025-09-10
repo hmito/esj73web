@@ -14,23 +14,23 @@ The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 11th Mar. (Wed) – 15 Mar. (Sun), 2026
 
 **= Venue =**  
-The venue will change between the first and second halves of the meeting  
-11 - 13 Mar.: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
-14 - 15 Mar.: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+The [venue](/venue_en) will change between the first and second halves of the meeting  
+11 - 13 Mar.: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) / [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
+14 - 15 Mar.: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) / [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
 
 **We recommend booking your accommodation well in advance.** Convenient areas for accessing both venues include the vicinity of Kyoto Station and along the Karasuma Subway Line (Kyoto Municipal Subway Karasuma Line).
 
 ## Meeting Format
 
 - The meeting will be held in a hybrid format, primarily onsite, with the use of the conference platform (Rakuraku-Conference).
-- For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#restrictions-on-multiple-presentations). Online presentations are not permitted.
+- For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#Restrictions-on-Multiple-Presentations). Online presentations are not permitted.
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
     - Online presentations will involve uploading files in advance, allowing participants to freely view them during the meeting period. No core time will be scheduled.
     - Core time will be scheduled for onsite poster presenters.
 - On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
-    - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["Self On-Demand Streaming"](/presentation_en#self-on-demand-streaming).
+    - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["Self On-Demand Streaming"](/presentation_en#Self-On-Demand-Streaming).
     - Poster presentations: All posters will be published online, and presenters may also upload explanatory videos they have recorded themselves.
 - **All major events will be recorded in their entirety, including Q&A sessions, and made available via on-demand streaming.** Recording will be conducted by professional cameras installed at the venue, so **the audience and speakers’ faces may be captured during filming**. By participating in these events, you are deemed to have understood and agreed to these terms.
 
@@ -114,7 +114,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/sessions_en#er-symposia">ER Symposia</a></td>
+<td colspan=2><a href="/sessions_en#ER-Symposia">ER Symposia</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,7 +123,7 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/sessions_en#open-session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
+<td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -132,7 +132,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/regist_session_en">Workshops</a></td>
+<td colspan=2>Workshops</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -141,7 +141,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/regist_session_en">Forums</a></td>
+<td colspan=2>Forums</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -150,7 +150,7 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="/regist_oralposter_en">Oral sessions</a></td>
+<td colspan=2>Oral sessions</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -159,7 +159,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan=2><a href="/regist_oralposter_en">Poster sessions</a></td>
+<td rowspan=2>Poster sessions</td>
 <td>Online</td>
 <td>○</td>
 <td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
@@ -174,7 +174,7 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="odd">
-<td rowspan=2><a href="/juniorposter">Junior Poster</a></td>
+<td rowspan=2>Junior Poster</td>
 <td>Online</td>
 <td>○</td>
 <td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
@@ -213,7 +213,7 @@ For application, please see [**here**](/registinfo_en).
 
 Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](/registinfo_en).
 
-||Early bird<br/>Until Feb 17| Normal price<br/>After Feb 18|
+||Early bird<br/>Until Feb. 17 13:00| Normal price<br/>After Feb. 20|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Students**|8500 JPY|9500 JPY|
@@ -239,7 +239,7 @@ Free Wi-Fi is available at both venues. Please note that the quality or availabi
 
 ## Support for Participants
 
-ESJ73 will have a [Childcare Room](/childcare_en#child-care) at the venue. We also plan to set up a [Family Lounge](/childcare_en#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](/childcare_en) page for details.
+ESJ73 will have a [Childcare Room](/childcare_en#Child-Care) at the venue. We also plan to set up a [Family Lounge](/childcare_en#Family-Lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](/childcare_en) page for details.
 
 ## Promoting Diversity at the Meeting
 

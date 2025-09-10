@@ -14,17 +14,17 @@ Please note that only currently available information regarding the presentation
 - All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
 - A Speaker Ready Room will be provided for uploading presentations. You will need to upload your presentation files, such as PowerPoint, yourself at the venue.
     - Details will be updated around January.
-- If you wish, you can use the [Self On-Demand Streaming](#self-on-demand-streaming) to record your presentation in advance and stream it on the conference platform.
+- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 
 ## Sessions
 
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
 - The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. 
-    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#wi-fi-connectivity).
+    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
 - At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc.
 - If the organizer requests it, the presentation will be recorded by a contractor.
-    - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#self-on-demand-streaming) prepared for oral presentations is not available.
+    - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.
     - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording.
     - For Q&A and discussions, only content spoken through the microphone can be recorded.
 
