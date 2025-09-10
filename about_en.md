@@ -26,7 +26,7 @@ The [venue](/venue_en) will change between the first and second halves of the me
 - For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#Restrictions-on-Multiple-Presentations). Online presentations are not permitted.
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
-    - Online presentations will involve uploading files in advance, allowing participants to freely view them during the meeting period. No core time will be scheduled.
+    - Online presentations will be conducted by uploading files to the conference platform in advance, allowing participants to view them freely during the conference period. No core time will be set.
     - Core time will be scheduled for onsite poster presenters.
 - On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
