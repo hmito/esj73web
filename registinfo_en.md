@@ -176,7 +176,7 @@ The Ecological Society of Japan is **not registered** as a Qualified Invoicing B
 If you wish to have participation fees paid from public funds (e.g., invoice payment), please follow one of the procedures below depending on the timing of your request.
 
 - **[Until 27th Nov. 2025]** Please apply for registration first. Next, please select “Postal Transfer” as the payment method, complete the application, and then contact us via the inquiry page. We ask that payment be made in advance.
-- **[After 6th Jan. 2026]** On the payment page of ONLINE CONF, select "Bank Transfer" and click "View Bank Account Information" (green button). You will receive an e-mail with the payee account to your registered e-mail address. Please contact us through the Inquiry Form with your request for payment of public expenses along with the bank account information.
+- **[After 6th Jan. 2026]** On the payment page of Rakuraku-Conference, select "Bank Transfer" and click "View Bank Account Information" (green button). You will receive an e-mail with the payee account to your registered e-mail address. Please contact us through the Inquiry Form with your request for payment of public expenses along with the bank account information.
 
 Due to system maintenance, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
 
