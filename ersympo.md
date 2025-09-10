@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/ersympo/
-menu: 各種申し込み > ER シンポジウム
+menu: 各種申込み > ER シンポジウム
 multi_language: true
 ---
 

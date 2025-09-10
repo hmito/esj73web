@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/sessions_en/
-menu: Schedule and Programs > Sessions
+menu: Programs > Sessions
 toc: true
 multi_language: true
 ---

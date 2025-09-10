@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/regist_oralposter_en/
-menu: Various applications > Regular Presentations
+menu: Registration > Regular Presentations
 toc: false
 multi_language: true
 ---
