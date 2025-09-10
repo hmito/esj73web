@@ -105,7 +105,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="#mixer">Mixer</a></td>
+<td colspan=2><a href="#Mixer">Mixer</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162,7 +162,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
+<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
 </tr>
     <tr class="even">
 <td>Onsite</td>
@@ -177,7 +177,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
+<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
 </tr>
 <tr class="odd">
 <td>Onsite</td>
