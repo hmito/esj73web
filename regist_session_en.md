@@ -7,7 +7,7 @@ multi_language: true
 
 # Proposal for sessions
 
-- There are three types of sessions: [Symposia](#Symposium), [Workshops](#Workshop),and [Forums](#Forum).
+- There are three types of sessions: [Symposia](#Symposium), [Workshops](#Workshop), and [Forums](#Forum).
     - Symposium category includes the regular symposium as well as two special types: the [Open Session](/opensession_en), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](/ersympo_en), where travel grants and free admission to the conference are available for inviting international researchers.
 - At all sessions, [speakers will be asked to present on-site](#Online-Support).
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.

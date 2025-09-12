@@ -155,6 +155,8 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 The English Presentation Award was established with the aim of promoting the internationalization of society members, and it has provided many young researchers with opportunities to present in English as well as with encouragement. In line with this purpose, the award has achieved significant outcomes and has played an important role in supporting the international activities of our members. In recent years, the number of applicants has steadily increased, and many members have actively taken on presentations in English, leading us to conclude that the original objectives have been fully achieved. In light of these accomplishments, the award has fulfilled its role and will be concluded. However, English oral presentation sessions will continue to be held. At ESJ73, we plan to present a small gift to oral presenters in English, and we sincerely look forward to your continued active participation.
 
+ please also refer to the message ["How to internationalize our annual meetings"](https://esj.ne.jp/esj/English/Message/0902_en.html) from the President of the Ecological Society of Japan.
+
 ### If you have not paid the membership fee from 2024, you will not be able to complete any procedures
 
 If you have not paid the membership fee from 2024, you will not be able to apply to speak at the conference until we can confirm payment of your 2024 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee, at least, one week before the deadline.
