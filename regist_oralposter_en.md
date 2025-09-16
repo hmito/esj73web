@@ -51,10 +51,9 @@ You can apply for various types of presentations at the following page.
 
 <table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody>
 <tr>
-<td><a href="/sessions_en#Open-Session">Wildlife Trade (Open session)</a></td>
+<td colspan=2><a href="/sessions_en#Open-Session">Sustainable Use, Trade and Harvesting of Wildlife (Open session)</a></td>
 <td><a href="/sessions_en#Open-Session">Extended Phenotype (Open session)</a></td>
 <td><a href="/sessions_en#Open-Session">Human Dimension (Open session)</a></td>
-<td></td>
 </tr>
 <tr>
 <td>Plant ecophysiology</td>

@@ -16,8 +16,8 @@ remarks:
 
 **=会場=**  
 前半と後半で会場が変わります。詳細は[**会場ページ**](/venue)をご覧ください。  
-11～13日：[京都大学吉田キャンパス吉田南構内](/venue#11-13日：京都大学吉田南構内へのアクセス)  
-14～15日：[国立京都国際会館](/venue#14-15日：国立京都国際会館へのアクセス)
+11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a>  
+14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a>
 
 - **宿泊先をできるだけ早くに確保されることをおすすめします**。両会場へのアクセスに便利なエリアは京都駅周辺や京都市営地下鉄烏丸線沿線です。
 
@@ -232,8 +232,8 @@ remarks:
 
 両会場ともに無料のWi-Fi環境が提供されています。なお、当日の会場の電波状況・接続環境について保証するものではありません。
 
-- 京大吉田南構内：会場では基本的に [eduroam](https://www.eduroam.jp/about) が利用可能です。eduroamアカウントをお持ちの方は、ご利用いただいて構いません。なお、eduroamアカウントをお持ちでない場合でも、大会側では特に対応しません。
-- 国立京都国際会館：全館で[無料WiFi (ICCK_Public_WiFi) ](https://www.icckyoto.or.jp/facility/other_services_for_planers/)が利用可能です。連続しての接続は60分までです。
+- 京大吉田南構内：会場では基本的に <a href="https://www.eduroam.jp/about" target="_blank">eduroam</a> が利用可能です。eduroamアカウントをお持ちの方は、ご利用いただいて構いません。なお、eduroamアカウントをお持ちでない場合でも、大会側では特に対応しません。
+- 国立京都国際会館：全館で<a href="https://www.icckyoto.or.jp/facility/other_services_for_planers/" target="_blank">無料WiFi (ICCK_Public_WiFi) </a>が利用可能です。連続しての接続は60分までです。
 
 ※ 本情報は、あくまで会場設備の情報を提供するものです。大会側ではWi-Fi環境に関するいかなる要望に対してもお答えいたしかねます。
 
@@ -245,11 +245,11 @@ ESJ73では、会場内に[託児室](/childcare#託児室)を設置します。
 
 ## 大会における多様性の推進
 
-日本生態学会では、[ダイバーシティ推進宣言](https://www.esj.ne.jp/esj/#diversity)を掲げ、多様な背景をもつ研究者の参画を奨励しています。多様な立場やジェンダー、国籍の研究者からの意欲的な提案を期待しています。またシンポジウム・自由集会の企画者は、企画者や講演者の立場やジェンダーなどのバランスに配慮して集会を構成してください。
+日本生態学会では、<a href="https://www.esj.ne.jp/esj/#diversity" target="_blank">ダイバーシティ推進宣言</a>を掲げ、多様な背景をもつ研究者の参画を奨励しています。多様な立場やジェンダー、国籍の研究者からの意欲的な提案を期待しています。またシンポジウム・自由集会の企画者は、企画者や講演者の立場やジェンダーなどのバランスに配慮して集会を構成してください。
 
 本大会では、誰もが参加しやすい環境の整備を進めています。発表や聴講に際して、健康上の理由やその他の事情により合理的配慮が必要な場合には、あらかじめご相談ください。どのような配慮が提供可能か検討させていただきます。詳細は[合理的配慮の提供](/reasonable_accom)をご覧ください。
 
-京都大学がアクセス経路をわかりやすく表示した[フリーアクセスマップ](https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/)を提供しているので、こちらもご参照ください。国立京都国際会館のバリアフリー情報は[こちら](https://www.icckyoto.or.jp/facility/accessibility/)にございます。
+京都大学がアクセス経路をわかりやすく表示した<a href="https://www.icckyoto.or.jp/facility/accessibility/" target="_blank">フリーアクセスマップ](https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/)を提供しているので、こちらもご参照ください。国立京都国際会館のバリアフリー情報は[こちら</a>にございます。
 
 ## 大会行動規範
 

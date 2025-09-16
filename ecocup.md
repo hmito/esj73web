@@ -14,7 +14,7 @@ multi_language: false
 ## 概要
 
 - 開催日時：2026年3月16日（月）10:00〜17:00（大会翌日）
-- 会場：[ミズノスポーツプラザ京都伏見](https://shisetsu.mizuno.jp/kyoto_fushimi)（屋外屋根付き人工芝コートでプレイできます！）
+- 会場：<a href="https://shisetsu.mizuno.jp/kyoto_fushimi" target="_blank">ミズノスポーツプラザ京都伏見</a>（屋外屋根付き人工芝コートでプレイできます！）
 - 参加資格：学会の参加者、および学会の参加者と研究室などで繋がりのある人
 - 申込期限：2026年2月20日（金）
 

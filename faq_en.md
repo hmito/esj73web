@@ -60,7 +60,7 @@ The participation fee covers the cost of attending research presentations and me
 
 ### I missed the application deadline. What should I do now?
 
-Under no circumstances will the deadline be extended. For details, please refer to [*Why are we so inflexible?*](https://esj.ne.jp/meeting/info/why_so_inflexible_e.html).
+Under no circumstances will the deadline be extended. For details, please refer to <a href="https://esj.ne.jp/meeting/info/why_so_inflexible_e.html" target="_blank">*Why are we so inflexible?*</a>.
 
 ### I lost my membership ID/login ID
 
@@ -90,9 +90,11 @@ Please avoid submitting duplicate applications for both a symposium/workshops (t
 
 ### Can you adjust the schedule for my presentation or session? What should I do?
 
-We cannot accept any requests to change the conference program under any circumstances. For more details, please refer to [*Why are we so inflexible?*](https://esj.ne.jp/meeting/info/why_so_inflexible.html).
+We cannot accept any requests to change the conference program under any circumstances. For more details, please refer to <a href="https://esj.ne.jp/meeting/info/why_so_inflexible_e.html" target="_blank">*Why are we so inflexible?*</a>.
 
 ### I registered in advance but have not received the program booklet
+
+No printed conference program booklet will be produced for this event. Please obtain necessary information from the conference website, the abstracts website, and the conference platform (RakuRaku-Conference).
 
 ## Abstracts
 
