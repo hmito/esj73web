@@ -40,7 +40,7 @@ multi_language: true
 
 以下のページから各種講演申込みが可能です。
 
-**[【各種講演申込みサイトへ】](https://iap-jp.org/esj/conf/login.php)**
+**<a href="https://iap-jp.org/esj/conf/login.php" target="_blank">【各種講演申込みサイトへ】</a>**
 
 - 講演者は、2025年10月31日までに、講演申込サイトから講演を申し込んでください。
 - 講演申込みには以下の情報が必要となります。なお、これらの情報は締切後は変更できませんのでご注意ください。

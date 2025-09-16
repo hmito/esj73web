@@ -11,7 +11,7 @@ remarks:
 
 Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) are accepted until 31st Oct. 2025 (JST). Please check the details in below and register from the application site.
 
-**[[Go to the Applications site]](https://iap-jp.org/esj/conf/login_en.php)**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Applications site]</a>**
 
 Important deadlines are as follows.
 
@@ -25,7 +25,7 @@ Important deadlines are as follows.
     - Invited speakers at forum may participate in the forum without registration fee, but those who wish to participate in other sessions or meetings are required to pay the conference registration fee.
 - Due to system transition, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
 - Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
-    - You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
+    - You can check the payment status of the membership fee from <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
 <img src="https://edit.esj-meeting.net/wp-content/uploads/2025/09/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
 
@@ -33,7 +33,7 @@ Important deadlines are as follows.
 
 You can register for the conference participation at the below link.
 
-**[[Go to the Application site]](https://iap-jp.org/esj/conf/login_en.php)**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Application site]</a>**
 
 ||Early bird<br/>until 17th Feb. 13:00|Normal price<br/>after 20th Feb.　9:00|
 |---|---|---|
@@ -55,7 +55,7 @@ You can register for the conference participation at the below link.
 
 You can apply for Regular Presentations, Symposia, and Workshops at the Application site. Please read the description of each session (links in the table below) and [Other Notes](#Other-Notes) before applications.
 
-**[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
 
 <table>
   <colgroup>
@@ -143,7 +143,7 @@ Co-presenters are not required to be members.
 
 Non-members are not eligible to present with [some exceptions](#Presentation-Eligibility-by-Membership-Type). Non-members who do not fall under any of the exceptions must **apply for membership in the Ecological Society of Japan prior to submitting registration and proposal**. The admission procedure may take some time, so please complete the procedure well in advance.
 
-**[[Go to the ESJ membership application site]](https://www.esj.ne.jp/esj/English/join.html)**
+**<a href="https://www.esj.ne.jp/esj/English/join.html" target="_blank">[Go to the ESJ membership application site]</a>**
 
 1. Please follow the above link to complete the new membership application.
 2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
@@ -155,13 +155,13 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 The English Presentation Award was established with the aim of promoting the internationalization of society members, and it has provided many young researchers with opportunities to present in English as well as with encouragement. In line with this purpose, the award has achieved significant outcomes and has played an important role in supporting the international activities of our members. In recent years, the number of applicants has steadily increased, and many members have actively taken on presentations in English, leading us to conclude that the original objectives have been fully achieved. In light of these accomplishments, the award has fulfilled its role and will be concluded. However, English oral presentation sessions will continue to be held. At ESJ73, we plan to present a small gift to oral presenters in English, and we sincerely look forward to your continued active participation.
 
- please also refer to the message ["How to internationalize our annual meetings"](https://esj.ne.jp/esj/English/Message/0902_en.html) from the President of the Ecological Society of Japan.
+ please also refer to the message <a href="https://esj.ne.jp/esj/English/Message/0902_en.html" target="_blank">"How to internationalize our annual meetings"</a> from the President of the Ecological Society of Japan.
 
 ### If you have not paid the membership fee from 2024, you will not be able to complete any procedures
 
 If you have not paid the membership fee from 2024, you will not be able to apply to speak at the conference until we can confirm payment of your 2024 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee, at least, one week before the deadline.
 
-To check the status of your membership fee payment, please visit [My Page](https://iap-jp.org/esj/mypage/login/login).
+To check the status of your membership fee payment, please visit <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
 ### Abolition of Quota for Participation in Workshops Only
 

@@ -8,8 +8,8 @@ multi_language: true
 
 前半と後半で会場が変わります。
 
-11～13日：[京都大学吉田キャンパス吉田南構内](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) / [**\[公式のアクセス情報\]**](https://www.kyoto-u.ac.jp/access)  
-14～15日：[国立京都国際会館](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) / [**\[公式のアクセス情報\]**](https://www.icckyoto.or.jp/access/getting_here/)
+11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> / <a href="https://www.kyoto-u.ac.jp/access" target="_blank">**\[公式のアクセス情報\]**</a>  
+14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a> / <a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">**\[公式のアクセス情報\]**</a>
 
 ## 会場へのアクセス
 
@@ -41,10 +41,10 @@ multi_language: true
 
 #### 3. **hoopバス**
 
-京都駅からは、京都駅八条口と京都大学吉田キャンパスを結ぶ [hoopバス](https://hoopbus.jp) が混雑せず便利です。
+京都駅からは、京都駅八条口と京都大学吉田キャンパスを結ぶ <a href="https://hoopbus.jp" target="_blank">hoopバス</a> が混雑せず便利です。
 
 - hoopバスに乗り、「京都大学前」で下車、徒歩約5分。
-    - 京都駅からは、南側の[八条口](https://hoopbus.jp/place/)が乗車場所、所要時間は約30分です。
+    - 京都駅からは、南側の<a href="https://hoopbus.jp/place/" target="_blank">八条口</a>が乗車場所、所要時間は約30分です。
     - 朝のみ15分に一本、日中は30分に一本の運行頻度です。
     - 一方向に周回するルートのため、京都駅・河原町御池以外から乗車する際はご注意ください。
 
@@ -71,10 +71,10 @@ multi_language: true
 
 ### 参考情報
 
-- [路線図「地下鉄・バスナビ」(PDF)](https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/JPN202503(map)WEB.pdf)
-- [京都市交通局](https://www.city.kyoto.lg.jp/kotsu/index.html)
-- [京都大学：アクセス](https://www.kyoto-u.ac.jp/access)
-- [国立京都国際会館：アクセス・駐車場](https://www.icckyoto.or.jp/access/getting_here/)
+- <a href="https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/JPN202503(map" target="_blank">路線図「地下鉄・バスナビ」(PDF)</a>WEB.pdf)
+- <a href="https://www.city.kyoto.lg.jp/kotsu/index.html" target="_blank">京都市交通局</a>
+- <a href="https://www.kyoto-u.ac.jp/access" target="_blank">京都大学：アクセス</a>
+- <a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">国立京都国際会館：アクセス・駐車場</a>
 
 ## 宿泊場所について
 

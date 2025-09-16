@@ -64,7 +64,7 @@ Under no circumstances will the deadline be extended. For details, please refer 
 
 ### I lost my membership ID/login ID
 
-If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact us from the [inquiry form](/contact_en).
+If you are an ESJ member, please contact our membership administration officer using the inquiry form on the <a href="https://bunken.org/esj/mypage/login/login" target="_blank">The Ecological Society of Japan - My Page</a>. If you are not an ESJ member, please contact us from the [inquiry form](/contact_en).
 
 ### If I am attending only as an audience and not giving a presentation, by when should I apply?
 

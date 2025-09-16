@@ -39,7 +39,7 @@ Regular presentations include oral and poster sessions.
 
 You can apply for various types of presentations at the following page.
 
-**[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
 
 - Speakers are requested to submit their applications by 31st Oct. 2025 23:59 (JST).
 - The following information is required to apply for a presentation. Please note that this information cannot be changed after the deadline.

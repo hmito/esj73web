@@ -83,11 +83,11 @@ The following are important notes related to session proposals. Please also chec
 
 You can apply for the sessions at the following pages.
 
-**[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
 
 - The deadline to apply for the Symposium and Workshop is 31st Oct. 2025 23:59 (JST).
-- Organizers apply for proposal of sessions using the membership number registered on the conference application site. The membership number can also be found by using the member search function on [My Page](https://iap-jp.org/esj/mypage/login/login).
-    - **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
+- Organizers apply for proposal of sessions using the membership number registered on the conference application site. The membership number can also be found by using the member search function on <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
+    - **All co-organizers/speakers must be registered on <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">the conference application site</a> before the organizer submits an application (deadline: 31st Oct. 2025).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
 - Organizers will register all presentation together. Please collect the following information before submitting.
     - Title (no more than 150 characters)
     - Name and affiliation of speakers/co-presenters
@@ -104,7 +104,7 @@ You can apply for the sessions at the following pages.
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of symposium invited  speakers.
     - Non-members are requested to apply for membership by 31st Oct. 2025 23:59 (JST) and pay the conference fee by 17th Feb. 2026 23:59 (JST), by referring to [this page](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
-- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number and register your information (e-mail address, affiliation, etc.) as soon as possible.
+- **All co-organizers/speakers must be registered on <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">the conference application site</a> before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
@@ -119,7 +119,7 @@ To promote collaboration with other fields, we welcome invited speakers from non
 
 To apply for the program, please ask the invited speakers to follow the procedures outlined below.
 
-1. Please access [the conference application site](https://iap-jp.org/esj/conf/login_en.php).
+1. Please access <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">the conference application site</a>.
 1. Please proceed as follows: Non-members ⇒ Create a new ID.
 1. Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
 1. Please fill in the required information in the other fields and complete the registration procedure.

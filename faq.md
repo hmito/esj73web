@@ -63,7 +63,7 @@ multi_language: true
 
 ### 会員番号／ログインIDを忘れました
 
-会員の方は生態学会の[マイページ](https://bunken.org/esj/mypage/login/login)内の問い合わせから会員管理業務係に会員番号をお問い合わせください。非会員の方は[問い合わせページ](/contact)にてお問合せください。
+会員の方は生態学会の<a href="https://bunken.org/esj/mypage/login/login" target="_blank">マイページ</a>内の問い合わせから会員管理業務係に会員番号をお問い合わせください。非会員の方は[問い合わせページ](/contact)にてお問合せください。
 
 ### 大会参加のみで発表しない場合、いつまでに申し込めばよいですか？
 
