@@ -125,7 +125,7 @@ remarks:
 <tr class="even">
 <td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
 <td></td>
-<td></td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 <td></td>

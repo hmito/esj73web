@@ -125,7 +125,7 @@ For application, please see [**here**](/registinfo_en).
 <tr class="even">
 <td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
-<td></td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 <td></td>
