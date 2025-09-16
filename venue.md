@@ -19,7 +19,7 @@ multi_language: true
 
 ### 11-13日：京都大学吉田南構内へのアクセス
 
-四条通や京都駅発着の市バスは大変混雑し、乗車時間もかかります。おすすめは以下のルートです。いずれのルートでも、交通系ICに対応しています。
+四条通や京都駅発着の市バスは大変混雑し、乗車時間もかかります。おすすめは以下のルートです。いずれのルートでも、交通系ICカードに対応しています。
 
 #### 1. 地下鉄烏丸線＋市バス
 
@@ -41,7 +41,7 @@ multi_language: true
 
 #### 3. **hoopバス**
 
-京都駅からは、京都駅八条口と京大病院を結ぶ [hoopバス](https://hoopbus.jp) が混雑せず便利です。
+京都駅からは、京都駅八条口と京都大学吉田キャンパスを結ぶ [hoopバス](https://hoopbus.jp) が混雑せず便利です。
 
 - hoopバスに乗り、「京都大学前」で下車、徒歩約5分。
     - 京都駅からは、南側の[八条口](https://hoopbus.jp/place/)が乗車場所、所要時間は約30分です。
@@ -73,6 +73,8 @@ multi_language: true
 
 - [路線図「地下鉄・バスナビ」(PDF)](https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/JPN202503(map)WEB.pdf)
 - [京都市交通局](https://www.city.kyoto.lg.jp/kotsu/index.html)
+- [京都大学：アクセス](https://www.kyoto-u.ac.jp/access)
+- [国立京都国際会館：アクセス・駐車場](https://www.icckyoto.or.jp/access/getting_here/)
 
 ## 宿泊場所について
 
