@@ -8,8 +8,8 @@ multi_language: true
 
 前半と後半で会場が変わります。
 
-11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> / <a href="https://www.kyoto-u.ac.jp/access" target="_blank">**\[公式のアクセス情報\]**</a>  
-14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a> / <a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">**\[公式のアクセス情報\]**</a>
+11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> \[<a href="https://www.kyoto-u.ac.jp/access" target="_blank">公式のアクセス情報</a>\]  
+14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a> \[<a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">公式のアクセス情報</a>\]
 
 ## 会場へのアクセス
 
@@ -71,7 +71,7 @@ multi_language: true
 
 ### 参考情報
 
-- <a href="https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/JPN202503(map" target="_blank">路線図「地下鉄・バスナビ」(PDF)</a>WEB.pdf)
+- <a href="https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/JPN202503(map)WEB.pdf" target="_blank">路線図「地下鉄・バスナビ」(PDF)</a>
 - <a href="https://www.city.kyoto.lg.jp/kotsu/index.html" target="_blank">京都市交通局</a>
 - <a href="https://www.kyoto-u.ac.jp/access" target="_blank">京都大学：アクセス</a>
 - <a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">国立京都国際会館：アクセス・駐車場</a>
