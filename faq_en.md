@@ -41,9 +41,6 @@ Participants who attend only workshops must also apply for conference registrati
 
 Yes, it is possible. For details on the procedure, please see [**“Invoice Payment”**](/registinfo_en#Invoice-Payment).
 
-
-Yes, it is possible. If you wish to pay by invoice, please first register for participation through the system. Select "Postal Transfer" as the payment method. Payment must be made in advance. After completing your registration, please contact us via the [inquiry page](/contact_en).
-
 ### Will a receipt be issued for the participation fee?
 
 Receipts are issued from the conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026.
