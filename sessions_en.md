@@ -13,22 +13,18 @@ The following symposium was selected for this year's [ER Symposium](/ersympo_en)
 
 ---
 
-**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
+### **『Toward an Old-Growth Concept for Semi-natural Ecosystems: Insights from Japanese Grasslands and Beyond』**
 
-[Organizer]
+[Organizer]  
+Hiroko Kurokawa (Kyoto University)
 
-===WIP=== <!--Hiroko Kurokawa (Kyoto University)-->
- <!--Hiroko Kurokawa (Kyoto University)-->
+[ER Invited Speaker]  
+**Joseph W. Veldman** (Texas A&M University, USA)
+<!-- ![](/media/...) -->
 
-[ER Invited Speaker]
+Dr. Joseph W. Veldman is a pioneer in grassland ecosystem research, recognized for revealing the long-overlooked conservation value of grasslands and for extending the “old-growth” concept to them. His ideas form the foundation of the project The Environmental Value of Ancient Grasslands, conducted by the symposium organizers. Inviting Dr. Veldman will place Japanese grassland research in a global context and integrate knowledge from semi-natural grasslands into international studies. This symposium will advance grassland ecology and conservation while raising awareness of the ecological significance of non-forest ecosystems maintained by long-term disturbance regimes, which have often been overlooked.
 
-===WIP:Photo=== <!-- ![](/media/...) -->
-
-===WIP:Name and Affiliation===<!--**Joseph W. Veldman** (Texas A&M University, USA)-->
-
-===WIP:Profile===<!--Profile...-->
-
----Dr. Joseph W. Veldman is a pioneer in grassland ecosystem research, recognized for revealing the long-overlooked conservation value of grasslands and for extending the “old-growth” concept to them. His ideas form the foundation of the project The Environmental Value of Ancient Grasslands, conducted by the symposium organizers. Inviting Dr. Veldman will place Japanese grassland research in a global context and integrate knowledge from semi-natural grasslands into international studies. This symposium will advance grassland ecology and conservation while raising awareness of the ecological significance of non-forest ecosystems maintained by long-term disturbance regimes, which have often been overlooked.
+---
 
 The journal Ecological Research supports the travel expenses of ER invited speakers. The invited speaker is invited to contribute a review or feature paper related to the symposium content on the journal of Ecological Research.
 

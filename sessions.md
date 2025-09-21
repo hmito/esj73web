@@ -16,15 +16,13 @@ multi_language: true
 ### **『Toward an Old-Growth Concept for Semi-natural Ecosystems: Insights from Japanese Grasslands and Beyond』**
 
 【提案者】  
-＝==WIP=== <!--黒川紘子（京都大学）-->
+黒川紘子（京都大学）
 
 【ER招待講演者】  
+**Joseph W. Veldman** (Texas A&M University, USA)
 
-==WIP:Photo=== <!-- ![](/media/...) -->
+<!-- ![](/media/...) -->
 
-==WIP:Name and Affi=== <!--**Joseph W. Veldman** (Texas A&M University, USA)-->
-
-==WIP:Profile=== <!--プロフィール・・・-->
 Dr. Joseph W. Veldman is a pioneer in grassland ecosystem research, recognized for revealing the long-overlooked conservation value of grasslands and for extending the “old-growth” concept to them. His ideas form the foundation of the project The Environmental Value of Ancient Grasslands, conducted by the symposium organizers. Inviting Dr. Veldman will place Japanese grassland research in a global context and integrate knowledge from semi-natural grasslands into international studies. This symposium will advance grassland ecology and conservation while raising awareness of the ecological significance of non-forest ecosystems maintained by long-term disturbance regimes, which have often been overlooked.
 
 ---
