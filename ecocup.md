@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/ecocup/
-menu: 日程・各種企画 > エコカップ
+menu: プログラム > エコカップ
 toc: false
 multi_language: false
 ---
@@ -14,13 +14,12 @@ multi_language: false
 ## 概要
 
 - 開催日時：2026年3月16日（月）10:00〜17:00（大会翌日）
-- 会場：[ミズノスポーツプラザ京都伏見](https://shisetsu.mizuno.jp/kyoto_fushimi)（屋外屋根付き人工芝コートでプレイできます！）
+- 会場：<a href="https://shisetsu.mizuno.jp/kyoto_fushimi" target="_blank">ミズノスポーツプラザ京都伏見</a>（屋外屋根付き人工芝コートでプレイできます！）
 - 参加資格：学会の参加者、および学会の参加者と研究室などで繋がりのある人
 - 申込期限：2026年2月20日（金）
 
 サッカー・フットサル経験の有無に寄らず、一人でも、周りの人と一緒でも、お気軽にご参加ください。これまでエコカップに参加したことのない方の参加、大歓迎です。お知り合いの方を是非お誘いください。
 
-大会の詳細・申し込み方法については、近日公開予定のエコカップHPにて告知する予定です。
-<!--大会の詳細・申込方法については、[エコカップHP](https://sites.google.com/view/esjecocup?usp=sharing)をご覧ください。-->
+大会の詳細・申込方法については、<a href="https://sites.google.com/view/esjecocup?usp=sharing" target="_blank">エコカップHP</a>をご覧ください。
 
 エコカップ2026実行委員会

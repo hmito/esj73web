@@ -14,9 +14,9 @@ The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 11th Mar. (Wed) – 15 Mar. (Sun), 2026
 
 **= Venue =**  
-The venue will change between the first and second halves of the meeting  
-11 - 13 Mar.: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
-14 - 15 Mar.: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+The [venue](/venue_en) will change between the first and second halves of the meeting  
+11 - 13 Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>  
+14 - 15 Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a>
 
 **We recommend booking your accommodation well in advance.** Convenient areas for accessing both venues include the vicinity of Kyoto Station and along the Karasuma Subway Line (Kyoto Municipal Subway Karasuma Line).
 
@@ -26,7 +26,7 @@ The venue will change between the first and second halves of the meeting
 - For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#Restrictions-on-Multiple-Presentations). Online presentations are not permitted.
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
-    - Online presentations will involve uploading files in advance, allowing participants to freely view them during the meeting period. No core time will be scheduled.
+    - Online presentations will be conducted by uploading files to the conference platform in advance, allowing participants to view them freely during the conference period. No core time will be set.
     - Core time will be scheduled for onsite poster presenters.
 - On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
@@ -59,7 +59,7 @@ Please read and agree to the following before participating in conference events
 
 ## Schedule
 
-The detailed timetable will be released around the beginning of January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
+The detailed timetable will be released around early January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
 
 For application, please see [**here**](/registinfo_en).
 
@@ -105,7 +105,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="#mixer">Mixer</a></td>
+<td colspan=2><a href="#Mixer">Mixer</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,7 +125,7 @@ For application, please see [**here**](/registinfo_en).
 <tr class="even">
 <td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
-<td></td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -162,7 +162,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
+<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
 </tr>
     <tr class="even">
 <td>Onsite</td>
@@ -177,7 +177,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until around April.</td>
+<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
 </tr>
 <tr class="odd">
 <td>Onsite</td>
@@ -189,7 +189,7 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/juniorlec">Junior Ecology Course</a></td>
+<td colspan=2><a href="/juniorlec">Junior Ecology Course (in Japanese)</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -211,7 +211,7 @@ For application, please see [**here**](/registinfo_en).
 
 ## Fees and Registrations
 
-Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](/registinfo_en).
+Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registration Overview](/registinfo_en).
 
 ||Early bird<br/>Until Feb. 17 13:00| Normal price<br/>After Feb. 20|
 |---|---|---|
@@ -232,23 +232,23 @@ The Mixer will be held on the evening of 14th Mar. at the Kyoto International Co
 
 Free Wi-Fi is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
 
-- **Yoshida-South Campus, Kyoto University:** [eduroam](https://www.eduroam.jp/en) is generally available throughout the venue. Participants with an eduroam account may use this service.
-- **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \([ICCK_Public_WiFi](https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\) is available throughout the venue. Please note that each connection session is limited to 60 minutes.
+- **Yoshida-South Campus, Kyoto University:** <a href="https://www.eduroam.jp/en" target="_blank">eduroam</a> is generally available throughout the venue. Participants with an eduroam account may use this service. Please note that even if you do not have an eduroam account, the conference organizers will not provide any special assistance.
+- **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \(<a href="https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\" target="_blank">ICCK_Public_WiFi</a> is available throughout the venue. Please note that each connection session is limited to 60 minutes.
 
 *This information is provided for reference regarding venue facilities only. The conference organizers cannot accommodate any requests or inquiries regarding Wi-Fi connectivity.*
 
 ## Support for Participants
 
-ESJ73 will have a [Childcare Room](/childcare_en#Child-Care) at the venue. We also plan to set up a [Family Lounge](/childcare_en#Family-Lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](/childcare_en) page for details.
+ESJ73 will have a [Childcare Service](/childcare_en#Childcare-Service) at the venue. We also plan to set up a [Family Lounge](/childcare_en#Family-Lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare support](/childcare_en) page for details.
 
 ## Promoting Diversity at the Meeting
 
-The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/e_index.html#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
+The Ecological Society of Japan upholds a <a href="https://www.esj.ne.jp/esj/e_index.html#diversity" target="_blank">ESJ Diversity Statement</a> and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
 
 If you require reasonable accommodations for presentations or attendance at the meeting due to health conditions or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](/reasonable_accom_en).
 
-Kyoto University provides a [Free Access Map](https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/) that clearly displays access routes, so please refer to it as well.
-Barrier-free information for the ICC Kyoto 国立京都国際会館 is available [here](https://www.icckyoto.or.jp/facility/accessibility/).
+Kyoto University provides a <a href="https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/" target="_blank">Free Access Map</a> that clearly displays access routes, so please refer to it as well.
+Barrier-free information for the ICC Kyoto 国立京都国際会館 is available <a href="https://www.icckyoto.or.jp/en/facility-2/accessibility/" target="_blank">here</a>.
 
 ## Code of Conduct
 

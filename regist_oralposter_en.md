@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/regist_oralposter_en/
-menu: Various applications > Regular Presentations
+menu: Registration > Regular Presentations
 toc: false
 multi_language: true
 ---
@@ -39,22 +39,21 @@ Regular presentations include oral and poster sessions.
 
 You can apply for various types of presentations at the following page.
 
-**[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
 
 - Speakers are requested to submit their applications by 31st Oct. 2025 23:59 (JST).
 - The following information is required to apply for a presentation. Please note that this information cannot be changed after the deadline.
     - Title of your presentation (no more than 150 characters).
     - Names and affiliations of you and co-presenters.
 - Please select research field of your presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
-- Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 17st Feb. 2026 23:59 (JST).
+- Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 17th Feb. 2026 23:59 (JST).
 - Please also check [Other Notes](/registinfo_en#Other-Notes) before submitting your abstract.
 
 <table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody>
 <tr>
-<td><a href="/sessions_en#Open-Session">Wildlife Trade (Open session)</a></td>
+<td colspan=2><a href="/sessions_en#Open-Session">Sustainable Use, Trade and Harvesting of Wildlife (Open session)</a></td>
 <td><a href="/sessions_en#Open-Session">Extended Phenotype (Open session)</a></td>
 <td><a href="/sessions_en#Open-Session">Human Dimension (Open session)</a></td>
-<td></td>
 </tr>
 <tr>
 <td>Plant ecophysiology</td>
@@ -135,7 +134,7 @@ Poster award will be judged based on online posters.
 ### Precautions
 
 - The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline (scheduled for 7th Mar. 2026, 23:59 (JST)).
-- The format for the poster should be **one A0-size sheet**. Either portrait or landscape orientation is acceptable. This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
+- The poster format should be **one A0-size sheet, portrait orientation only**.　This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
 

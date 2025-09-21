@@ -12,7 +12,8 @@ Please note that only currently available information regarding the presentation
 ## Oral Presentation
 
 - All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
-- A Speaker Ready Room will be provided for uploading presentations. You will need to upload your presentation files, such as PowerPoint, yourself at the venue.
+- **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.**
+    - Please bring a USB flash drive and proceed to the Speaker Ready Room located within the venue.
     - Details will be updated around January.
 - If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 

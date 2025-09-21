@@ -77,7 +77,7 @@ Please note that if your proposal is accepted, the information provided in your 
 Travel expenses are covered within the society's travel expense regulations (URL: [https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances.
 
 For further details, please refer to the following file. We apologize, but only the Japanese version is available.  
-[\[About Travel Expenses for Overseas Invitees (Japanese version only)\]](https://edit.esj-meeting.net/wp-content/uploads/2025/09/海外招聘者旅費について_2023.docx)
+[\[Travel Expenses policy for Inviting Overseas Researchers (pdf file)\]](https://edit.esj-meeting.net/wp-content/uploads/2025/09/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf)
 
 ## Note 2
 

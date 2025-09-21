@@ -6,11 +6,11 @@ multi_language: true
 
 # Childcare support
 
-[Child care](#Child-Care) and [family lounge](#Family-Lounge) will be available at the ESJ73 meeting. For other venue facilities such as nursing rooms and diaper changing spaces, please see [here] (#Facilities).
+[Childcare Service](#Childcare-Service) and [family lounge](#Family-Lounge) will be available at the ESJ73 meeting. For other venue facilities such as nursing rooms and diaper changing spaces, please see [here] (#Facilities).
 
-## Child Care
+## Childcare Service
 
-Child care will be provided in the ESJ73 venue to those who have completed advance application and payment. The service is provided by Poppins service Kyoto, Poppins Corporation, which is contracted out by the ESJ.
+Childcare service will be provided in the ESJ73 venue to those who have completed advance application and payment. The service is provided by Poppins service Kyoto, Poppins Corporation, which is contracted out by the ESJ.
 
 ### Operating dates
 

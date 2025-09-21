@@ -8,8 +8,8 @@ multi_language: true
 
 The venue will change between the first and second halves of the meeting.
 
-11th - 13th Mar.: [Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6) \/ [**\[Access\]**](https://www.kyoto-u.ac.jp/en/access)  
-14 - 15 Mar.: [Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7) \/ [**\[Access\]**](https://www.icckyoto.or.jp/en/access-2/getting_here/)
+11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
+14 - 15 Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
 ## Access to the Venues
 
@@ -19,7 +19,7 @@ Transportation options to the venues include city buses, subways, Keihan Railway
 
 ### 11th–13th: Access to Kyoto University, Yoshida South Campus
 
-City buses departing from Shijo Street and Kyoto Station are often extremely crowded and may take longer. The recommended routes are listed below. All options accept [pre-paid IC Travel Card](https://www.japan.travel/en/plan/ic-card/).
+City buses departing from Shijo Street and Kyoto Station are often extremely crowded and may take longer. The recommended routes are listed below. All options accept <a href="https://www.japan.travel/en/plan/ic-card/" target="_blank">pre-paid IC Travel Card</a> (e.g., Suica, ICOCA, PiTaPa).
 
 #### 1. Karasuma Subway Line + City Bus
 
@@ -32,19 +32,19 @@ The area along the Karasuma Subway Line, which runs north-south from Kyoto Stati
     - City Bus Route 201 bound for "Hyakumanben/Gion": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 203 bound for "Ginkakuji/Kinrin-shako": Get off at "Hyakumanben," then walk about 10 minutes.
 
-#### 2. Keihan Railway (IC cards accepted)
+#### 2. Keihan Railway
 
 From the Kamogawa area and Fushimi area, Keihan Railway is convenient.
 
 - Take the Keihan Main Line bound for "Demachiyanagi" and get off at "Demachiyanagi Station."
 - Exit from Exit 7 and walk about 15 minutes.
 
-#### 3. Hoop Bus (IC cards and cashless payment accepted)
+#### 3. Hoop Bus
 
-From Kyoto Station, [Hoop Bus](https://hoopbus.jp) connecting Kyoto Station Hachijo-guchi and Kyoto University Hospital is a convenient and less crowded option.
+From Kyoto Station, <a href="https://hoopbus.jp" target="_blank">Hoop Bus</a> connecting Kyoto Station Hachijo-guchi and Kyoto University Yoshida campus is a convenient and less crowded option.
 
 - Board the Hoop Bus and ride for approximately 30 minutes. Get off at "Kyoto University-mae," then walk about 5 minutes.
-    - The boarding location at Kyoto Station is the [Hachijo Exit](https://hoopbus.jp/place/) on the south side.
+    - The boarding location at Kyoto Station is the <a href="https://hoopbus.jp/place/" target="_blank">Hachijo Exit</a> on the south side.
     - Buses run every 15 minutes in the morning and every 30 minutes during the day.
     - One-way circular route; take care when boarding from locations other than Kyoto Station or Kawaramachi Oike.
 
@@ -60,19 +60,21 @@ From Nijo and Yamashina areas, the Tozai Subway Line is the best choice. You can
     - City Bus Route 201 bound for "Hyakumanben/Senbon Imadegawa": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 206 bound for "Takano/Kitaoji Bus Terminal": Get off at "Kyodai Seimon-mae," then walk about 10 minutes.
 
-### 14th-15th: Access to Kyoto ICC
+### 14th-15th: Access to ICC Kyoto
 
 The Karasuma Subway Line provides convenient access.
 
 - Take the Karasuma Subway Line bound for "Kokusaikaikan" and get off at "Kokusaikaikan Station."
 - Exit from Exit 4-2 and walk about 5 minutes.
 
-You can also access Kyoto ICC by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
+You can also access ICC Kyoto by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
 
 ### Additional Information
 
-- [Subway-Bus Route Map (PDF)](https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/ENG202503(map)WEB.pdf)
-- [Kyoto City Bus & Subway Information Guide](https://www2.city.kyoto.lg.jp/kotsu/webguide/en/index.html)
+- <a href="https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/ENG202503(map)WEB.pdf" target="_blank">Subway-Bus Route Map (PDF)</a>
+- <a href="https://www2.city.kyoto.lg.jp/kotsu/webguide/en/index.html" target="_blank">Kyoto City Bus & Subway Information Guide</a>
+- <a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Kyoto University Official Access Information</a>  
+- <a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">ICC Kyoto Official Access Information</a>
 
 ## Accommodation
 
