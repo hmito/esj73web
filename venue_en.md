@@ -1,5 +1,5 @@
 ---
-url: https://esj-meeting.net/venue/
+url: https://esj-meeting.net/venue_en/
 menu: Meeting Information > Venue
 multi_language: true
 ---
@@ -9,7 +9,7 @@ multi_language: true
 The venue will change between the first and second halves of the meeting.
 
 11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
-14 - 15 Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
+14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
 ## Access to the Venues
 

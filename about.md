@@ -249,7 +249,7 @@ ESJ73では、会場内に[託児室](/childcare#託児室)を設置します。
 
 本大会では、誰もが参加しやすい環境の整備を進めています。発表や聴講に際して、健康上の理由やその他の事情により合理的配慮が必要な場合には、あらかじめご相談ください。どのような配慮が提供可能か検討させていただきます。詳細は[合理的配慮の提供](/reasonable_accom)をご覧ください。
 
-京都大学がアクセス経路をわかりやすく表示した<a href="https://www.icckyoto.or.jp/facility/accessibility/" target="_blank">フリーアクセスマップ](https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/)を提供しているので、こちらもご参照ください。国立京都国際会館のバリアフリー情報は[こちら</a>にございます。
+京都大学がアクセス経路をわかりやすく表示した<a href="https://www.icckyoto.or.jp/facility/accessibility/" target="_blank">フリーアクセスマップ</a>を提供しているので、こちらもご参照ください。国立京都国際会館のバリアフリー情報は<a href="https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/" target="_blank">こちら</a>にございます。
 
 ## 大会行動規範
 

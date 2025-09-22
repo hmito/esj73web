@@ -15,7 +15,7 @@ Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/reg
 
 Important deadlines are as follows.
 
-||**Thursday, 31st Oct. 2025<br/>23:59 (JST)**|**Friday, 17th Tue. 2026 <br/>13:00 (JST)**|**Friday, 17th Tue. 2026 <br/>23:59 (JST)**|**Until the day of the conference**|
+||**31st Oct. 2025<br/>23:59 (JST)**|**17th Feb. 2026 <br/>13:00 (JST)**|**17th Feb. 2026 <br/>23:59 (JST)**|**Until the day of the conference**|
 |:---:|---|---|---|---|
 |[**Procedures for participation in the conference**](#Registration-for-Participation)||Early bird registration<br/>　Regular：17000 JPY<br/>　Student：8500 JPY||Normal price registration<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
 |[**Procedures for Presentations and Sessions**](#Application-for-Presentations-and-Sessions)|Deadline for Proposals||Deadline for Abstract Submission||

@@ -35,6 +35,8 @@ Participants who attend only workshops must also apply for conference registrati
 
 ### Can non-members freely attend the public lectures?
 
+Public lectures are open to non-members as well. Furthermore, if you are attending only the public lecture, registration for the conference and the participation fee are not required.
+
 ## About Participation Fees
 
 ### Is it possible to pay the participation fee using public funds from my institution (such as invoice payment)?

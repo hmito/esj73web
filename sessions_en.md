@@ -13,7 +13,7 @@ The following symposium was selected for this year's [ER Symposium](/ersympo_en)
 
 ---
 
-### **『Toward an Old-Growth Concept for Semi-natural Ecosystems: Insights from Japanese Grasslands and Beyond』**
+### **"Toward an Old-Growth Concept for Semi-natural Ecosystems: Insights from Japanese Grasslands and Beyond"**
 
 [Organizer]  
 Hiroko Kurokawa (Kyoto University)
@@ -56,7 +56,7 @@ Despite the wealth of fascinating ecological phenomena observed in nature, membe
 
 ---
 
-### [Human Dimensions]
+### [Human Dimensions in Ecology]
 
 [Convener]  
 Minori Tokito (Kyoto University), Naoko Tokuchi (Kyoto University)
