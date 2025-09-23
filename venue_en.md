@@ -60,6 +60,8 @@ From Nijo and Yamashina areas, the Tozai Subway Line is the best choice. You can
     - City Bus Route 201 bound for "Hyakumanben/Senbon Imadegawa": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 206 bound for "Takano/Kitaoji Bus Terminal": Get off at "Kyodai Seimon-mae," then walk about 10 minutes.
 
+--------------------
+
 ### 14th-15th: Access to ICC Kyoto
 
 The Karasuma Subway Line provides convenient access.
@@ -68,6 +70,8 @@ The Karasuma Subway Line provides convenient access.
 - Exit from Exit 4-2 and walk about 5 minutes.
 
 You can also access ICC Kyoto by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
+
+---------------------
 
 ### Additional Information
 
