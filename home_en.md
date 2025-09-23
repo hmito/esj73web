@@ -8,7 +8,7 @@ multi_language: true
 
 ## Important Notices
 
-- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is 31th Oct. 2025, 23:59 JST.**
+- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is 31st Oct. 2025, 23:59 JST.**
     - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
     - **[Symposia and Workshops](/regist_session_en)**
     - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
@@ -27,7 +27,7 @@ multi_language: true
 The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
 **[Dates](/about_en#Schedule): 11th Mar. 2026 to 15th Mar. 2026**  
-**[Venue](/venue_en): Two locations - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University</a>（11～13日）and <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto)</a>（14～15日）**
+**[Venue](/venue_en): Two locations - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University</a>（11-13th）and <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto)</a>（14-15th）**
 
 For more details about the meeting, please see [this page](/about_en).
 All oral presentations and sessions at this conference will be held [on-site](/about_en#Meeting-Format). Poster presentations will be conducted online, but those who wish may also present on-site.
