@@ -31,7 +31,7 @@ Please note that only currently available information regarding the presentation
 
 ## Self On-Demand Streaming
 
-At this conference, all oral presenters will utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
+At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
 
 - It covers all oral presentations.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
