@@ -26,7 +26,7 @@ multi_language: true
 
 The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
-**[Dates](/about_en#schedule): 11th Mar. 2026 to 15th Mar. 2026**  
+**[Dates](/about_en#Schedule): 11th Mar. 2026 to 15th Mar. 2026**  
 **[Venue](/venue_en): Two locations - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University</a>（11～13日）and <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto)</a>（14～15日）**
 
 For more details about the meeting, please see [this page](/about_en).
