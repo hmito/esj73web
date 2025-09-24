@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/venue_en/
-menu: Meeting Information > Venue
+menu: About > Venue
 multi_language: true
 ---
 

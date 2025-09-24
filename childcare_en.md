@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/childcare_en/
-menu: Meeting Information > Childcare support
+menu: About > Childcare support
 multi_language: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/presentation_en/
-menu: Meeting Information > Guidelines for Presentations
+menu: About > Guidelines for Presentations
 toc: false
 multi_language: true
 ---
