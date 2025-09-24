@@ -28,6 +28,8 @@ Regular presentations include oral and poster sessions.
 
 ### Application Process
 
+Please note the following points when applying for a presentation. For **details regarding presentations**, please refer to [**“Presentation Guidelines”**](/presentation_en).
+
 - Please enter your preferred presentation format (oral or poster) when you apply. However, we may not be able to accommodate your request depending on the number of presentations.
 - Speakers for regular presentations are limited to members of the Ecological Society of Japan.
     - Non-members may also eligible to have their names listed as co-presenters (see [Presentation Eligibility by Membership Type](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
