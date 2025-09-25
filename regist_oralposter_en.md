@@ -19,7 +19,7 @@ Regular presentations include oral and poster sessions.
 
 **Poster session**
 
-- There are two opportunities to present posters: online presentations (for all participants) using the conference platform, and on-site presentations (for applicants) at the conference venue.
+- There are two opportunities to present posters: online presentations (**mandatory**) using the conference platform, and on-site presentations (optional) at the conference venue.
 - Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 8th to 10th Mar. 2026).
 - There will be a core time during the conference period for on-site poster presentations. 
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, this does not apply to those who have received the Poster Award at a previous ESJ meeting.
