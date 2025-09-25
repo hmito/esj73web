@@ -12,6 +12,7 @@ multi_language: true
     - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
     - **[Symposia and Workshops](/regist_session_en)**
     - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
+    - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations) at this conference.
 - **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
     - Early registration discount is available until 17th Feb. 2026, 13:00 JST.
     - Please note that conference registration will be unavailable from 28th Nov. 2025 to 5th Jan. 2026 due to system migration.
