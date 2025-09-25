@@ -35,7 +35,7 @@ Please note the following points when applying for a presentation. For **details
     - Non-members may also eligible to have their names listed as co-presenters (see [Presentation Eligibility by Membership Type](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
     - Non-members who wish to present a lecture should complete the admission procedure to the Society by 31st Oct. 2025 23:59 (JST), referring to [Procedure for new membership to the Ecological Society of Japan](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
 - Please note that **["one-person, one-presentation"](/registinfo_en#Restrictions-on-Multiple-Presentations) (with abstract submission) is the general rule** for this conference. You cannot be a speaker for other regular presentations, symposia, and workshops.
-    - **Presentations without abstract submissions, such as general introductions, commentators, panelists, and lightning talks, are acceptable**. However, symposia may be held at the same time as oral presentations. Even if times of presentations overlap, no adjustments will be made to the presentation schedule.
+    - **Contributions that do not require the submission of a presentation abstract, such as general introductions, commentators, panelists, and lightning talks, are acceptable**. However, symposia may be held at the same time as oral presentations. Even if times of presentations overlap, no adjustments will be made to the presentation schedule.
 
 ### How to apply
 

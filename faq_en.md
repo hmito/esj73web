@@ -25,9 +25,9 @@ For symposia, non-members can participate for free as invited speakers using the
 
 Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events.
 
-For workshops, non-members cannot register abstracts or give presentations. Please join the Ecological Society of Japan and apply as a regular member.
+For workshops, non-members cannot give presentations with abstract. Please join the Ecological Society of Japan and apply as a regular member.
 
-Note: Non-members may give presentations that do not require abstract registration, such as introductory remarks, commentary, panel discussions, or lightning talks. However, even in these cases, the conference registration fee must be paid.
+Note: Non-members may give contributions that do not require the submission of a presentation abstract, such as introductory remarks, commentary, panel discussions, or lightning talks. However, even in these cases, the conference registration fee must be paid.
 
 ### I want to attend only a workshop. What should I do?
 
