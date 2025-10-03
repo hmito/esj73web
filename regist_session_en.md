@@ -92,9 +92,10 @@ You can apply for the sessions at the following pages.
     - Title (no more than 150 characters)
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for symposium invited speakers)
-- Please access the application site and enter the session title, session abstract (maximum 400 words for English), and information on each presentation.
-    - Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
+- Access the application site and first submit your session proposal by entering the session title and session abstract (up to 800 characters in Japanese or 400 words in English).
     - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on-demand, and whether or not you would like to stream each of the presentation on-demand.
+- After submitting your session proposal, the presentation registration menu will appear. Please register presentation information such as titles or speakers for all presentations requiring abstract submission.
+    Do not register contributions that do not require the submission of a presentation abstract, such as session introductions, comments, or statements of opinion. If necessary, include this information within the session abstract.- 
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
     - In the case that your proposal is not accepted in the lottery, [alternative measures](/faq_en/#I-would-like-to-give-a-presentation-in-a-symposium-or-workshop-but-can-I-also-apply-for-a-general-presentation-in-case-my-session-is-not-accepted) will be provided. Please refrain from submitting duplicate applications for Regular Presentations as a backup in case your session proposal is not accepted.
 - The conference committee will not be involved in the content of the session, but those that are deemed to contain the contents that defames or slanders individuals or groups may not be adopted.
