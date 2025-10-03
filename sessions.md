@@ -59,7 +59,7 @@ ERシンポジウム招待講演者へは旅費の補助が行われるほか、
 
 ---
 
-### 【人と自然 / Human dimension in ecology】
+### 【人と自然 / Human Dimension in Ecology】
 
 【提案者】  
 時任美乃理、徳地直子（京都大学）

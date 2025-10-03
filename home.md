@@ -12,6 +12,7 @@ multi_language: true
     - **[一般講演（口頭・ポスター）](/regist_oralposter)**
     - **[シンポジウム、自由集会](/regist_session)**
     - **[ジュニアポスター（旧：高校生ポスター）](/juniorposter)**
+    - なお、本大会から[自由集会と一般講演双方で講演者となることができなくなりました](/registinfo#複数講演の制限)。ご注意ください。
 - **大会参加の申込みを受付中です。[大会参加申込み](/registinfo#大会参加申込み)からお手続きください。**
     - 参加費の早期割引は、2026年2月17日13時までです。
     - なお、2025年11月28日から2026年1月5日までは、システム移行のため大会参加申込みができませんのでご注意ください。
@@ -26,8 +27,8 @@ multi_language: true
 
 **第73回日本生態学会大会（ESJ73）を下記の通り開催します**。
 
-**日程：2026年3月11日(水)〜15日(日)**  
-**会場：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a>（11～13日）＋<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a>（14～15日）**
+**[日程](/about#スケジュール)：2026年3月11日(水)〜15日(日)**  
+**[会場](/venue)：2会場で実施 - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a>（11～13日）＋<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a>（14～15日）**
 
 大会案内の詳細は[こちら](/about)をご覧ください。
 

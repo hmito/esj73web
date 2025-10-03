@@ -22,7 +22,7 @@ multi_language: true
 |Presenters| On-site|On-site|On-site|
 |<a href="#Online-Support">Online Support</a>|On-Demand Streaming|On-Demand Streaming |On-Demand Streaming|
 |Priority|Top priority|Lottery if too many applications|Top priority|
-|Presentations by non-ESJ members|**Encouraged**<br><a href="#Symposium-Invited-Speaker-Program">Invited speakers</a> are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
+|Presentations by non-ESJ members|**Encouraged**<br><a href="#Symposium-Invited-Speaker-Program">Invited speakers</a> are exempt from the registration fee|**Not allowed**<br>Contributions without presentation abstract are allowed|**Allowed**|
 
 ### Symposium
 
@@ -37,7 +37,7 @@ Symposium is the main session of the conference, and we call members to submit p
 Workshop is the session traditionally emphasized by the Ecological Society of Japan as a place to help launch new fields and to allow free discussion of various topics outside the framework of ecology.
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
-- It is also possible to hold the session without abstract submissions, such as statement of opinions or lightning talks. In this case, there is no need to register for abstract submissions.
+- It is also possible to hold sessions consisting only of contributions without presentation abstract, such as opinion statements or lightning talks. In this case, you do not need to register presentation information when submitting your session proposal.
 
 ### Forum
 
@@ -51,7 +51,7 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 **Online presentations will not be accepted for presentations with abstract submission** at this conference. All such presentations must be given on-site, except in cases where reasonable accommodation is required.
 
-If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for presentations that do not require abstract submission**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
+If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
 
 ### On-Demand Streaming of Presentations
 
@@ -68,9 +68,9 @@ The following are important notes related to session proposals. Please also chec
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
     - For information on how to use the symposium invited speaker program, please refer to [**"Symposium Invited Speaker Program"**](#Symposium-Invited-Speaker-Program).
 - From ESJ73, [**each participant is allowed to give only one presentation with abstract\(\*\)**](/registinfo_en#Restrictions-on-Multiple-Presentations). Unlike previous conferences, **it is no longer permitted to be a presenter in both a Workshop and a Regular Presentation**.
-- Presentations such as explanation of purpose, commentator, panelist, or lightning talk, which do not require abstract submission \(\*\), are not counted as presentations. Therefore, participation in sessions in these formats is possible even for non-members and is not subject to the restriction on multiple presentations.
-    - However, **even for presentations without abstract submission, conference registration is required. Organizers are requested to inform participants accordingly**.
-    - Symposia and Regular Presentations may be scheduled in the same time slot. If a presentation without abstract submission overlaps with your own presentation time, **no adjustment of presentation slots will be made**.
+- Contributions that do not require the submission of a presentation abstract \(\*\), such as explanation of purpose, commentator, panelist, or lightning talk, are not counted as "presentations". Therefore, participation in sessions in these formats is possible even for non-members and is not subject to the restriction on multiple presentations.
+    - **Even for such contributions, conference registration is required. Organizers are requested to inform participants accordingly**.
+    - Symposia and Regular Presentations may be scheduled in the same time slot. Even if the sessions overlaps with your own presentation time, **no adjustment of presentation slots will be made**.
     - As Workshops may take various formats, they are planned to be scheduled in time slots that do not overlap with Symposia or Regular Presentations.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
 - Organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers, in accordance with the [promotion of diversity at the conference](/about_en#Promoting-Diversity-at-the-Meeting).

@@ -1,6 +1,6 @@
 ---
-url: https://esj-meeting.net/venue/
-menu: Meeting Information > Venue
+url: https://esj-meeting.net/venue_en/
+menu: About > Venue
 multi_language: true
 ---
 
@@ -9,7 +9,7 @@ multi_language: true
 The venue will change between the first and second halves of the meeting.
 
 11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
-14 - 15 Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
+14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
 ## Access to the Venues
 
@@ -60,6 +60,8 @@ From Nijo and Yamashina areas, the Tozai Subway Line is the best choice. You can
     - City Bus Route 201 bound for "Hyakumanben/Senbon Imadegawa": Get off at "Kyodai Seimon-mae," then walk about 5 minutes.
     - City Bus Route 206 bound for "Takano/Kitaoji Bus Terminal": Get off at "Kyodai Seimon-mae," then walk about 10 minutes.
 
+--------------------
+
 ### 14th-15th: Access to ICC Kyoto
 
 The Karasuma Subway Line provides convenient access.
@@ -68,6 +70,8 @@ The Karasuma Subway Line provides convenient access.
 - Exit from Exit 4-2 and walk about 5 minutes.
 
 You can also access ICC Kyoto by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
+
+---------------------
 
 ### Additional Information
 
