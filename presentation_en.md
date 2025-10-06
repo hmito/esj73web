@@ -38,7 +38,7 @@ At this conference, all oral presenters could utilize “Self On-Demand Streamin
 - The use of Self On-Demand Streaming is **optional**. It is not mandatory for presentations.
     - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use Self On-Demand Streaming**.
 - You may only upload one video containing content equivalent to the presentation given on the day.
-    - Format is MP4 only, with a maximum size of approximately 2GB.
+    - Format is MP4 only, with a maximum size of 500MB.
     - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
 - **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
 - Uploading and streaming will be conducted on the conference platform “RakuRaku-Conference”.
