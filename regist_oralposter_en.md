@@ -104,7 +104,7 @@ To encourage researchers in the early stages of their careers, poster awards wil
 
 Student members who have not obtained a Ph.D. (as of the  deadline for regular presentations) are eligible to apply. Please select "Apply for Poster Award" when you apply for a presentation.
 
-- However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan (including joint meetings with other societies such as EAFES) are not eligible to apply, even if they meet the above requirements.
+- However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply, even if they meet the above requirements.
 - Speakers who requested “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" in the [Open session](/sessions_en#Open-Session) as their presentation field are also not eligible to apply for the Poster Award.
 
 ### Evaluation Criteria
