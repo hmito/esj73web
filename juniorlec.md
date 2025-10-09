@@ -28,6 +28,6 @@ remarks: 画像および、画像にリンク有
 
 - 樋口 裕美子 (京都大学生態学研究センター)
 - 村松 大輔 (奈良教育大学)
-- 米原 義成 (株式会社ポケモン)
+- 米原 善成 (株式会社ポケモン)
 
 [![](/media/juniorlec_poster.png)](/media/juniorlec_poster.pdf)
