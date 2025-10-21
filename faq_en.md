@@ -75,7 +75,7 @@ You can freely cancel or change your submitted information on the webpage before
 
 ### I selected an on-site poster presentation but am now unable to attend in person.
 
-If you requested an on-site presentation for your poster or junior poster but will not be attending in person, no specific action is required. However, online presentation is mandatory for all participants. Please ensure your poster is uploaded to the conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
+If you requested an on-site presentation for your poster or junior poster but will not be attending in person, no specific action is required. However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
 
 ### I want to cancel my presentation. How should I do this?
 
