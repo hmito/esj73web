@@ -73,6 +73,10 @@ You can apply to attend as an audience until the day of the conference.
 
 You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration Oct. 31, 2025). After that, you cannot correct any information about your presentation.
 
+### I selected an on-site poster presentation but am now unable to attend in person.
+
+If you requested an on-site presentation for your poster or junior poster but will not be attending in person, no specific action is required. However, online presentation is mandatory for all participants. Please ensure your poster is uploaded to the conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
+
 ### I want to cancel my presentation. How should I do this?
 
 You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
