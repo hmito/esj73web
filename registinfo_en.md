@@ -108,7 +108,7 @@ The Ecological Society of Japan aims to create rules for participation that are 
 
 - Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation—from this conference onward, **each participant is allowed to give only one presentation with abstract (\*)**.
     - Please note that, unlike previous conferences, <span style="color:red;">it is NOT permitted to be a presenter in both a workshop and a regular presentation at this conference</span>.
-    - Presentations given in forums, which are events organized by various committees, are not subject to this restriction.
+    - This restriction applies only for being a presenter. There are no restrictions for being a co-presenter (co-author). Presentations given in forums, which are events organized by various committees, are not subject to this restriction.
 - **All presentations requiring abstract registration, except for poster presentations, must be delivered on-site**. However, this requirement does not apply in cases of reasonable accommodation.
 - In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as general introductions, commentators, panelists, or lightning talks, or to organize a session only.
     - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
@@ -145,7 +145,7 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 **<a href="https://www.esj.ne.jp/esj/English/join.html" target="_blank">[Go to the ESJ membership application site]</a>**
 
-1. Please follow the above link to complete the new membership application.
+1. Please follow the above link to complete the new membership application. Selecting "2026" for "Date of Admission" enable you to present at ESJ73.　
 2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
 3. Please use your temporary membership number to register for the conference and presentation.
 
