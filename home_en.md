@@ -8,15 +8,13 @@ multi_language: true
 
 ## Important Notices
 
-- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is 31st Oct. 2025, 23:59 JST.**
-    - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
-    - **[Symposia and Workshops](/regist_session_en)**
-    - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
-    - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations) at this conference.
-- **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
+- **Applications for presentations and sessions are now closed.**
+    - After the deadline, we cannot accept presentation applications or modifications to submitted applications. We also cannot accept corrections via errata sheets. Please understand that we cannot accommodate inquiries regarding this matter.
+- **Registration for conference participation remains open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
     - Early registration discount is available until 17th Feb. 2026, 13:00 JST.
     - Please note that conference registration will be unavailable from 28th Nov. 2025 to 5th Jan. 2026 due to system migration.
-- **The [results of the selection for Open Sessions and ER Symposia](/sessions_en) have been published.**
+- **We recommend booking your accommodation well in advance.**
+    - For venue access information, please check the [Venue Page](/venue).
 
 ### Upcoming Schedule
 
@@ -37,6 +35,7 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.11.01: The call for general presentations, symposia, workshop and junior posters has closed.
 - 2025.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
 - 2025.09.30: Basic meeting information, access to the venue, and childcare support have been posted.
 - 2025.09.30: Guidelines for presenters and frequently asked questions have been posted.
