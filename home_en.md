@@ -35,6 +35,7 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.11.01: Information about Moai has been posted.
 - 2025.11.01: The call for general presentations, symposia, workshop and junior posters has closed.
 - 2025.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
 - 2025.09.30: Basic meeting information, access to the venue, and childcare support have been posted.
