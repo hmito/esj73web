@@ -19,10 +19,6 @@ This year, we have planned both "Online Moai \(個別モアイ\)", where mentees
 
 Any member of the Ecological Society of Japan can easily participate in Moai, regardless of whether they are attending the annual meeting.
 
-Details on how to apply or the schedule will be posted on the Moai website (scheduled for release in January 2026). Please check the Moai website for further information.
+Details on how to apply or the schedule will be posted on [**the Moai official website**](https://ugui-guigui.wixsite.com/moai-esj2024) (scheduled for release in January 2026).
 
-[\[Moai website\]](https://ugui-guigui.wixsite.com/moai-esj2024) (https://ugui-guigui.wixsite.com/moai-esj2024)
-
-第73回日本生態学会大会モアイ企画ワーキンググループ  
-塩尻かおり,佐竹暁子, 小泉逸郎 (日本生態学会将来計画専門委員会)  
-竹重志織, 竹内希海, 植村洋亮, 丸岡奈津美, 澄川太皓, 齋藤 淳也, 安田和真, 鎌田真壽
+ESJ73 Moai Project Working Group
