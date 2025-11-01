@@ -18,9 +18,9 @@ ESJ73では、若手研究者が生態学関連の道に進んだ先輩にキャ
 
 大会参加の有無にかかわらず、生態学会員であれば誰でも気軽にモアイに参加できます。
 
-日程や申し込み方法については、モアイの公式ホームページで公開いたします（2026年1月公開予定）。詳しくはモアイHPをご覧ください。
+日程や申し込み方法、メンター等の詳細は、[**モアイ公式ホームページ**](https://ugui-guigui.wixsite.com/moai-esj2024)をご覧ください（2026年1月公開予定）。
 
-[\[モアイHP\]](https://ugui-guigui.wixsite.com/moai-esj2024) (https://ugui-guigui.wixsite.com/moai-esj2024)
+[\[モアイHP\]] (https://ugui-guigui.wixsite.com/moai-esj2024)
 
 
 第73回日本生態学会大会モアイ企画ワーキンググループ  
