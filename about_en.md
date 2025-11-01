@@ -50,13 +50,6 @@ The availability of online participation is as follows. Please note that **real-
 
 \* Streaming is available only if desired by the session organizers or presenters.
 
---------------------------------------------------------------------------
-
-Please read and agree to the following before participating in conference events and sessions that will be available via on-demand streaming:
-
-- All events subject to on-demand streaming will be **recorded in their entirety, including Q&A sessions**.
-- Cameras will be installed at the venue for recording, so **the audience and venue atmosphere may be captured in the videos**.
-
 ## Schedule
 
 The detailed timetable will be released around early January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
@@ -230,12 +223,7 @@ The Mixer will be held on the evening of 14th Mar. at the Kyoto International Co
 
 ## Wi-Fi connectivity
 
-Free Wi-Fi is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
-
-- **Yoshida-South Campus, Kyoto University:** <a href="https://www.eduroam.jp/en" target="_blank">eduroam</a> is generally available throughout the venue. Participants with an eduroam account may use this service. Please note that even if you do not have an eduroam account, the conference organizers will not provide any special assistance.
-- **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \(<a href="https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\" target="_blank">ICCK_Public_WiFi</a> is available throughout the venue. Please note that each connection session is limited to 60 minutes.
-
-*This information is provided for reference regarding venue facilities only. The conference organizers cannot accommodate any requests or inquiries regarding Wi-Fi connectivity.*
+for details, please see [Attendance Information](/attendance_en#Wi-Fi-Connectivity).
 
 ## Support for Participants
 
