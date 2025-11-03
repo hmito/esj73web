@@ -52,7 +52,7 @@ Please note that only currently available information regarding the presentation
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
 - The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. 
-    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
+    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
 - At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc.
 - If the organizer requests it, the presentation will be recorded by a contractor.
     - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.

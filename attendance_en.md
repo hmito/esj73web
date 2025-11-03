@@ -1,12 +1,12 @@
 ---
-url: https://esj-meeting.net/attendance/
-menu: 大会案内 > 参加にあたって
+url: https://esj-meeting.net/attendance_en/
+menu: About > Information for attendance
 multi_language: true
 ---
 
-# 参加にあたって
+# Information for attendance
 
-参加に際しての情報、注意点をまとめたページです。
+This page summarizes information and points to note when participating.
 
 ## Registration
 

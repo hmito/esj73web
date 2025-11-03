@@ -51,7 +51,7 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 **Online presentations will not be accepted for presentations with abstract submission** at this conference. All such presentations must be given on-site, except in cases where reasonable accommodation is required.
 
-If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
+If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
 
 ### On-Demand Streaming of Presentations
 
