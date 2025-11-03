@@ -43,7 +43,7 @@ Free Wi-Fi is available at both venues. Please note that the quality or availabi
 
 *This information is provided for reference regarding venue facilities only. The conference organizers cannot accommodate any requests or inquiries regarding Wi-Fi connectivity.*
 
-## Recording at the Venue
+## Recording for Streaming at the Venue
 
 In ESJ73, sessions and official events will be recorded for on-demand streaming. Please read and agree to the following before participating in conference events and sessions that will be available via on-demand streaming:
 

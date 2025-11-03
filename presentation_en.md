@@ -12,8 +12,7 @@ Please note that only currently available information regarding the presentation
 ## Oral Presentation
 
 - All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
-	- The OS of the presentation PC is Windows 10. Presentations can be made with PowerPoint files or PDF files.
-	- Video can be played back as long as it is in MP4 format. Other formats are not guaranteed.
+<!-- 実行委員会担当者の方へ：日本語版に合わせて、適宜英語版の作成をお願いします。-->
 - **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.**
     - Please bring a USB flash drive and proceed to the Speaker Ready Room located within the venue.
     - Details will be updated around January.
