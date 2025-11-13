@@ -11,7 +11,8 @@ remarks:
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 
 **= Dates =**  
-11th Mar. (Wed) – 15th Mar. (Sun), 2026
+11th Mar. (Wed) – 15th Mar. (Sun), 2026  
+(Online poster viewing period: 8th Mar. –)
 
 **= Venue =**  
 The [venue](/venue_en) will change between the first and second halves of the meeting  

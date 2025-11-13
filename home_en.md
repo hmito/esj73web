@@ -9,10 +9,13 @@ multi_language: true
 ## Important Notices
 
 - **Applications for presentations and sessions are now closed.**
-    - After the deadline, we cannot accept presentation applications or modifications to submitted applications. We also cannot accept corrections via errata sheets. Please understand that we cannot accommodate inquiries regarding this matter.
-- **Registration for conference participation remains open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
-    - Early registration discount is available until 17th Feb. 2026, 13:00 JST.
-    - Please note that conference registration will be unavailable from 28th Nov. 2025 to 5th Jan. 2026 due to system migration.
+    - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
+- **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
+    - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
+- **Abstract registration closes at 17th Feb. 2026, 23:59 (JST).**
+    - For poster presentations, you must <span color="red">register your online poster file by 7th Mar., when online presentations begin</span>.
+    - For regular oral presentations, <span color="red">presentation files must be registered at the venue</span>. See [Presentation Guidelines](/presentation_en#oral-presentation) for details.
+    - For symposia, workshops, and forums, the conference organizers will not manage presentation files.
 - **We recommend booking your accommodation well in advance.**
     - For venue access information, please check the [Venue Page](/venue).
 
@@ -25,7 +28,7 @@ multi_language: true
 
 The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
-**[Dates](/about_en#Schedule): 11th Mar. 2026 to 15th Mar. 2026**  
+**[Dates](/about_en#Schedule): 11th Mar. to 15th Mar. 2026  (Online poster viewing period: 8th Mar.–)**  
 **[Venue](/venue_en): Two locations - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University</a>（11-13th）and <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto)</a>（14-15th）**
 
 For more details about the meeting, please see [this page](/about_en).
@@ -35,6 +38,7 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.11.28: Information about the ER Symposium invited speaker has been posted.
 - 2025.11.01: Information about Moai has been posted.
 - 2025.11.01: The call for general presentations, symposia, workshop and junior posters has closed.
 - 2025.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
