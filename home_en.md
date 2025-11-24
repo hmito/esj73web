@@ -12,10 +12,11 @@ multi_language: true
     - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
 - **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
     - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
-- **Abstract registration closes at 17th Feb. 2026, 23:59 (JST).**
-    - For poster presentations, you must <span color="red">register your online poster file by 7th Mar., when online presentations begin</span>.
-    - For regular oral presentations, <span color="red">presentation files must be registered at the venue</span>. See [Presentation Guidelines](/presentation_en#oral-presentation) for details.
-    - For symposia, workshops, and forums, the conference organizers will not manage presentation files.
+- **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
+- **Handling of presentation files varies depending on the session type.**
+    - For poster presentations, you must <span color="red">register your online poster file by 7th Mar.</span>, as online presentations will begin on 8th Mar.
+    - For regular oral presentations, it is not required to register presentation files online before the conference. However, since presentations will be delivered using designated conference PCs at the venue, you must <span color="red">copy your presentation file to the conference PC by the designated deadline</span>. Further details will be announced later in the [Presentation Guidelines](/presentation_en#oral-presentation).
+    - For symposia, workshops, and forums, the conference organizers will not handle presentation files. Please contact the session organizer regarding the management of presentation files.
 - **We recommend booking your accommodation well in advance.**
     - For venue access information, please check the [Venue Page](/venue).
 
