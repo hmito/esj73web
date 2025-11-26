@@ -11,7 +11,7 @@ remarks:
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 
 **= Dates =**  
-11th Mar. (Wed) – 15th Mar. (Sun), 2026  
+11th Mar. (Wed) Afternoon – 15th Mar. (Sun), 2026  
 (Online poster viewing period: 8th Mar. –)
 
 **= Venue =**  
@@ -126,7 +126,7 @@ For application, please see [**here**](/registinfo_en).
 <tr class="even">
 <td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -135,7 +135,7 @@ For application, please see [**here**](/registinfo_en).
 <tr class="odd">
 <td colspan=2>Workshops</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -144,8 +144,8 @@ For application, please see [**here**](/registinfo_en).
 <tr class="even">
 <td colspan=2>Forums</td>
 <td></td>
-<td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
