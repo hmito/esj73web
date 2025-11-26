@@ -12,7 +12,7 @@ remarks:
 第73回日本生態学会大会（ESJ73）
 
 **=日程=**  
-2026年3月11日(水)〜15日(日)  
+2026年3月11日(水)午後 〜 15日(日)  
 (オンラインポスター閲覧期間：2026年3月8日～)
 
 **=会場=**  
@@ -126,7 +126,7 @@ remarks:
 <tr class="even">
 <td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -135,7 +135,7 @@ remarks:
 <tr class="odd">
 <td colspan=2>自由集会</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -144,8 +144,8 @@ remarks:
 <tr class="even">
 <td colspan=2>フォーラム</td>
 <td></td>
-<td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>

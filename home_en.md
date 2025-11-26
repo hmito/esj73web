@@ -8,15 +8,12 @@ multi_language: true
 
 ## Important Notices
 
-- **Applications for presentations and sessions are now closed.**
-    - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
 - **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
     - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
+- **Applications for presentations and sessions are now closed.**
+    - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
 - **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
-- **Handling of presentation files varies depending on the session type.**
-    - For poster presentations, you must <span color="red">register your online poster file by 7th Mar.</span>, as online presentations will begin on 8th Mar.
-    - For regular oral presentations, it is not required to register presentation files online before the conference. However, since presentations will be delivered using designated conference PCs at the venue, you must <span color="red">copy your presentation file to the conference PC by the designated deadline</span>. Further details will be announced later in the [Presentation Guidelines](/presentation_en#oral-presentation).
-    - For symposia, workshops, and forums, the conference organizers will not handle presentation files. Please contact the session organizer regarding the management of presentation files.
+- **The first day of the conference, 11th Mar., will start in the afternoon.**
 - **We recommend booking your accommodation well in advance.**
     - For venue access information, please check the [Venue Page](/venue).
 
@@ -39,6 +36,7 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.11.28: Updated the implementation status of sessions in the conference schedule table.
 - 2025.11.28: Information about the ER Symposium invited speaker has been posted.
 - 2025.11.01: Information about Moai has been posted.
 - 2025.11.01: The call for general presentations, symposia, workshop and junior posters has closed.
