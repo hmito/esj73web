@@ -12,7 +12,7 @@ multi_language: true
     - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
 - **Applications for presentations and sessions are now closed.**
     - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
-- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from 12th Mar. onward.**
+- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from 12th Mar. onward. See the [schedule](/about_en#schedule) for detail.**
 - **We recommend booking your accommodation well in advance.**
     - For venue access information, please check the [Venue Page](/venue).
 
