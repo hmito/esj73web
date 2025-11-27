@@ -190,6 +190,14 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="even">
+<td colspan=2><a href = "/moai">メンタリング＆meetup(モアイ)</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+<tr class="odd">
 <td colspan=2><a href = "/juniorlec">みんなのジュニア生態学講座</a></td>
 <td></td>
 <td></td>
@@ -198,7 +206,7 @@ remarks:
 <td></td>
 <td>○</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan=2>公開講演会</td>
 <td></td>
 <td></td>

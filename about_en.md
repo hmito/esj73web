@@ -190,6 +190,15 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="even">
+<td colspan=2><a href="/moai_en">Mentoring & Meetup (Moai)</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+</tr>
+<tr class="odd">
 <td colspan=2><a href="/juniorlec">Junior Ecology Course (in Japanese)</a></td>
 <td></td>
 <td></td>
@@ -198,7 +207,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 <td>○</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan=2>Public Lecture</td>
 <td></td>
 <td></td>
