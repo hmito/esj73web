@@ -12,7 +12,7 @@ multi_language: true
     - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
 - **Applications for presentations and sessions are now closed.**
     - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
-- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from March 12 onward.**
+- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from 12th Mar. onward.**
 - **We recommend booking your accommodation well in advance.**
     - For venue access information, please check the [Venue Page](/venue).
 
@@ -22,9 +22,9 @@ multi_language: true
     - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
 - **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
 - **Handling of presentation files differs depending on the presentation type. Detailed information will be announced in early January.**
-    - For poster presentations, all presenters are required to upload their online posters by March 7.
-    - For oral presentations, no pre-conference upload is necessary; however, presenters must register their presentation files in advance at the Speaker Ready Room provided at the venue. Please bring your files on a USB flash drive or CD-R.
-    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding file handling.
+    - For **poster** presentations, all presenters are required to **upload their online posters by 7th Mar.**.
+    - For **oral** presentations, no pre-conference upload is necessary; however, presenters must register their presentation files in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
+    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#sessions)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
 
 ## Meeting information
 
