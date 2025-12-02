@@ -1,13 +1,17 @@
 ---
 url: https://esj-meeting.net/program_en/
-menu: Schedule and Programs > Shcedule and Programs
+menu: Programs > Timetable and Programs
 toc: true
 multi_language: true
+remarks:
+  このページは、「プログラム」のメニュー自体をクリック時にも開くように設定。\
+  色付き文字による強調アリ。
+  ファイル添付アリ。画像表示とダウンロード、双方に対応してほしい。
 ---
 
-# Schedule and Programs
+# Timetable and Programs
 
-## Schedule
+## Timetable
 <!---以下の一点目は、html作成時に赤字にしてください--->
 - The start and end times and layout of sessions are subject to change. Please use this information as a reference when making reservations for airline tickets and accommodations.
 - Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). Abstract information is not yet included, but please use this page to confirm the date and time of your presentation.
