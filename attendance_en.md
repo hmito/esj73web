@@ -10,7 +10,7 @@ This page summarizes information and points to note when participating.
 
 ## Registration
 
-- Participants who have brought their name badges do not need to check in at the registration desk. Please download and print your name badge from the conference platform ONLINE CONF in advance and wear it at all times while at the venue.
+- Participants who have brought their name badges do not need to check in at the registration desk. Please download and print your name badge from the online conference platform ONLINE CONF in advance and wear it at all times while at the venue.
 - Name badge holders will be available on designated tables near the registration desk. Please feel free to take one. You may also bring your own holder. A return box will be placed in the same locations, so please return the holder when leaving the conference.
 - If you forget your name badge, please present the digital version of your name badge or participation certificate (available for download from ONLINE CONF) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a badge holder, and wear it at all times.
 - On-site registration is available. After completing the registration process from ONLINE CONF, please present your name badge or participation certificate on your device at the registration desk. You will receive a designated paper insert, on which you must write your name, place it inside a badge holder, and wear it during the conference.

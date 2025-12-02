@@ -16,7 +16,7 @@ Please note that only currently available information regarding the presentation
 - **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.**
     - Please bring a USB flash drive and proceed to the Speaker Ready Room located within the venue.
     - Details will be updated around January.
-- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
+- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the online conference platform.
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, 3 bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 
@@ -53,7 +53,7 @@ The onsite poster session is available only to those who selected the onsite opt
 Presenters may optionally upload the following materials:
 
 1. Graphical Abstract (JPEG)
-   - This will be used as a thumbnail on the conference platform.
+   - This will be used as a thumbnail on the online conference platform.
    - Please provide a 1200 × 1200 pixel JPEG image that visually represents your research.
 Illustrations, diagrams, or photographs of study organisms are acceptable.
 The key purpose is to create an engaging, eye-catching visual that invites attendees to view your poster.
@@ -75,7 +75,7 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 
 - The online poster viewing period is scheduled for March 8–15.
 - All poster presenters must upload their posters by March 7 at 23:59.
-- Poster upload will be available at any time on the conference platform “Rakuraku Conference” starting January 30, 2026.
+- Poster upload will be available at any time on the online conference platform “Rakuraku Conference” starting January 30, 2026.
 - Poster files may be replaced or updated at any time.
 - There will be no core time or designated discussion session for the online poster presentation.
 - Please communicate with participants using the comment function provided on the platform.
@@ -119,7 +119,7 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 
 ## Self On-Demand Streaming
 
-At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
+At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
 
 - It covers all oral presentations.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
@@ -129,10 +129,10 @@ At this conference, all oral presenters could utilize “Self On-Demand Streamin
     - Format is MP4 only, with a maximum size of 500MB.
     - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
 - **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
-- Uploading and streaming will be conducted on the conference platform “RakuRaku-Conference”.
+- Uploading and streaming will be conducted on the online conference platform “RakuRaku-Conference”.
     - Uploads can be made at any time after 30th Jan. 2026 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
     - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
-    - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the conference platform.
+    - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the online conference platform.
 - Presenters shall bear full responsibility for any consequences arising from the content of their videos.
     - Online video streaming constitutes public transmission under copyright law. Please take care to avoid copyright violations and defamation issues.
     - When citing published works, always clearly indicate the source. If your presentation includes works owned by others, you must obtain permission from the copyright holder for streaming.

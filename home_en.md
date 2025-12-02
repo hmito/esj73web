@@ -30,7 +30,7 @@ The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be he
 **[Dates](/about_en#Schedule): 11th Mar. 2026 to 15th Mar. 2026**  
 **[Venue](/venue_en): Two locations - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University</a>（11-13th）and <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto)</a>（14-15th）**
 
-<a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online platform "Rakuraku-Conference"]**</a>
+<a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online conference platform "Rakuraku-Conference"]**</a>
 
 For more details about the meeting, please see [this page](/about_en).
 All oral presentations and sessions at this conference will be held [on-site](/about_en#Meeting-Format). Poster presentations will be conducted online, but those who wish may also present on-site.
