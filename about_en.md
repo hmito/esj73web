@@ -18,19 +18,21 @@ The [venue](/venue_en) will change between the first and second halves of the me
 11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>  
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a>
 
-**We recommend booking your accommodation well in advance.** Convenient areas for accessing both venues include the vicinity of Kyoto Station and along the Karasuma Subway Line (Kyoto Municipal Subway Karasuma Line).
+**<a href="https://esj73.raku-con.com" target="_blank">[the online conference platform (Rakuraku-Conference)]</a>**
+
+- For those who completed their registration by November 27, please check your email for a message from the Ecological Society of Japan Conference Help Desk (esj-desk@conf.bunken.co.jp) regarding your login information for the online conference platform.
 
 ## Meeting Format
 
-- The meeting will be held in a hybrid format, primarily onsite, with the use of the conference platform (Rakuraku-Conference).
+- The meeting will be held in a hybrid format, primarily onsite, with the use of the online conference platform (Rakuraku-Conference).
 - For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#Restrictions-on-Multiple-Presentations). Online presentations are not permitted.
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
-    - Online presentations will be conducted by uploading files to the conference platform in advance, allowing participants to view them freely during the conference period. No core time will be set.
+    - Online presentations will be conducted by uploading files to the online conference platform in advance, allowing participants to view them freely during the conference period. No core time will be set.
     - Core time will be scheduled for onsite poster presenters.
-- On-Demand Streaming will be available on the conference platform.
-    - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
-    - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["Self On-Demand Streaming"](/presentation_en#Self-On-Demand-Streaming).
+- On-Demand Streaming will be available on the online conference platform.
+    - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online conference platform.
+    - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the online conference platform as ["Self On-Demand Streaming"](/presentation_en#Self-On-Demand-Streaming).
     - Poster presentations: All posters will be published online, and presenters may also upload explanatory videos they have recorded themselves.
 - **All major events will be recorded in their entirety, including Q&A sessions, and made available via on-demand streaming.** Recording will be conducted by professional cameras installed at the venue, so **the audience and speakers’ faces may be captured during filming**. By participating in these events, you are deemed to have understood and agreed to these terms.
 
@@ -155,7 +157,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
+<td colspan=5>* Posters can be viewed and commented on the online conference platform until 5th Apr.</td>
 </tr>
     <tr class="even">
 <td>Onsite</td>
@@ -170,7 +172,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
+<td colspan=5>* Posters can be viewed and commented on the online conference platform until 5th Apr.</td>
 </tr>
 <tr class="odd">
 <td>Onsite</td>

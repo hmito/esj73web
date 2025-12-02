@@ -19,7 +19,9 @@ remarks:
 11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a>  
 14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a>
 
-- **宿泊先をできるだけ早くに確保されることをおすすめします**。両会場へのアクセスに便利なエリアは京都駅周辺や京都市営地下鉄烏丸線沿線です。
+**<a href="https://esj73.raku-con.com" target="_blank">【大会プラットフォーム（らくらくカンファレンス）】</a>**
+
+- 大会プラットフォームへのログイン情報については、11月27日までに参加登録をされた方には日本生態学会大会ヘルプデスク (esj-desk@conf.bunken.co.jp) からのメールをご確認ください。
 
 ## 開催形式
 

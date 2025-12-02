@@ -30,7 +30,10 @@ multi_language: true
 **[日程](/about#スケジュール)：2026年3月11日(水)〜15日(日)**  
 **[会場](/venue)：2会場で実施 - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a>（11～13日）＋<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a>（14～15日）**
 
+**<a href="https://esj73.raku-con.com" target="_blank">【大会プラットフォーム（らくらくカンファレンス）はこちら】</a>**
+
 大会案内の詳細は[こちら](/about)をご覧ください。
+
 
 本大会では、全ての口頭発表および集会は[オンサイトで開催](/about#開催形式)されます。ポスター発表はオンラインで行われますが、希望者はオンサイトでも発表できます。
 
