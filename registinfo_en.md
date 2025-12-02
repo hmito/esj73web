@@ -9,10 +9,9 @@ remarks:
 
 # Registration Overview
 
-- **Applications for [Regular Presentations](regist_oralposter_en), [Symposia](regist_session_en#symposium), and [Workshops](regist_session_en#workshop) is closed. Thank you very much for your registration. Abstract registration is now open at [[Applications site]](https://iap-jp.org/esj/conf/login_en.php) (deadline: 21st Feb. 2025, 23:59 (JST)).**
-- Registration for the conference without a lecture is open at any time. Please access to [the ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).
-
-**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Applications site]</a>**
+- Applications for [Regular Presentations](regist_oralposter_en), [Symposia](regist_session_en#symposium), and [Workshops](regist_session_en#workshop) is closed. Thank you very much for your registration.
+- Registration for the conference without a lecture is open at any time. Please access to <a href="https://esj73.raku-con.com" target="_blank">**[the ESJ73 online conference platform "Rakuraku-Conference"]**</a>.
+- Abstract registration is now open at <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">**[Applications site]**</a> (deadline: 21st Feb. 2025, 23:59 (JST)).**
 
 Important deadlines are as follows.
 
@@ -34,7 +33,7 @@ Important deadlines are as follows.
 
 You can register for the conference participation at the below link.
 
-**<a href="https:????????????????????????????????" target="_blank">[Go to the ESJ72 Platform [ONLINE CONF]]</a>**
+<a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online platform "Rakuraku-Conference"]**</a>
 
 ||Early bird<br/>until 17th Feb. 13:00|Normal price<br/>after 20th Feb.　9:00|
 |---|---|---|

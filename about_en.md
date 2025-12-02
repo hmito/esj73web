@@ -18,7 +18,9 @@ The [venue](/venue_en) will change between the first and second halves of the me
 11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>  
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a>
 
-**We recommend booking your accommodation well in advance.** Convenient areas for accessing both venues include the vicinity of Kyoto Station and along the Karasuma Subway Line (Kyoto Municipal Subway Karasuma Line).
+**<a href="https://esj73.raku-con.com" target="_blank">[the conference platform (Rakuraku-Conference)]</a>**
+
+- For those who completed their registration by November 27, please check your email for a message from the Ecological Society of Japan Conference Help Desk (esj-desk@conf.bunken.co.jp) regarding your login information for the conference platform.
 
 ## Meeting Format
 
