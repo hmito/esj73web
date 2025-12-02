@@ -37,7 +37,7 @@ The onsite poster session is available only to those who selected the onsite opt
     - To ensure smooth display on the platform, a file size of 1 MB or less is recommended.
 
 - Onsite Poster
-    - Posters will be displayed on boards sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
+    - Posters must fit within the display boards, which sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
 
