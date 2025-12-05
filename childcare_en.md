@@ -16,10 +16,11 @@ Childcare service will be provided in the ESJ73 venue to those who have complete
 
 Kyoto Univ. Yoshida-South campus: March 11, 2026 to March 13, 2026.
 Kyoto International Conference Center: March 14, 2026 to March 15, 2026.
+These will be open during the hours when academic conferences are held, including the mixer.
 
 ### Fees
 
-To be updated (in late December).
+We will announce it after it is decided at the December meeting of the Board of Directors of the Ecological Society.
 
 ### Registration
 
@@ -33,12 +34,13 @@ A family lounge will be set up for participants with their infant(s) and school 
 
 Kyoto Univ. Yoshida-South campus: March 11, 2026 to March 13, 2026.
 Kyoto International Conference Center: March 14, 2026 to March 15, 2026.
+These will be open during the same hours as the Childcare Service.
 
 ## Facilities
 
 ### Nursing rooms
 
-In the Kyoto University's Yoshida-South Campus, one room will open as a nursing room.
+In the Kyoto University's Yoshida-South Campus, one room in the same row as the family lounge area will be designated as a nursing room..
 The Kyoto International Conference Center has a nursing room within the venue as part of its facilities.
 
 ### Diaper changing space
