@@ -20,11 +20,11 @@ These will be open during the hours when academic conferences are held, includin
 
 ### Fees
 
-We will announce it after it is decided at the December meeting of the Board of Directors of the Ecological Society.
+The rate is planned to be ¥1,000 per hour. It will be formally decided at the December meeting of the Board of Directors of the Ecological Society.
 
 ### Registration
 
-To be updated (in late December).
+Please apply directly to Poppins Service Kyoto. After using the childcare room, an invoice will be mailed directly to the user from Poppins Service Kyoto around April 10, 2026. Please pay the usage fee to Poppins Service Kyoto.
 
 ## Family Lounge
 
