@@ -11,6 +11,18 @@ The venue will change between the first and second halves of the meeting.
 11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
+# Venue Map
+
+# Opening Hours
+
+| Date | March 11<br>(Wed) | March 12<br>(Thu) | March 13<br>(Fri) | March 14<br>(Sat) | March 15<br>(Sun) |
+| **Venue** | 12:00-<br>19:40 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
+| **Registration** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **Cloak room** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
+| **Family room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **Break room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **Corporate Exhibition** | - | - | - | 10:30-<br>19:45 | 9:00-<br>17:00 |
+
 ## Access to the Venues
 
 Transportation options to the venues include city buses, subways, Keihan Railway, and the hoop Bus. The main routes are outlined below.

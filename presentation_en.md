@@ -9,15 +9,19 @@ multi_language: true
 
 Please note that only currently available information regarding the presentations is provided here. **More detailed information will to be updated around January**.
 
-## Oral Presentation
+## Oral Presentations
 
-- All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
-<!-- 実行委員会担当者の方へ：日本語版に合わせて、適宜英語版の作成をお願いします。-->
-- **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.**
-    - Please bring a USB flash drive and proceed to the Speaker Ready Room located within the venue.
-    - Details will be updated around January.
-- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the online conference platform.
-- The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, 3 bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
+- **All presentations must use the PCs provided at the venue**. Presentations using personal laptops are not permitted.
+- The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
+- Videos can be played if they are in MP4 format. Other formats are not guaranteed.
+- The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
+- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room located in the venue.**
+- Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
+- Oral presenters must submit their presentation files during the designated submission times for each presentation day (March 11: 12:00–14:00, March 12: 10:00–12:00, March 13: 10:00–12:00).
+- Presenters in the symposia (open sessions) must submit their presentation files between 10:00 and 12:00 on March 12.
+- After submitting the presentation file, it may be replaced as long as it is within the submission period.
+- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
+- The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 
 ## Poster Presentation 
@@ -108,6 +112,7 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 ## Sessions
 
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
+    -No file submission is required at the Speaker Ready Room. Please confirm with the organizer if you need to bring your own laptop.
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
 - The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. 
     - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
