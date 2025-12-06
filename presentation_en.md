@@ -24,6 +24,11 @@ Please note that only currently available information regarding the presentation
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 
+### English Oral Sessions
+
+- Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
+
+
 ## Poster Presentation 
 
 - Two opportunities for poster presentations are provided: an online poster session and an onsite (in-person) poster session.
