@@ -12,24 +12,23 @@ Please note that only currently available information regarding the presentation
 ## Oral Presentations
 
 - **All presentations must use the PCs provided at the venue**. Presentations using personal laptops are not permitted.
-- The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
-- Videos can be played if they are in MP4 format. Other formats are not guaranteed.
-- The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
+    - The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
+    - Videos can be played if they are in MP4 format. Other formats are not guaranteed.
 - **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room located in the venue.**
-- Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
-- Oral presenters must submit their presentation files during the designated submission times for each presentation day (March 11: 12:00–14:00, March 12: 10:00–12:00, March 13: 10:00–12:00).
-- Presenters in the symposia (open sessions) must submit their presentation files between 10:00 and 12:00 on March 12.
-- After submitting the presentation file, it may be replaced as long as it is within the submission period.
-- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
+    - Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
+    - Oral presenters must submit their presentation files during the designated submission times for each presentation day (March 11: 12:00–14:00, March 12: 10:00–12:00, March 13: 10:00–12:00).
+    - Presenters in the research field “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" must submit their presentation files between 10:00 and 12:00 on **March 12**.
+    - After submitting the presentation file, it may be replaced as long as it is within the submission period.
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
+- The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
+- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 
 ### English Oral Sessions
 
 - Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
 
-
-## Poster Presentation 
+## Poster Presentation
 
 - Two opportunities for poster presentations are provided: an online poster session and an onsite (in-person) poster session.
 All presenters must participate in the online poster presentation.
