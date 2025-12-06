@@ -22,7 +22,7 @@ remarks:
 
 **<a href="https://esj73.raku-con.com" target="_blank">【大会プラットフォーム（らくらくカンファレンス）】</a>**
 
-- 大会プラットフォームへのログイン情報については、11月27日までに参加登録をされた方には日本生態学会大会ヘルプデスク (esj-desk@conf.bunken.co.jp) からのメールをご確認ください。
+- 11月27日までに参加登録をされた方には、**大会プラットフォームへのログイン情報をメールにてお送りしています**。日本生態学会大会ヘルプデスク (esj-desk@conf.bunken.co.jp) からのメールをご確認ください。
 
 ## 開催形式
 
@@ -55,7 +55,7 @@ remarks:
 
 ## スケジュール
 
-詳細なタイムテーブルは、12月末から1月上旬頃に公開予定です。なお、スケジュールは確定ではありません。**編成の都合で今後変更される可能性**もあります。
+詳細なタイムテーブルは、 [**プログラム**](/program) をご覧ください。
 
 各種申込み情報は [**こちら**](/registinfo) です。
 
@@ -92,7 +92,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>授賞式・受賞講演</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/prize_winners.html" target = "_blank">授賞式・受賞講演</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,7 +119,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
+<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、<a href = "https://www.esj.ne.jp/meeting/abst/73/sympo_index.html" target = "_blank">シンポジウム</a></td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -128,7 +128,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>自由集会</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/jiyu_index.html" target = "_blank">自由集会</td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -137,7 +137,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2>フォーラム</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/forum_index.html" target = "_blank">フォーラム</td>
 <td></td>
 <td></td>
 <td></td>
@@ -146,7 +146,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>口頭発表･英語口頭発表</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/oral_index.html" target = "_blank">口頭発表･英語口頭発表</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -155,7 +155,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan=2>ポスター発表</td>
+<td rowspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/poster_index.html" target = "_blank">ポスター発表</a></td>
 <td>オンライン</td>
 <td>○</td>
 <td colspan=5>※4月5日まで大会プラットフォーム上で閲覧・コメント可能</td>
@@ -232,9 +232,9 @@ remarks:
 - お子様連れでのご参加も大歓迎です。
 - 詳細は後日掲載します。
 
-## 会場のWi-Fi環境
+## 受付・会場設備
 
-[参加にあたって](/attendance#会場のwi-fi環境)をご覧ください。
+受付、クローク、Wi-Fi等については、[参加にあたって](/attendance#会場のwi-fi環境)をご覧ください。
 
 ## 育児支援・キャリア支援
 
