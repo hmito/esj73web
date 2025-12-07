@@ -8,18 +8,18 @@ multi_language: true
 
 前半と後半で会場が変わります。
 
-11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> \[<a href="https://www.kyoto-u.ac.jp/access" target="_blank">公式のアクセス情報</a>\]  
+11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> \[<a href="https://www.kyoto-u.ac.jp/access" target="_blank">公式のアクセス情報</a>\]
 14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a> \[<a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">公式のアクセス情報</a>\]
 
 ## 会場案内図
 
 京都大学会場の案内は下記のリンクを参照してください。
 
-[吉田南構内会場 全体マップ](https://edit.esj-meeting.net/wp-content/uploads/2025/12/京大_会場図_統合.pdf)
-- [吉田南構内マップ](https://edit.esj-meeting.net/wp-content/uploads/2025/12/吉田南構内図.pdf)
-- [総合館の案内図](https://edit.esj-meeting.net/wp-content/uploads/2025/12/吉田南総合館_会場図.pdf)
-- [4号館の案内図](https://edit.esj-meeting.net/wp-content/uploads/2025/12/吉田南4号館_会場図.pdf)
-- [国際高等教育院の案内図](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際高等教育院_会場図.pdf)
+- [s吉田南構内会場 全体マップ](/media/京大_会場図_統合.pdf)
+    - [吉田南構内マップ](/media/吉田南構内図.pdf)
+    - [総合館の案内図](/media/吉田南総合館_会場図.pdf)
+    - [4号館の案内図](/media/吉田南4号館_会場図.pdf)
+    - [国際高等教育院の案内図](/media/国際高等教育院_会場図.pdf)
 
 ## 場内設備の開設時間
 

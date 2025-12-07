@@ -8,14 +8,23 @@ multi_language: true
 
 The venue will change between the first and second halves of the meeting.
 
-11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
+11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
-# Venue Map
+## Venue Map
 
-# Opening Hours
+For venue information at Kyoto University, please refer to the link below.
 
-| Date | March 11<br>(Wed) | March 12<br>(Thu) | March 13<br>(Fri) | March 14<br>(Sat) | March 15<br>(Sun) |
+- [Yoshida-South Campus Venue, Whole map](/media/京大_会場図_統合.pdf)
+    - [Yoshida-South Campus map](/media/吉田南構内図.pdf)
+    - [Academic Center Bldg. floor map](/media/吉田南総合館_会場図.pdf)
+    - [Bldg. No. 4 floor map](/media/吉田南4号館_会場図.pdf)
+    - [Institute of Liberal Arts and Sciences (ILAS) Bldg. floor map](/media/国際高等教育院_会場図.pdf)
+
+## Opening Hours
+
+|  | March 11<br>(Wed) | March 12<br>(Thu) | March 13<br>(Fri) | March 14<br>(Sat) | March 15<br>(Sun) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Venue** | 12:00-<br>19:40 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
 | **Registration** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
 | **Cloak room** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
@@ -82,8 +91,6 @@ The Karasuma Subway Line provides convenient access.
 - Exit from Exit 4-2 and walk about 5 minutes.
 
 You can also access ICC Kyoto by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
-
----------------------
 
 ### Additional Information
 
