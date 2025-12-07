@@ -27,8 +27,6 @@ This page summarizes information and points to note when participating.
 
 ## Lounges, Food & Waste Disposal
 
-## Lounges, Food & Waste Disposal
-
 - Yoshida-South Campus, Kyoto University: The following rooms will be available as break areas: (1) General break rooms (Kyokita 22, Kyokita 35, and 4Gou 10), (2) General rest space (Kyokita 1F Lounge), (3) Family break room (Child-friendly room, Kyokita 3D), (4) Nursery room, and (5) Lactation room (Kyokita 3B). Please note that the family break room is available only for participants accompanied by children. For details, please refer to the [Family Lounge page](https://esj-meeting.net/childcare/#Family_Lounge).
 
 Regarding food and beverages, there are many convenience stores and restaurants around the campus, particularly near the Hyakumanben intersection, which is about a 10-minute walk from the presentation venue. You may bring food purchased at convenience stores, etc., into the venue and eat inside. However, please dispose of trash in the bins placed in each break room, and do not use the waste bins installed by the university around the presentation venue (a notice will be posted to remind attendees).

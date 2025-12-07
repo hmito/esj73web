@@ -231,7 +231,6 @@ The Mixer will be held on the evening of 14th Mar. at the Kyoto International Co
 - No advance registration is required—just come and join the fun!
 - Please note that the conference will not provide food or drinks. You can buy from the food trucks or bring your own.
 - Children are also very welcome to join.
-- More details will be announced later.
 
 ## Wi-Fi connectivity
 
