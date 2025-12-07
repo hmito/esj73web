@@ -63,7 +63,7 @@ In order to prevent problems with the recordings, all recording works will be ha
 
 ### How to organize Sessions
 
-The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#Sessions) page for **notes regarding the venue facilities and recording**.
+The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#SymposiaWorkshopsForums) page for **notes regarding the venue facilities and recording**.
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
     - For information on how to use the symposium invited speaker program, please refer to [**"Symposium Invited Speaker Program"**](#Symposium-Invited-Speaker-Program).

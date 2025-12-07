@@ -22,9 +22,9 @@ multi_language: true
     - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
 - **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
 - **Handling of presentation files differs depending on the presentation type. Detailed information will be announced in early January.**
-    - For **poster** presentations, all presenters are required to **upload their online posters by 7th Mar.**.
-    - For **oral** presentations, no pre-conference upload is necessary; however, presenters must register their presentation files in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
-    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#sessions)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
+    - For **poster** presentations, all presenters are required to **[upload their online posters](/presentation_en#poster-presentation) by 7th Mar.**.
+    - For **oral** presentations, no pre-conference upload is necessary; however, presenters must [register their presentation files](/presentation_en#oral-presentations) in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
+    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#SymposiaWorkshopsForumss)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
 
 ## Meeting information
 

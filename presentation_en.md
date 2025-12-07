@@ -37,49 +37,39 @@ The onsite poster session is available only to those who selected the onsite opt
 
 ### Poster Preparation
 
-- Online Poster
-    - The poster for the online session must consist of one A0-size poster (portrait or landscape orientation).
+- The poster for the **online session** must consist of one A0-size poster (portrait or landscape orientation).
     - Please prepare the poster in PDF format.
     - Do not embed audio or video files within the PDF.
     - The maximum file size is 5 MB.
     - To ensure smooth display on the platform, a file size of 1 MB or less is recommended.
-
-- Onsite Poster
-    - Posters must fit within the display boards, which sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
+- The posters for the **onsite sessios** must fit within the display boards, which sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
-
-- Language Considerations
-   - We encourage presenters to be considerate of attendees who may not understand Japanese.
+- We encourage presenters to be considerate of attendees who may not understand Japanese.
    - Suggestions include providing both Japanese and English summaries or preparing an English version of the poster.
    - If you prepare an English version:
        - For the online presentation, you may upload two pages in a single PDF (e.g., A0 Japanese + A0 English).
        - The file size limit remains 5 MB for the entire PDF.
    - Presenters who selected English as their presentation language must prepare their poster in English.
+- Presenters may optionally upload the following materials:
+    1. Graphical Abstract (JPEG)
+        - This will be used as a thumbnail on the online conference platform.
+        - Please provide a 1200 × 1200 pixel JPEG image that visually represents your research.
+        Illustrations, diagrams, or photographs of study organisms are acceptable.
+        The key purpose is to create an engaging, eye-catching visual that invites attendees to view your poster.
+    2. Supplementary Materials (PDF)
+        - Additional figures, data, or documents may be included as supplementary materials.
+        - Include them as additional pages within the same PDF after the main poster.
+        - The total file size (poster + supplementary materials) must not exceed 5 MB.
+    3. Explanation Videos (MP4)
+        - Up to two video files may be uploaded.
+        - Each video must be:
+            - 5 minutes or shorter
+            - MP4 format
+            - Maximum file size 500 MB
+        - These videos will be displayed separately from the poster on the platform.
 
-#### Optional Uploads for Online Presentation
-Presenters may optionally upload the following materials:
-
-1. Graphical Abstract (JPEG)
-   - This will be used as a thumbnail on the online conference platform.
-   - Please provide a 1200 × 1200 pixel JPEG image that visually represents your research.
-Illustrations, diagrams, or photographs of study organisms are acceptable.
-The key purpose is to create an engaging, eye-catching visual that invites attendees to view your poster.
-
-2. Supplementary Materials (PDF)
-   - Additional figures, data, or documents may be included as supplementary materials.
-   - Include them as additional pages within the same PDF after the main poster.
-   - The total file size (poster + supplementary materials) must not exceed 5 MB.
-
-3. Explanation Videos (MP4)
-   - Up to two video files may be uploaded.
-   - Each video must be:
-       - 5 minutes or shorter
-       - MP4 format
-       - Maximum file size 500 MB
-   - These videos will be displayed separately from the poster on the platform.
-
-## Online Poster Presentation
+### Online Poster Presentation
 
 - The online poster viewing period is scheduled for March 8–15.
 - All poster presenters must upload their posters by March 7 at 23:59.
@@ -91,7 +81,7 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 - Access to posters and explanatory videos will be limited to registered participants only.
 - Posters will be displayed in a format that prevents viewers from downloading the file or copying text.
 
-## Onsite Poster Presentation
+### Onsite Poster Presentation
 
 - For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (March 14–15) from 12:00 to 14:00.
   - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
@@ -113,7 +103,7 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 - The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on March 14 until the end of the conference (March 14, 14:00 – March 15, 17:00).
 
 
-## Sessions
+## Symposia, Workshops, Forums
 
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
     -No file submission is required at the Speaker Ready Room. Please confirm with the organizer if you need to bring your own laptop.
