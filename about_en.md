@@ -10,18 +10,18 @@ remarks:
 
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 
-**= Dates =**
-11th Mar. (Wed) Afternoon – 15th Mar. (Sun), 2026
+**= Dates =**  
+11th Mar. (Wed) Afternoon – 15th Mar. (Sun), 2026  
 (Online poster viewing period: 8th Mar. –)
 
-**= Venue =**
-The [venue](/venue_en) will change between the first and second halves of the meeting
-11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>
+**= Venue =**  
+The [venue](/venue_en) will change between the first and second halves of the meeting  
+11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>  
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a>
 
 **<a href="https://esj73.raku-con.com" target="_blank">[the online conference platform (Rakuraku-Conference)]</a>**
 
-- For those who completed their registration by November 27, please check your email for a message from the Ecological Society of Japan Conference Help Desk (esj-desk@conf.bunken.co.jp) regarding your login information for the online conference platform.
+- For those who completed their registration by 27th Nov., please check your email for a message from the ESJ Help Desk (esj-desk@conf.bunken.co.jp) regarding your login information for the online conference platform.
 
 ## Meeting Format
 
@@ -48,7 +48,7 @@ The availability of online participation is as follows. Please note that **real-
 |Oral Presentations, English Oral Presentations|△\*|
 |Junior Ecology Course, Public Lecture|○|
 
-○: On-Demand Streaming recorded by the organizers
+○: On-Demand Streaming recorded by the organizers  
 △: Self On-Demand Streaming recorded by presenters
 
 \* Streaming is available only if desired by the session organizers or presenters.
@@ -258,11 +258,8 @@ All participants are required to adhere to the following Code of Conduct during 
 
 Participants of the 73rd Annual Meeting of the Ecological Society of Japan must comply with the following code of conduct. If requested by meeting staff or other participants to cease any disruptive or inappropriate behavior, participants must comply immediately.
 
-1. **Prevention of Discriminatory Behavior and Respect for Individual Dignity**
-Participants must not discriminate against individuals based on attributes such as origin, race, ethnicity, religion, physical characteristics, age, status, gender, sexual orientation, or disability, and must respect the dignity of all individuals.
+1. **Prevention of Discriminatory Behavior and Respect for Individual Dignity**: Participants must not discriminate against individuals based on attributes such as origin, race, ethnicity, religion, physical characteristics, age, status, gender, sexual orientation, or disability, and must respect the dignity of all individuals.
 
-2. **Prevention of Harassment**
-Participants must not engage in any form of harassment, including actions that harm the activities or careers of others, cause discomfort to individuals or groups, or encourage such behavior.
+2. **Prevention of Harassment**: Participants must not engage in any form of harassment, including actions that harm the activities or careers of others, cause discomfort to individuals or groups, or encourage such behavior.
 
-3. **Prohibition of Unauthorized Photography and Recording**
-Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-Demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.
+3. **Prohibition of Unauthorized Photography and Recording**: Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-Demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.

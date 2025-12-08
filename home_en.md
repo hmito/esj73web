@@ -8,6 +8,22 @@ multi_language: true
 
 ## Important Notices
 
+- **Early-bird registration is available until 17th Feb., 13:00 JST. Please check [Registration Information](/registinfo_en#Registration-For-Participation) before applying.**
+    - Registration will be unavailable from February 17, 13:00 to February 20, 9:00 due to system maintenance.
+- **The [Conference Program](/program_en) and <a href="https://esj73.raku-con.com" target="_blank">Conference Online Platform (Raku-Raku Conference)</a> are now available.**
+- **[Presentation Guidelines](/presentation) have been updated. Please read carefully, as they contain important information for preparing your presentation.**
+- **[Attendance Information](/attendance), including notes for participants and venue details, has been posted.**
+
+### Upcoming Deadlines
+
+- **Abstract submission deadline: Tue. 17th Feb., 23:59 JST.**
+- **Handling of presentation files differs depending on the presentation type.**
+    - **Poster Presentations**: All presenters must [upload their online poster](/presentation_en#Poster-Presentation) by 7th Mar.
+    - **Oral Presentations**: No pre-conference upload is required. However, presenters must [register their presentation file](/presentation_en#Oral-Presentations) in the Speaker Ready Room at the venue. **Please bring your file on a USB memory stick or CD-R.**
+    - For [presentation file handling in Symposiums, Workshops and Forums](/presentation_en#Symposia-Workshops-Forums) (whether files are collected in advance by organizers or presenters must bring their own PC), please contact the session organizer.
+
+## Update History
+
 - **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
     - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
 - **Applications for presentations and sessions are now closed.**
@@ -42,6 +58,10 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.01.06: Conference program published.
+- 2025.01.06: Venue guide and attendance information posted.
+- 2025.01.06: Presentation guidelines are updated.
+- 2025.01.06: Public lecture information posted.
 - 2025.11.28: Updated the implementation status of sessions in the conference schedule table.
 - 2025.11.28: Information about the ER Symposium invited speaker has been posted.
 - 2025.11.01: Information about Moai has been posted.
