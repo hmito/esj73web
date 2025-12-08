@@ -2,6 +2,8 @@
 url: https://esj-meeting.net/venue_en/
 menu: About > Venue
 multi_language: true
+remarks:
+    画像クリック時にPDFにジャンプするよう、リンクを設定してください（エディター上で画像クリック後、リンクボタンを押して選択）。
 ---
 
 # Venue
@@ -23,7 +25,7 @@ Maps of each venue can be downloaded in PDF format from the links below.
 
 ## Opening Hours
 
-|  | March 11<br>(Wed) | March 12<br>(Thu) | March 13<br>(Fri) | March 14<br>(Sat) | March 15<br>(Sun) |
+|  | 11th Mar.<br>(Wed) | 12th Mar.<br>(Thu) | 13th Mar.<br>(Fri) | 14th Mar.<br>(Sat) |  15th Mar.<br>(Sun) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Venue** | 12:00-<br>19:40 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
 | **Registration** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
