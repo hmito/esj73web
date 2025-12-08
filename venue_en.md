@@ -13,15 +13,14 @@ The venue will change between the first and second halves of the meeting.
 
 ## Venue Map
 
+![Yoshida-South Campus Venue](https://edit.esj-meeting.net/wp-content/uploads/2025/12/京大_会場図_統合.png)
+
+![Kyoto International Conference Center](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際会館_会場図.png)
+
 For information on each venue, please refer to the link below.
 
-- [Yoshida-South Campus Venue, Whole map](/media/京大_会場図_統合.pdf)
-    - [Yoshida-South Campus Map](/media/吉田南構内図.pdf)
-    - [Academic Center Bldg. Floor Map](/media/吉田南総合館_会場図.pdf)
-    - [Bldg. No. 4 Floor Map](/media/吉田南4号館_会場図.pdf)
-    - [Institute of Liberal Arts and Sciences (ILAS) Bldg. Floor Map](/media/国際高等教育院_会場図.pdf)
-
-- [Kyoto International Conference Center Floor Map](/media/国際会館_会場図_11◎.pdf)
+- [**Yoshida-South Campus Venue, Whole map [PDF]**](/media/京大_会場図_統合.pdf)
+- [**Kyoto International Conference Center Floor Map [PDF]**](/media/国際会館_会場図_11◎.pdf)
 
 ## Opening Hours
 
