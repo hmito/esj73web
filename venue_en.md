@@ -13,13 +13,15 @@ The venue will change between the first and second halves of the meeting.
 
 ## Venue Map
 
-For venue information at Kyoto University, please refer to the link below.
+For information on each venue, please refer to the link below.
 
 - [Yoshida-South Campus Venue, Whole map](/media/京大_会場図_統合.pdf)
-    - [Yoshida-South Campus map](/media/吉田南構内図.pdf)
-    - [Academic Center Bldg. floor map](/media/吉田南総合館_会場図.pdf)
-    - [Bldg. No. 4 floor map](/media/吉田南4号館_会場図.pdf)
-    - [Institute of Liberal Arts and Sciences (ILAS) Bldg. floor map](/media/国際高等教育院_会場図.pdf)
+    - [Yoshida-South Campus Map](/media/吉田南構内図.pdf)
+    - [Academic Center Bldg. Floor Map](/media/吉田南総合館_会場図.pdf)
+    - [Bldg. No. 4 Floor Map](/media/吉田南4号館_会場図.pdf)
+    - [Institute of Liberal Arts and Sciences (ILAS) Bldg. Floor Map](/media/国際高等教育院_会場図.pdf)
+
+- [Kyoto International Conference Center Floor Map](/media/国際会館_会場図_11◎.pdf)
 
 ## Opening Hours
 
