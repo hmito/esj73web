@@ -10,13 +10,13 @@ remarks:
 
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 
-**= Dates =**  
-11th Mar. (Wed) Afternoon – 15th Mar. (Sun), 2026  
+**= Dates =**
+11th Mar. (Wed) Afternoon – 15th Mar. (Sun), 2026
 (Online poster viewing period: 8th Mar. –)
 
-**= Venue =**  
-The [venue](/venue_en) will change between the first and second halves of the meeting  
-11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>  
+**= Venue =**
+The [venue](/venue_en) will change between the first and second halves of the meeting
+11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a>
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a>
 
 **<a href="https://esj73.raku-con.com" target="_blank">[the online conference platform (Rakuraku-Conference)]</a>**
@@ -48,17 +48,18 @@ The availability of online participation is as follows. Please note that **real-
 |Oral Presentations, English Oral Presentations|△\*|
 |Junior Ecology Course, Public Lecture|○|
 
-○: On-Demand Streaming recorded by the organizers  
+○: On-Demand Streaming recorded by the organizers
 △: Self On-Demand Streaming recorded by presenters
 
 \* Streaming is available only if desired by the session organizers or presenters.
 
 ## Schedule
 
-The detailed timetable will be released around early January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
+Please see [**program**](/program_en) for the detailed schedule.
 
 For application, please see [**here**](/registinfo_en).
 
+<style> td, th {text-align: center}</style>
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -92,7 +93,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Award Ceremony & Lectures</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/prize_winners.html" target = "_blank">Award Ceremony & Lectures</td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,7 +120,7 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
+<td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href = "https://www.esj.ne.jp/meeting/abst/73/sympo_index.html" target = "_blank">Symposia</a></td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -128,7 +129,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Workshops</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/jiyu_index.html" target = "_blank">Workshops</td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -137,7 +138,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2>Forums</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/forum_index.html" target = "_blank">Forums</td>
 <td></td>
 <td></td>
 <td></td>
@@ -146,7 +147,7 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>Oral sessions</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/oral_index.html" target = "_blank">Oral sessions</td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -155,7 +156,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan=2>Poster sessions</td>
+<td rowspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/poster_index.html" target = "_blank">Poster sessions</td>
 <td>Online</td>
 <td>○</td>
 <td colspan=5>* Posters can be viewed and commented on the online conference platform until 5th Apr.</td>
@@ -232,9 +233,9 @@ The Mixer will be held on the evening of 14th Mar. at the Kyoto International Co
 - Please note that the conference will not provide food or drinks. You can buy from the food trucks or bring your own.
 - Children are also very welcome to join.
 
-## Wi-Fi connectivity
+## Reception & Venue Facilities
 
-for details, please see [Attendance Information](/attendance_en#Wi-Fi-Connectivity).
+For reception, cloak, and Wi-Fi etc., please see [Attendance Information](/attendance_en).
 
 ## Support for Participants
 
@@ -257,11 +258,11 @@ All participants are required to adhere to the following Code of Conduct during 
 
 Participants of the 73rd Annual Meeting of the Ecological Society of Japan must comply with the following code of conduct. If requested by meeting staff or other participants to cease any disruptive or inappropriate behavior, participants must comply immediately.
 
-1. **Prevention of Discriminatory Behavior and Respect for Individual Dignity**  
+1. **Prevention of Discriminatory Behavior and Respect for Individual Dignity**
 Participants must not discriminate against individuals based on attributes such as origin, race, ethnicity, religion, physical characteristics, age, status, gender, sexual orientation, or disability, and must respect the dignity of all individuals.
 
-2. **Prevention of Harassment**  
+2. **Prevention of Harassment**
 Participants must not engage in any form of harassment, including actions that harm the activities or careers of others, cause discomfort to individuals or groups, or encourage such behavior.
 
-3. **Prohibition of Unauthorized Photography and Recording**  
+3. **Prohibition of Unauthorized Photography and Recording**
 Participants must not take photographs, record audio, or stream video at the venue without the presenter’s consent. Screenshots on the meeting platform are also prohibited. On-Demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.
