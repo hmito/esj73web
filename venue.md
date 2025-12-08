@@ -10,7 +10,7 @@ remarks:
 
 前半と後半で会場が変わります。
 
-11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> \[<a href="https://www.kyoto-u.ac.jp/access" target="_blank">公式のアクセス情報</a>\]
+11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> \[<a href="https://www.kyoto-u.ac.jp/access" target="_blank">公式のアクセス情報</a>\]  
 14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a> \[<a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">公式のアクセス情報</a>\]
 
 ## 会場案内図
@@ -21,10 +21,9 @@ remarks:
 <!--画像クリック時に「国際会館_会場図.pdf」にリンク>-->
 ![国立京都国際会館](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際会館_会場図.png)
 
-各会場の案内は下記のリンクを参照してください。
+各会場のマップは、以下からPDF形式でダウンロードいただけます。
 
-- [**吉田南構内会場 全体マップ [PDF]**](/media/京大_会場図_統合.pdf)
-- [**京都国際会館 会場案内図 [PDF]**](/media/国際会館_会場図_11◎.pdf)
+- [**会場地図 [PDF]**](/media/会場地図.pdf)
 
 ## 場内設備の開設時間
 

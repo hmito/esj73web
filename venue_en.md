@@ -8,7 +8,7 @@ multi_language: true
 
 The venue will change between the first and second halves of the meeting.
 
-11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]
+11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
 ## Venue Map
@@ -17,10 +17,9 @@ The venue will change between the first and second halves of the meeting.
 
 ![Kyoto International Conference Center](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際会館_会場図.png)
 
-For information on each venue, please refer to the link below.
+Maps of each venue can be downloaded in PDF format from the links below.
 
-- [**Yoshida-South Campus Venue, Whole map [PDF]**](/media/京大_会場図_統合.pdf)
-- [**Kyoto International Conference Center Floor Map [PDF]**](/media/国際会館_会場図_11◎.pdf)
+- [**Venue Map [PDF]**](/media/会場地図.pdf)
 
 ## Opening Hours
 
