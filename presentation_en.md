@@ -16,8 +16,8 @@ Please note that only currently available information regarding the presentation
     - Videos can be played if they are in MP4 format. Other formats are not guaranteed.
 - **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room located in the venue.**
     - Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
-    - Oral presenters must submit their presentation files during the designated submission times for each presentation day (March 11: 12:00–14:00, March 12: 10:00–12:00, March 13: 10:00–12:00).
-    - Presenters in the research field “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" must submit their presentation files between 10:00 and 12:00 on **March 12**.
+    - Oral presenters must submit their presentation files during the designated submission times for each presentation day (11th Mar.: 12:00–14:00, 12th Mar.: 10:00–12:00, 13th Mar.: 10:00–12:00).
+    - Presenters in the research field “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" must submit their presentation files between 10:00 and 12:00 on **12th Mar**.
     - After submitting the presentation file, it may be replaced as long as it is within the submission period.
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
 - The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
@@ -71,9 +71,9 @@ The onsite poster session is available only to those who selected the onsite opt
 
 ### Online Poster Presentation
 
-- The online poster viewing period is scheduled for March 8–15.
-- All poster presenters must upload their posters by March 7 at 23:59.
-- Poster upload will be available at any time on the online conference platform “Rakuraku Conference” starting January 30, 2026.
+- The online poster viewing period is scheduled for 8th–15th Mar.
+- All poster presenters must upload their posters by 7th Mar. at 23:59.
+- Poster upload will be available at any time on the online conference platform “Rakuraku Conference” starting 30th Jan. 2026.
 - Poster files may be replaced or updated at any time.
 - There will be no core time or designated discussion session for the online poster presentation.
 - Please communicate with participants using the comment function provided on the platform.
@@ -83,24 +83,24 @@ The onsite poster session is available only to those who selected the onsite opt
 
 ### Onsite Poster Presentation
 
-- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (March 14–15) from 12:00 to 14:00.
+- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (14–15th Mar.) from 12:00 to 14:00.
   - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
   - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
 - During core time, presenters should stand by their posters and give explanations to attendees.
 - Onsite presenters must mount their posters as follows:
-  - Presenters on March 14: Please put up your poster starting from 11:00.
-  - Presenters on March 15: Please put up your poster starting from 9:00.
+  - Presenters on 14 Mar.: Please put up your poster starting from 11:00.
+  - Presenters on 15th Mar.: Please put up your poster starting from 9:00.
 - The poster venue will open at:
-  - 11:00 on March 14
-  - 9:00 on March 15
+  - 11:00 on 14th Mar.
+  - 9:00 on 15th Mar,
 - Poster boards will display a number tag showing the last three digits of the poster number (e.g., for P1-001, the tag will show “001”).
 - Please locate the board with your corresponding number tag and mount your poster there.
 - Please bring your own thumbtacks for mounting your poster.
 - Thumbtacks tend to be in short supply at nearby shops during the conference, so please prepare them in advance.
 - Poster removal times:
-  - Presenters on March 14 must remove their posters by 19:30 on the same day.
-  - Presenters on March 15 must remove their posters by 17:00 on the same day.
-- The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on March 14 until the end of the conference (March 14, 14:00 – March 15, 17:00).
+  - Presenters on 14th Mar. must remove their posters by 19:30 on the same day.
+  - Presenters on 15th Mar. must remove their posters by 17:00 on the same day.
+- The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on 14th Mar. until the end of the conference (14th Mar., 14:00 – 15th Mar., 17:00).
 
 
 ## Symposia, Workshops, Forums

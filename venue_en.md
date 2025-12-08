@@ -2,6 +2,8 @@
 url: https://esj-meeting.net/venue_en/
 menu: About > Venue
 multi_language: true
+remarks:
+    画像クリック時にPDFにジャンプするよう、リンクを設定してください（エディター上で画像クリック後、リンクボタンを押して選択）。
 ---
 
 # Venue
@@ -17,14 +19,13 @@ The venue will change between the first and second halves of the meeting.
 
 ![Kyoto International Conference Center](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際会館_会場図.png)
 
-For information on each venue, please refer to the link below.
+Maps of each venue can be downloaded in PDF format from the links below.
 
-- [**Yoshida-South Campus Venue, Whole map [PDF]**](/media/京大_会場図_統合.pdf)
-- [**Kyoto International Conference Center Floor Map [PDF]**](/media/国際会館_会場図_11◎.pdf)
+- [**Venue Map [PDF]**](/media/会場地図.pdf)
 
 ## Opening Hours
 
-|  | March 11<br>(Wed) | March 12<br>(Thu) | March 13<br>(Fri) | March 14<br>(Sat) | March 15<br>(Sun) |
+|  | 11th Mar.<br>(Wed) | 12th Mar.<br>(Thu) | 13th Mar.<br>(Fri) | 14th Mar.<br>(Sat) |  15th Mar.<br>(Sun) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Venue** | 12:00-<br>19:40 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
 | **Registration** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |

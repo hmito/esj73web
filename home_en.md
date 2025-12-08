@@ -8,23 +8,19 @@ multi_language: true
 
 ## Important Notices
 
-- **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
-    - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
-- **Applications for presentations and sessions are now closed.**
-    - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
-- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from 12th Mar. onward. See the [schedule](/about_en#schedule) for detail.**
-- **We recommend booking your accommodation well in advance.**
-    - For venue access information, please check the [Venue Page](/venue).
+- **Early-bird registration is available until 17th Feb., 13:00 JST. Please check [Registration Information](/registinfo_en#Registration-For-Participation) before applying.**
+    - Registration will be unavailable from February 17, 13:00 to February 20, 9:00 due to system maintenance.
+- **The [Conference Program](/program_en) and <a href="https://esj73.raku-con.com" target="_blank">Conference Online Platform (Raku-Raku Conference)</a> are now available.**
+- **[Presentation Guidelines](/presentation) have been updated. Please read carefully, as they contain important information for preparing your presentation.**
+- **[Attendance Information](/attendance), including notes for participants and venue details, has been posted.**
 
 ### Upcoming Schedule
 
-- **The program is scheduled to be published in early January.**
-    - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
-- **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
-- **Handling of presentation files differs depending on the presentation type. Detailed information will be announced in early January.**
-    - For **poster** presentations, all presenters are required to **[upload their online posters](/presentation_en#poster-presentation) by 7th Mar.**.
-    - For **oral** presentations, no pre-conference upload is necessary; however, presenters must [register their presentation files](/presentation_en#oral-presentations) in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
-    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#SymposiaWorkshopsForumss)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
+- **Abstract submission deadline: Tue. 17th Feb., 23:59 JST.**
+- **Handling of presentation files differs depending on the presentation type.**
+    - For **poster** presentations, all presenters are required to **[upload their online posters](/presentation_en#Poster-Presentation) by 7th Mar.**.
+    - For **oral** presentations, no pre-conference upload is necessary; however, presenters must [register their presentation files](/presentation_en#Oral-Presentations) in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
+    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#Symposia-Workshops-Forums)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
 
 ## Meeting information
 
@@ -42,6 +38,10 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.01.06: Conference program published.
+- 2025.01.06: Venue guide and attendance information posted.
+- 2025.01.06: Presentation guidelines are updated.
+- 2025.01.06: Public lecture information posted.
 - 2025.11.28: Updated the implementation status of sessions in the conference schedule table.
 - 2025.11.28: Information about the ER Symposium invited speaker has been posted.
 - 2025.11.01: Information about Moai has been posted.
