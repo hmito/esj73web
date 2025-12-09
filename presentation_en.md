@@ -16,7 +16,10 @@ Please note that only currently available information regarding the presentation
     - Videos can be played if they are in MP4 format. Other formats are not guaranteed.
 - **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room located in the venue.**
     - Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
-    - Oral presenters must submit their presentation files during the designated submission times for each presentation day (11th Mar.: 12:00–14:00, 12th Mar.: 10:00–12:00, 13th Mar.: 10:00–12:00).
+    - Oral presenters must submit their presentation files **during the designated submission times for each presentation day**.
+        - Presentations on 11th Mar.: 12:00–14:00 on 11th
+        - Presentations on 12th Mar.: 10:00–12:00 on 12th
+        - Presentations on 13th Mar.: 10:00–12:00 on 13th
     - Presenters in the research field “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" must submit their presentation files between 10:00 and 12:00 on **12th Mar**.
     - After submitting the presentation file, it may be replaced as long as it is within the submission period.
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
