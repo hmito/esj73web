@@ -34,7 +34,7 @@ The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be he
 For more details about the meeting, please see [this page](/about_en).
 All oral presentations and sessions at this conference will be held [on-site](/about_en#Meeting-Format). Poster presentations will be conducted online, but those who wish may also present on-site.
 
-Conference events, symposia, and workshops will be recorded by professional staff and made available via [On-Demand streaming](/about_en#Meeting-Format). For oral presentations, presenters may record and upload their own videos for distribution through the [“Self On-Demand Streaming”](/presentation_en#Self-On-Demand-Streaming) system. We encourage you to take advantage of this opportunity.
+Conference events, symposia, and workshops will be recorded by professional staff and made available via [On-Demand streaming](/about_en#Meeting-Format). For oral presentations, presenters may record before/after the conference and upload their own presentation videos for distribution through the [“Self On-Demand Streaming”](/presentation_en#Self-On-Demand-Streaming) system. Please review the guidelines carefully and make use of this feature.
 
 ## Update history
 
