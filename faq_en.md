@@ -71,11 +71,13 @@ You can apply to attend as an audience until the day of the conference.
 
 ### I'd like to change the information I submitted about my oral/poster presentation
 
-You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration Oct. 31, 2025). After that, you cannot correct any information about your presentation.
+You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration (Oct. 31, 2025). After that, you cannot correct any information about your presentation.
 
-### I selected an on-site poster presentation but am now unable to attend on-site.
+### I selected an on-site poster presentation but am now unable to attend on-site
 
-If you requested an on-site presentation for your poster or junior poster but will not be attending on-site, no specific action is required. However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the online conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
+If you requested an on-site presentation for your poster or junior poster but will not be attending on-site, no specific action is required.
+
+However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the online conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
 
 ### I want to cancel my presentation. How should I do this?
 
@@ -108,6 +110,8 @@ Abstracts will not be peer-reviewed. Abstracts will be published as they are reg
 ### I was not able to register my abstract by the deadline. Will my presentation be canceled?
 
 No, you can give your presentation even if you miss the abstract submission deadline. However, your abstract will be left blank.
+
+Please note that even if the abstract cannot be registered, the presentation will be treated as a presentation with abstract submission.
 
 ### Do forum speakers need to register their abstracts?
 

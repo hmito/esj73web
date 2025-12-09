@@ -31,10 +31,14 @@ multi_language: False
 **参加費**：無料、事前登録不要  
 
 ## ポスター
-<img src="../media/ESJ72_A4flyer_omote_final.jpg" style="width:1.84375in;height:2.6in"/>  
-<img src="../media/ESJ72_A4flyer_ura_final.jpg" style="width:1.84375in;height:2.6in"/>  
+![表](./media/public_lecture_poster_1.png)
+![裏](./media/public_lecture_poster_2.png)
+<!--元の記載
+<img src="../media/public_lecture_poster_1" style="width:1.84375in;height:2.6in"/>  
+<img src="../media/ESJ72_A4flyer_ura_final.jpg" style="width:1.84375in;height:2.6in"/>  -->
 
-[ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/ESJ72_A4flyer_omote_ura_final.pdf)
+[ポスター(PDF)をダウンロード](./media/public_lecture_poster.pdf)
+<!--リンクこれで大丈夫でしょうか？-->
 
 ## 会場
 

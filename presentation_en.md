@@ -7,24 +7,28 @@ multi_language: true
 
 # Guidelines for Presentations
 
-Please note that only currently available information regarding the presentations is provided here. **More detailed information will to be updated around January**.
+Please note that only currently available information regarding the presentations is provided here. **More detailed information will be updated around January**.
 
 ## Oral Presentations
 
 - **All presentations must use the PCs provided at the venue**. Presentations using personal laptops are not permitted.
-- The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
-- Videos can be played if they are in MP4 format. Other formats are not guaranteed.
-- The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
-- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room located in the venue.**
-- Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
-- Oral presenters must submit their presentation files during the designated submission times for each presentation day (March 11: 12:00–14:00, March 12: 10:00–12:00, March 13: 10:00–12:00).
-- Presenters in the symposia (open sessions) must submit their presentation files between 10:00 and 12:00 on March 12.
-- After submitting the presentation file, it may be replaced as long as it is within the submission period.
-- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
+    - The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
+    - Videos can be played if they are in MP4 format. Other formats are not guaranteed.
+- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance at the speaker ready room located in the venue.**
+    - Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
+    - Oral presenters must submit their presentation files during the designated submission times for each presentation day (11th Mar.: 12:00–14:00, 12th Mar.: 10:00–12:00, 13th Mar.: 10:00–12:00).
+    - Presenters in the research field “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" must submit their presentation files between 10:00 and 12:00 on **12th Mar**.
+    - After submitting the presentation file, it may be replaced as long as it is within the submission period.
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
+- The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
+- If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 
-## Poster Presentation 
+### English Oral Sessions
+
+- Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
+
+## Poster Presentation
 
 - Two opportunities for poster presentations are provided: an online poster session and an onsite (in-person) poster session.
 All presenters must participate in the online poster presentation.
@@ -33,53 +37,43 @@ The onsite poster session is available only to those who selected the onsite opt
 
 ### Poster Preparation
 
-- Online Poster
-    - The poster for the online session must consist of one A0-size poster (portrait or landscape orientation).
+- The poster for the **online session** must consist of one A0-size poster (portrait or landscape orientation).
     - Please prepare the poster in PDF format.
     - Do not embed audio or video files within the PDF.
     - The maximum file size is 5 MB.
     - To ensure smooth display on the platform, a file size of 1 MB or less is recommended.
-
-- Onsite Poster
-    - Posters must fit within the display boards, which sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
+- The posters for the **onsite sessions** must fit within the display boards, which sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
-
-- Language Considerations
-   - We encourage presenters to be considerate of attendees who may not understand Japanese.
+- We encourage presenters to be considerate of attendees who do not speak Japanese.
    - Suggestions include providing both Japanese and English summaries or preparing an English version of the poster.
    - If you prepare an English version:
        - For the online presentation, you may upload two pages in a single PDF (e.g., A0 Japanese + A0 English).
        - The file size limit remains 5 MB for the entire PDF.
    - Presenters who selected English as their presentation language must prepare their poster in English.
+- Presenters may optionally upload the following materials:
+    1. Graphical Abstract (JPEG)
+        - This will be used as a thumbnail on the online conference platform.
+        - Please provide a 1200 × 1200 pixel JPEG image that visually represents your research.
+        Illustrations, diagrams, or photographs of study organisms are acceptable.
+        The key purpose is to create an engaging, eye-catching visual that invites attendees to view your poster.
+    2. Supplementary Materials (PDF)
+        - Additional figures, data, or documents may be included as supplementary materials.
+        - Include them as additional pages within the same PDF after the main poster.
+        - The total file size (poster + supplementary materials) must not exceed 5 MB.
+    3. Explanation Videos (MP4)
+        - Up to two video files may be uploaded.
+        - Each video must be:
+            - 5 minutes or shorter
+            - MP4 format
+            - Maximum file size 500 MB
+        - These videos will be displayed separately from the poster on the platform.
 
-#### Optional Uploads for Online Presentation
-Presenters may optionally upload the following materials:
+### Online Poster Presentation
 
-1. Graphical Abstract (JPEG)
-   - This will be used as a thumbnail on the online conference platform.
-   - Please provide a 1200 × 1200 pixel JPEG image that visually represents your research.
-Illustrations, diagrams, or photographs of study organisms are acceptable.
-The key purpose is to create an engaging, eye-catching visual that invites attendees to view your poster.
-
-2. Supplementary Materials (PDF)
-   - Additional figures, data, or documents may be included as supplementary materials.
-   - Include them as additional pages within the same PDF after the main poster.
-   - The total file size (poster + supplementary materials) must not exceed 5 MB.
-
-3. Explanation Videos (MP4)
-   - Up to two video files may be uploaded.
-   - Each video must be:
-       - 5 minutes or shorter
-       - MP4 format
-       - Maximum file size 500 MB
-   - These videos will be displayed separately from the poster on the platform.
-
-## Online Poster Presentation
-
-- The online poster viewing period is scheduled for March 8–15.
-- All poster presenters must upload their posters by March 7 at 23:59.
-- Poster upload will be available at any time on the online conference platform “Rakuraku Conference” starting January 30, 2026.
+- The online poster viewing period is scheduled for 8th–15th Mar.
+- All poster presenters must upload their posters by 7th Mar. at 23:59.
+- Poster upload will be available at any time on the online conference platform “Rakuraku-Conference” starting 30th Jan. 2026.
 - Poster files may be replaced or updated at any time.
 - There will be no core time or designated discussion session for the online poster presentation.
 - Please communicate with participants using the comment function provided on the platform.
@@ -87,29 +81,29 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 - Access to posters and explanatory videos will be limited to registered participants only.
 - Posters will be displayed in a format that prevents viewers from downloading the file or copying text.
 
-## Onsite Poster Presentation
+### Onsite Poster Presentation
 
-- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (March 14–15) from 12:00 to 14:00.
+- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (14–15th Mar.) from 12:00 to 14:00.
   - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
   - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
 - During core time, presenters should stand by their posters and give explanations to attendees.
 - Onsite presenters must mount their posters as follows:
-  - Presenters on March 14: Please put up your poster starting from 11:00.
-  - Presenters on March 15: Please put up your poster starting from 9:00.
+  - Presenters on 14 Mar.: Please put up your poster starting from 11:00.
+  - Presenters on 15th Mar.: Please put up your poster starting from 9:00.
 - The poster venue will open at:
-  - 11:00 on March 14
-  - 9:00 on March 15
+  - 11:00 on 14th Mar.
+  - 9:00 on 15th Mar,
 - Poster boards will display a number tag showing the last three digits of the poster number (e.g., for P1-001, the tag will show “001”).
 - Please locate the board with your corresponding number tag and mount your poster there.
 - Please bring your own thumbtacks for mounting your poster.
 - Thumbtacks tend to be in short supply at nearby shops during the conference, so please prepare them in advance.
 - Poster removal times:
-  - Presenters on March 14 must remove their posters by 19:30 on the same day.
-  - Presenters on March 15 must remove their posters by 17:00 on the same day.
-- The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on March 14 until the end of the conference (March 14, 14:00 – March 15, 17:00).
+  - Presenters on 14th Mar. must remove their posters by 19:30 on the same day.
+  - Presenters on 15th Mar. must remove their posters by 17:00 on the same day.
+- The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on 14th Mar. until the end of the conference (14th Mar., 14:00 – 15th Mar., 17:00).
 
 
-## Sessions
+## Symposia, Workshops, Forums
 
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
     -No file submission is required at the Speaker Ready Room. Please confirm with the organizer if you need to bring your own laptop.
@@ -124,7 +118,7 @@ The key purpose is to create an engaging, eye-catching visual that invites atten
 
 ## Self On-Demand Streaming
 
-At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
+At this conference, all oral presenters can utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
 
 - It covers all oral presentations.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
