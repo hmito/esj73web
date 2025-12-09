@@ -51,7 +51,7 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 **Online presentations will not be accepted for presentations with abstract submission** at this conference. All such presentations must be given on-site, except in cases where reasonable accommodation is required.
 
-If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
+If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
 
 ### On-Demand Streaming of Presentations
 
@@ -63,7 +63,7 @@ In order to prevent problems with the recordings, all recording works will be ha
 
 ### How to organize Sessions
 
-The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#Sessions) page for **notes regarding the venue facilities and recording**.
+The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#SymposiaWorkshopsForums) page for **notes regarding the venue facilities and recording**.
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
     - For information on how to use the symposium invited speaker program, please refer to [**"Symposium Invited Speaker Program"**](#Symposium-Invited-Speaker-Program).
@@ -74,7 +74,7 @@ The following are important notes related to session proposals. Please also chec
     - As Workshops may take various formats, they are planned to be scheduled in time slots that do not overlap with Symposia or Regular Presentations.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
 - Organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers, in accordance with the [promotion of diversity at the conference](/about_en#Promoting-Diversity-at-the-Meeting).
-- In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the conference platform.
+- In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the online conference platform.
 - In view of the increasing number of international students and participants from overseas, we encourage Symposia to be held in English. Even if the meeting is held in Japanese, please make efforts to the extent possible by preparing a simple handout in English.
 
 \* The basis for this restriction is the "presentation abstract" registered by each presenter. If the organizer of a session does not register as a "presentation" at the time of application and only provides information in the "session abstract," such presentations are not subject to the above restriction.
@@ -111,7 +111,7 @@ You can apply for the sessions at the following pages.
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2026 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
-- Please complete the [conference registration procedures](/registinfo_en#Registration-for-Participation) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
+- Please complete the [conference registration procedures](/registinfo_en#Registration-for-Participation) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the online conference platform.
 - Please also see [Other Notes](/registinfo_en#Other-Notes).
 
 ## Symposium Invited Speaker Program

@@ -9,7 +9,7 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) have closed. We still accept applications for the participation in the conference.
+The call for presentations has now closed. We still accept applications for the participation in the conference.
 
 The deadline for abstract submission is 17th Feb. 2026. Please review the details and complete the process via the application site below.
 
@@ -35,7 +35,7 @@ Important deadlines are as follows.
 
 You can register for the conference participation at the below link.
 
-**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Application site]</a>**
+<a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online conference platform "Rakuraku-Conference"]**</a>
 
 ||Early bird<br/>until 17th Feb. 13:00|Normal price<br/>after 20th Feb.　9:00|
 |---|---|---|
@@ -44,12 +44,12 @@ You can register for the conference participation at the below link.
 |**Invited speaker <br/>undergraduate or below without presentation**|Free|Free|
 
 - The system used for the registration and payment procedures differs depending on the period.
-    - The application website will be used until 27th Nov. 2025, and the conference platform (RakuRaku-Conference) will be used after 6th Jan. 2026.
+    - The application website will be used until 27th Nov. 2025, and the online conference platform (RakuRaku-Conference) will be used after 6th Jan. 2026.
     - Due to system maintenance, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
 - Please complete the registration and payment procedures as far as possible before the day of the conference.
     - You will not be able to view or upload posters without paying the registration fee.
 - Non-members are welcome to attend the conference as audience if they pay the registration fee.
-    - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the conference platform after 6th Jan. 2026.
+    - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the online conference platform after 6th Jan. 2026.
     - If none of the above apply, please pay the registration fee.
 - Please also read [Other Notes](#Other-Notes) when registering.
 
@@ -171,7 +171,7 @@ In the past, the ESJ conference has included a “Workshop Only Attendance” ca
 
 ### Participation Certificates/Receipts
 
-Participation certificates and receipts will be issued from the conference platform RakuRaku-Conference, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2026, when RakuRaku-Conference will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.　The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
+Participation certificates and receipts will be issued from the online conference platform RakuRaku-Conference, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2026, when RakuRaku-Conference will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.　The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 
@@ -197,6 +197,6 @@ If a cancellation request is received before the refund deadline for each event 
 Speakers who have registered their abstracts and paid the registration fee by the deadline will have their presentation information and abstracts recognized as achievements by the society on the web page where the abstracts are published, even if they were unable to present their presentations due to the following reasons.
 
 - Cancellation of the conference due to fire, earthquake, weather, man-made disasters, infectious diseases, etc.
-- Failure of conference platform or major network faults
+- Failure of online conference platform or major network faults
 
 However, if the registration fee is not paid by the deadline, the presentation information and abstract will be removed from the web page where the abstracts are published, and the research concerned will not be recognized as an achievement, even if it is listed in the program.
