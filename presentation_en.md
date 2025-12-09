@@ -45,15 +45,15 @@ The onsite poster session is available only to those who selected the onsite opt
     - Do not embed audio or video files within the PDF.
     - The maximum file size is 5 MB.
     - To ensure smooth display on the platform, a file size of 1 MB or less is recommended.
-- The posters for the **onsite sessios** must fit within the display boards, which sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
+- The posters for the **onsite sessios** must fit within the display boards, which are sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
 - We encourage presenters to be considerate of attendees who may not understand Japanese.
-   - Suggestions include providing both Japanese and English summaries or preparing an English version of the poster.
-   - If you prepare an English version:
-       - For the online presentation, you may upload two pages in a single PDF (e.g., A0 Japanese + A0 English).
-       - The file size limit remains 5 MB for the entire PDF.
-   - Presenters who selected English as their presentation language must prepare their poster in English.
+    - Suggestions include providing both Japanese and English summaries or preparing an English version of the poster.
+    - If you prepare an English version:
+        - For the online presentation, you may upload two pages in a single PDF (e.g., A0 Japanese + A0 English).
+        - The file size limit remains 5 MB for the entire PDF.
+    - Presenters who selected English as their presentation language must prepare their poster in English.
 - Presenters may optionally upload the following materials:
     1. Graphical Abstract (JPEG)
         - This will be used as a thumbnail on the online conference platform.
@@ -86,23 +86,23 @@ The onsite poster session is available only to those who selected the onsite opt
 
 ### Onsite Poster Presentation
 
-- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (14–15th Mar.) from 12:00 to 14:00.
-  - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
-  - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
+- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (14th–15th Mar.) from 12:00 to 14:00.
+    - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
+    - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
 - During core time, presenters should stand by their posters and give explanations to attendees.
 - Onsite presenters must mount their posters as follows:
-  - Presenters on 14 Mar.: Please put up your poster starting from 11:00.
-  - Presenters on 15th Mar.: Please put up your poster starting from 9:00.
+    - Presenters on 14 Mar.: Please put up your poster starting from 11:00.
+    - Presenters on 15th Mar.: Please put up your poster starting from 9:00.
 - The poster venue will open at:
-  - 11:00 on 14th Mar.
-  - 9:00 on 15th Mar,
+    - 11:00 on 14th Mar.
+    - 9:00 on 15th Mar,
 - Poster boards will display a number tag showing the last three digits of the poster number (e.g., for P1-001, the tag will show “001”).
 - Please locate the board with your corresponding number tag and mount your poster there.
 - Please bring your own thumbtacks for mounting your poster.
 - Thumbtacks tend to be in short supply at nearby shops during the conference, so please prepare them in advance.
 - Poster removal times:
-  - Presenters on 14th Mar. must remove their posters by 19:30 on the same day.
-  - Presenters on 15th Mar. must remove their posters by 17:00 on the same day.
+    - Presenters on 14th Mar. must remove their posters by 19:30 on the same day.
+    - Presenters on 15th Mar. must remove their posters by 17:00 on the same day.
 - The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on 14th Mar. until the end of the conference (14th Mar., 14:00 – 15th Mar., 17:00).
 
 ## Symposia, Workshops, Forums
