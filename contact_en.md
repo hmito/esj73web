@@ -10,7 +10,7 @@ remarks:
 
 ## Before your question
 
-Before contacting us, please also review our [Frequently Asked Questions](/faq_en) in advance. We appreciate your cooperation in reducing the burden on the conference planning/organizing committee.
+Before contacting us, please also review our [**Frequently Asked Questions**](/faq_en) in advance. We appreciate your cooperation in reducing the burden on the conference planning/organizing committee.
 
 - Requests for **preferred or revised presentation dates/times** cannot be accommodated.
 - Requests for **changes to presentation information** (titles, author names, affiliations, etc.) will not be accepted under any circumstances. Corrections via errata are also not published.
