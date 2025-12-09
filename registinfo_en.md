@@ -9,7 +9,7 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) have closed. We still accept applications for the participation in the conference.
+The call for presentations has now closed. We still accept applications for the participation in the conference.
 
 The deadline for abstract submission is 17th Feb. 2026. Please review the details and complete the process via the application site below.
 
