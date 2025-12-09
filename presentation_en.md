@@ -24,7 +24,7 @@ Please note that only currently available information regarding the presentation
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 - If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 
-### English Oral Sessions
+### Gift for Presenters in English Oral Sessions
 
 - Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
 
@@ -101,7 +101,6 @@ The onsite poster session is available only to those who selected the onsite opt
   - Presenters on 14th Mar. must remove their posters by 19:30 on the same day.
   - Presenters on 15th Mar. must remove their posters by 17:00 on the same day.
 - The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on 14th Mar. until the end of the conference (14th Mar., 14:00 – 15th Mar., 17:00).
-
 
 ## Symposia, Workshops, Forums
 
