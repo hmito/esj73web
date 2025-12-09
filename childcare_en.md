@@ -34,9 +34,9 @@ A family lounge will be set up for participants with their infant(s) and school 
 ### Operation place & dates
 
 These will be open during the same hours as the Childcare Service.
+
 - Kyoto Univ. Yoshida-South campus (Kyokita 3D) : March 11 to March 13.
 - Kyoto International Conference Center (Room 101): March 14 to March 15.
-
 
 ## Facilities
 
