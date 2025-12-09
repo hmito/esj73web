@@ -27,14 +27,49 @@ This page summarizes information and points to note when participating.
 
 ## Lounges, Food & Waste Disposal
 
-- Yoshida-South Campus, Kyoto University: The following rooms will be available as break areas: (1) General break rooms (Kyokita 22, Kyokita 35, and 4Gou 10), (2) General rest space (Kyokita 1F Lounge), (3) Family break room (Child-friendly room, Kyokita 3D), (4) Nursery room, and (5) Lactation room (Kyokita 3B). Please note that the family break room is available only for participants accompanied by children. For details, please refer to the [Family Lounge page](https://esj-meeting.net/childcare/#Family_Lounge).
+### Kyoto University, Yoshida-South Campus
 
-Regarding food and beverages, there are many convenience stores and restaurants around the campus, particularly near the Hyakumanben intersection, which is about a 10-minute walk from the presentation venue. You may bring food purchased at convenience stores, etc., into the venue and eat inside. However, please dispose of trash in the bins placed in each break room, and do not use the waste bins installed by the university around the presentation venue (a notice will be posted to remind attendees).
+Break Areas
+- Break rooms (Kyokita 22, Kyokita 35, 4Gou 10)
+- Rest space (Kyokita 1F Lounge)
+- Spaces for participants with children  
+  - Family break room (Child-friendly room, Kyokita 3D)  
+  - Nursery room  
+  - Lactation room (Kyokita 3B)
 
-- Kyoto International Conference Center: The following rooms will be available as break areas: (1) General rest spaces (Event Hall 2F and Annex Hall), (2) Family break room (Child-friendly room, Room 101) (3) Nursery room, and (4) Lactation room (existing Mother's room). Please note that the family break room is available only for participants accompanied by children. Regarding food and beverages, there is an on-site restaurant, [The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/) (open 10:00–17:00; lunch served 11:00–15:00; last orders at 16:30). However, as there are few restaurants around the venue, we recommend that you either purchase lunch in advance at a convenience store and bring it with you, or use the food trucks. Eight food trucks serving rice balls, hamburgers, takoyaki, sweets, and more will be set up at the main entrance during the following hours. On 14th Mar., they will operate until 19:00, so you may also use them during the evening mixer. Please return any trash from items purchased at the food truck to the food truck whenever possible. You may also use the trash bins provided at the venue, but please separate your trash properly.
+  The family break room is available only for participants accompanied by children.  
+  For details, please refer to the [Family Lounge page](https://esj-meeting.net/childcare/#Family_Lounge).
+
+Food & Beverages
+- There are many convenience stores and restaurants around the campus, especially near the Hyakumanben intersection, which is about a 10-minute walk from the presentation venue.
+- You may bring food purchased at convenience stores etc. into the venue and eat inside.  
+  However, please dispose of trash in the bins placed in each break room, and **do not** use the waste bins installed by the university around the presentation venue (a notice will be posted to remind attendees).
 
 	- 14th Mar.: 11:00–19:00 (alcohol served from 17:00)
 	- 15th Mar.: 9:00–16:00
+
+### Kyoto International Conference Center (ICC Kyoto)
+
+Break Areas
+- Rest spaces (Event Hall 2F, Annex Hall)
+- Spaces for participants with children  
+  - Family break room (Child-friendly room, Room 101)  
+  - Nursery room  
+  - Lactation room (existing Mother’s room)
+
+  The family break room is available only for participants accompanied by children.
+
+Food & Beverages
+- There is an on-site restaurant,  
+  **[The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/)**  
+  (open 10:00–17:00; lunch 11:00–15:00; last orders 16:30).  
+  However, since there are few restaurants around the venue, we recommend purchasing lunch in advance at a convenience store, or using the food trucks.
+- Eight food trucks (rice balls, hamburgers, takoyaki, sweets, etc.) will be set up at the main entrance during the following hours.  
+  On March 14, they will operate until 19:00, so you may use them during the evening mixer.  
+  Please return trash from items purchased at the food trucks to the food trucks whenever possible.  
+  You may also use the trash bins at the venue, but please separate your trash properly.
+  - **March 14:** 11:00–19:00 (alcohol served from 17:00)  
+  - **March 15:** 9:00–16:00
 
 
 ## Wi-Fi Connectivity

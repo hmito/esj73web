@@ -7,7 +7,7 @@ multi_language: true
 
 # Guidelines for Presentations
 
-Please note that only currently available information regarding the presentations is provided here. **More detailed information will to be updated around January**.
+Please note that only currently available information regarding the presentations is provided here. **More detailed information will be updated around January**.
 
 ## Oral Presentations
 
@@ -118,7 +118,7 @@ The onsite poster session is available only to those who selected the onsite opt
 
 ## Self On-Demand Streaming
 
-At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
+At this conference, all oral presenters can utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
 
 - It covers all oral presentations.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
