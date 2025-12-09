@@ -31,11 +31,12 @@ Childcare service will be provided in the ESJ73 venue to those who have complete
 
 A family lounge will be set up for participants with their infant(s) and school children. No reservation is required. Please use the room to eat with your child(ren) or just to relax.
 
-### Operation dates
+### Operation place & dates
 
-- Kyoto Univ. Yoshida-South campus: March 11, 2026 to March 13, 2026.
-- Kyoto International Conference Center: March 14, 2026 to March 15, 2026.
-- These will be open during the same hours as the Childcare Service.
+These will be open during the same hours as the Childcare Service.
+
+- Kyoto Univ. Yoshida-South campus (Kyokita 3D) : March 11 to March 13.
+- Kyoto International Conference Center (Room 101): March 14 to March 15.
 
 ## Facilities
 

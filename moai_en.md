@@ -21,4 +21,6 @@ Any member of the Ecological Society of Japan can easily participate in Moai, re
 
 Details on how to apply or the schedule will be posted on [**the Moai official website**](https://ugui-guigui.wixsite.com/moai-esj2024) (scheduled for release in January 2026).
 
+[**\[Moai official Website\]**] (https://ugui-guigui.wixsite.com/moai-esj2024)
+
 ESJ73 Moai Project Working Group

@@ -3,6 +3,9 @@ url: https://esj-meeting.net/public_lecture_ja/
 menu: 日程・各種企画 > 公開講演会
 toc: true
 multi_language: False
+remarks:
+	画像ファイル添付あり　画像をクリック時にPDFに飛ぶようリンクをお願いします
+	PDFファイル添付あり
 ---
 
 <!--実行委員会担当者様
@@ -22,23 +25,26 @@ multi_language: False
 
 ## 京都の自然と文化　生態系と人のつながり、その歴史
 
-
 千年の都、京都が長きにわたって都であり続けることができたのは、人びとが都市を支える良質な環境と資源を得ることができ、それらを保ち続けることができたからだと思われます。京都で育まれた文化は人びとが自然との結びつきのなかで営んできた生活と生業の中から生まれてきたものでしょう。この公開講演会では生態系と人びとの繋がり、その歴史的な変遷から持続的な人と生態系の関係性の本質を考えたいと思います。
-
 
 **日時**：2026年3月15日(日) 14:00 – 17:00  
 **場所**：国立京都国際会館　Anex Hall (Room S)  
 **参加費**：無料、事前登録不要  
 
 ## ポスター
-<img src="../media/ESJ72_A4flyer_omote_final.jpg" style="width:1.84375in;height:2.6in"/>  
-<img src="../media/ESJ72_A4flyer_ura_final.jpg" style="width:1.84375in;height:2.6in"/>  
 
-[ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/ESJ72_A4flyer_omote_ura_final.pdf)
+![表](./media/public_lecture_poster_1.png)
+![裏](./media/public_lecture_poster_2.png)
+<!--元の記載
+<img src="../media/public_lecture_poster_1" style="width:1.84375in;height:2.6in"/>  
+<img src="../media/ESJ72_A4flyer_ura_final.jpg" style="width:1.84375in;height:2.6in"/>  -->
+
+[ポスター(PDF)をダウンロード](./media/public_lecture_poster.pdf)
+<!--リンクこれで大丈夫でしょうか？-->
 
 ## 会場
 
-会場へのアクセスは[こちら](https://esj-meeting.net/venue_ja/)を参考にして下さい。
+会場へのアクセスは[こちら](/venue#会場へのアクセス)を参考にして下さい。
 
 ## プログラム
 

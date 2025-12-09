@@ -12,9 +12,9 @@ This page summarizes information and points to note when participating.
 
 - All participants need to wear their name badges at all times while at the venue.
 - Please **download and print your name badge from the conference platform Rakuraku-Conference** in advance. Participants who have brought their name badges do not need to check in at the registration desk.
-	- If you forget your name badge, please present the digital version of your name badge or participation certificate (available for download from Rakuraku-Conference) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a badge holder, and wear it at all times.
+    - If you forget your name badge, please present the digital version of your name badge or participation certificate (available for download from Rakuraku-Conference) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a badge holder, and wear it at all times.
 - **Please bring your own name tag holder**, either one you normally use or one you own. 
-	- While reusable name tag holders will be provided at the event, please be sure to return them to the reception desk or collection box upon your departure.
+    - While reusable name tag holders will be provided at the event, please be sure to return them to the reception desk or collection box upon your departure.
 - On-site registration is available. After completing the registration process from Rakuraku-Conference, please present your name badge or participation certificate on your device at the registration desk. You will receive a designated paper insert, on which you must write your name, place it inside a badge holder, and wear it during the conference.
 
 ## Cloak
@@ -27,15 +27,31 @@ This page summarizes information and points to note when participating.
 
 ## Lounges, Food & Waste Disposal
 
-- Yoshida-South Campus, Kyoto University: The following rooms will be available as break areas: (1) General break rooms (Kyokita 22, Kyokita 35, and 4Gou 10), (2) General rest space (Kyokita 1F Lounge), (3) Family break room (Child-friendly room, Kyokita 3D), (4) Nursery room, and (5) Lactation room (Kyokita 3B). Please note that the family break room is available only for participants accompanied by children. For details, please refer to the [Family Lounge page](https://esj-meeting.net/childcare/#Family_Lounge).
+### Kyoto University, Yoshida-South Campus
 
-Regarding food and beverages, there are many convenience stores and restaurants around the campus, particularly near the Hyakumanben intersection, which is about a 10-minute walk from the presentation venue. You may bring food purchased at convenience stores, etc., into the venue and eat inside. However, please dispose of trash in the bins placed in each break room, and do not use the waste bins installed by the university around the presentation venue (a notice will be posted to remind attendees).
+[**[Venue Map]**](/venue_en)
 
-- Kyoto International Conference Center: The following rooms will be available as break areas: (1) General rest spaces (Event Hall 2F and Annex Hall), (2) Family break room (Child-friendly room, Room 101) (3) Nursery room, and (4) Lactation room (existing Mother's room). Please note that the family break room is available only for participants accompanied by children. Regarding food and beverages, there is an on-site restaurant, [The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/) (open 10:00–17:00; lunch served 11:00–15:00; last orders at 16:30). However, as there are few restaurants around the venue, we recommend that you either purchase lunch in advance at a convenience store and bring it with you, or use the food trucks. Eight food trucks serving rice balls, hamburgers, takoyaki, sweets, and more will be set up at the main entrance during the following hours. On 14th Mar., they will operate until 19:00, so you may also use them during the evening mixer. Please return any trash from items purchased at the food truck to the food truck whenever possible. You may also use the trash bins provided at the venue, but please separate your trash properly.
+Break Areas
+- Break rooms (Kyokita 22, Kyokita 35, 4Gou 10)
+- Rest space (Kyokita 1F Lounge)
 
-	- 14th Mar.: 11:00–19:00 (alcohol served from 17:00)
-	- 15th Mar.: 9:00–16:00
+- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Kyokita 3D), [Nursery rooms](/childcare_en#Nursing-Rooms) (Kyokita 3B), [childcare service](/childcare_en#Childcare-Service) (reservation required) are abailable. Multipurpose restrooms for men and women with diaper-changing facilities are available.
+- Break rooms are available at Kyohoku 22, Kyohoku 35, and Building 4 Room 10, and the Kyohoku 1F lounge may also be used as a rest area.
+- There are many convenience stores and restaurants around the campus, especially near the Hyakumanben intersection, which is about a 10-minute walk from the presentation venue.
+- You may bring food purchased at convenience stores etc. into the venue and eat inside.  
+  However, please dispose of trash in the bins placed in each break room, and **do not** use the waste bins installed by the university around the presentation venue.
 
+### Kyoto International Conference Center (ICC Kyoto)
+
+[**[Venue Map]**](/venue_en)
+
+- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Room 101), [Nursery rooms](/childcare_en#Nursing-Rooms) (existing Mother’s room), [childcare service](/childcare_en#Childcare-Service) (reservation required) are abailable. Diaper-changing stations are installed in both the men's and women's restrooms.
+- The 2nd floor of the Event Hall and the Annex Hall may be used as rest areas.
+- There is an on-site restaurant, **[The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/)** (open 10:00–17:00; lunch 11:00–15:00; last orders 16:30). However, since there are few restaurants around the venue, **we recommend purchasing lunch in advance at a convenience store, or using the food trucks**.
+- Food trucks will be set up in front of the main entrance from 11:00–19:00 on the 14th and from 9:00–16:00 on the 15th.
+    - Eight trucks are scheduled, offering items such as rice balls, hamburgers, takoyaki, and sweets.
+    - Alcohol drinks will be available from 17:00–19:00 on the 14th. Please feel free to use the food trucks during the evening mixer.
+    - Please return garbage from food truck purchases to the trucks whenever possible. You may also use the trash bins inside the venue, but be sure to separate your waste properly.
 
 ## Wi-Fi Connectivity
 
