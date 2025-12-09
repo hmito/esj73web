@@ -250,6 +250,14 @@ If you require reasonable accommodations for presentations or attendance at the 
 Kyoto University provides a <a href="https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/" target="_blank">Free Access Map</a> that clearly displays access routes, so please refer to it as well.
 Barrier-free information for the ICC Kyoto 国立京都国際会館 is available <a href="https://www.icckyoto.or.jp/en/facility-2/accessibility/" target="_blank">here</a>.
 
+## Emergency Shelters in the Event of a Disaster
+
+For information regarding emergency shelters and related resources in the event of a disaster, please refer to the hazard maps provided by the City of Kyoto.
+
+- [Earthquake Preparation [PDF]](https://www.bousai.city.kyoto.lg.jp/cmsfiles/contents/0000000/593/03EA_sakyou_joho_jishin_E.pdf)
+- [Kyoto City Sakyo Ward Hazard Map [PDF]](https://www.bousai.city.kyoto.lg.jp/cmsfiles/contents/0000000/593/03EA_sakyou_map_jishin_E.pdf)
+- [Kyoto City Web-based Hazard Map (Japanese Information only)](https://www.bousai.city.kyoto.lg.jp/bousai/hazardmap/index.html?lay=saigai_34)  
+
 ## Code of Conduct
 
 All participants are required to adhere to the following Code of Conduct during the meeting.

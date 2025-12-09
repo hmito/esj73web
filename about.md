@@ -250,6 +250,13 @@ ESJ73では、会場内に[託児室](/childcare#託児室)を設置します。
 
 京都大学がアクセス経路をわかりやすく表示した<a href="https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/" target="_blank">フリーアクセスマップ</a>を提供しているので、こちらもご参照ください。国立京都国際会館のバリアフリー情報は<a href="https://www.icckyoto.or.jp/facility/accessibility/" target="_blank">こちら</a>にございます。
 
+## 災害時の避難所
+
+災害時の避難所等の情報については、京都市のハザードマップ等の情報をご活用ください。
+
+- [京都市 Web版ハザードマップ](https://www.bousai.city.kyoto.lg.jp/bousai/hazardmap/index.html?lay=saigai_34)
+- [京都市左京区ハザードマップ [PDF]](https://www.bousai.city.kyoto.lg.jp/cmsfiles/contents/0000000/196/03_sakyou_map_jishin.pdf)
+
 ## 大会行動規範
 
 本大会では、大会への参加にあたって参加者全員に以下の行動規範の遵守をお願いしています。
