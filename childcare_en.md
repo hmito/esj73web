@@ -6,7 +6,7 @@ multi_language: true
 
 # Childcare support
 
-[Childcare Service](#childcare-service) and [family lounge](#family-lounge) will be available at the ESJ73 meeting. For other venue facilities such as nursing rooms and diaper changing spaces, please see [here](#facilities).
+[Childcare Service](#Childcare-Service) and [family lounge](#Family-Lounge) will be available at the ESJ73 meeting. For other venue facilities such as nursing rooms and diaper changing spaces, please see [here](#Facilities).
 
 ## Childcare Service
 
@@ -40,7 +40,7 @@ These will be open during the same hours as the Childcare Service.
 
 ## Facilities
 
-### Nursing rooms
+### Nursing Rooms
 
 - In the Kyoto University's Yoshida-South Campus, one room in the same row as the family lounge area will be designated as a nursing room..
 - The Kyoto International Conference Center has a nursing room within the venue as part of its facilities.

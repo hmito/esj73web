@@ -8,7 +8,7 @@ multi_language: true
 
 ## Important Notices
 
-- **Early-bird registration is available until 17th Feb., 13:00 JST. Please check [Registration Information](/registinfo_en#Registration-For-Participation) before applying.**
+- **Early-bird registration is available until 17th Feb., 13:00 JST. Please check [Registration Information](/registinfo_en#Registration-for-Participation) before applying.**
     - Registration will be unavailable from February 17, 13:00 to February 20, 9:00 due to system maintenance.
 - **The [Conference Program](/program_en) and <a href="https://esj73.raku-con.com" target="_blank">Conference Online Platform (Raku-Raku Conference)</a> are now available.**
 - **[Presentation Guidelines](/presentation_en) have been updated. Please read carefully, as they contain important information for preparing your presentation.**

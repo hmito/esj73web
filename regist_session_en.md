@@ -51,7 +51,7 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 **Online presentations will not be accepted for presentations with abstract submission** at this conference. All such presentations must be given on-site, except in cases where reasonable accommodation is required.
 
-If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
+If it is difficult to present on-site, **remote presentations using Zoom will be permitted only for contributions that do not require the submission of a presentation abstract**, such as explanation of purpose, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. However, **connection to Zoom is strictly limited to organizers and presenters.** The conference organizing committee will not provide a Wi-Fi environment for sessions, so session organizers are required to prepare their own Wi-Fi if needed. For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-Connectivity).
 
 ### On-Demand Streaming of Presentations
 
@@ -63,7 +63,7 @@ In order to prevent problems with the recordings, all recording works will be ha
 
 ### How to organize Sessions
 
-The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#SymposiaWorkshopsForums) page for **notes regarding the venue facilities and recording**.
+The following are important notes related to session proposals. Please also check the [**“Guidelines for Presentations”**](/presentation_en#Symposia-Workshops-Forums) page for **notes regarding the venue facilities and recording**.
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
     - For information on how to use the symposium invited speaker program, please refer to [**"Symposium Invited Speaker Program"**](#Symposium-Invited-Speaker-Program).
@@ -124,7 +124,7 @@ To apply for the program, please ask the invited speakers to follow the procedur
 1. Please proceed as follows: Non-members ⇒ Create a new ID.
 1. Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
 1. Please fill in the required information in the other fields and complete the registration procedure.
-1. Thereafter, please follow [the procedures for Speakers](#for-speakers), i.e, provide the organizer with the login ID for the relevant presentation submission site, along with the title, affiliation, and other required information.
+1. Thereafter, please follow [the procedures for Speakers](#For-Speakers), i.e, provide the organizer with the login ID for the relevant presentation submission site, along with the title, affiliation, and other required information.
 
 Please inform the organizer of your ID on the application site.
 <!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも ⇒ チェックして文言を修正済み--->
