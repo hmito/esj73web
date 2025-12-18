@@ -38,7 +38,7 @@ Maps of each venue can be downloaded in PDF format from the links below.
 
 Transportation options to the venues include city buses, subways, Keihan Railway, and the hoop Bus. The main routes are outlined below.
 
-![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/09/to_venue_map_en.png)
+![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/12/to_venue_map_en.png)
 
 ### 11th–13th: Access to Kyoto University, Yoshida South Campus
 

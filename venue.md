@@ -40,7 +40,7 @@ remarks:
 
 会場への交通機関は、市バス、地下鉄、京阪電車、hoopバスなどがあります。以下に主なルートを示します。
 
-![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/09/to_venue_map.png)
+![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/12/to_venue_map.png)
 
 ### 11-13日：京都大学吉田南構内へのアクセス
 
