@@ -1,5 +1,5 @@
 ---
-url: https://esj-meeting.net/public_lecture_ja/
+url: https://esj-meeting.net/public_lecture/
 menu: 日程・各種企画 > 公開講演会
 toc: true
 multi_language: False

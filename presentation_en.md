@@ -31,8 +31,7 @@ Please note that only currently available information regarding the presentation
 
 - Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
 
-
-## Self On-Demand Streaming for Oral Sessions
+### Self On-Demand Streaming
 
 At this conference, all oral presenters can utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
 
@@ -51,7 +50,6 @@ At this conference, all oral presenters can utilize “Self On-Demand Streaming,
 - Presenters shall bear full responsibility for any consequences arising from the content of their videos.
     - Online video streaming constitutes public transmission under copyright law. Please take care to avoid copyright violations and defamation issues.
     - When citing published works, always clearly indicate the source. If your presentation includes works owned by others, you must obtain permission from the copyright holder for streaming.
-
 
 ## Poster Presentation
 
@@ -97,48 +95,44 @@ The onsite poster session is available only to those who selected the onsite opt
 ### Online Poster Presentation
 
 - The online poster viewing period is scheduled for 8th–15th Mar.
-- All poster presenters must upload their posters by 7th Mar. at 23:59.
-- Poster upload will be available at any time on the online conference platform “Rakuraku Conference” starting 30th Jan. 2026.
-- Poster files may be replaced or updated at any time.
+    - All poster presenters must upload their posters by 7th Mar. at 23:59.
+    - Poster upload will be available at any time on the online conference platform “Rakuraku Conference” starting 30th Jan. 2026.
+    - Poster files may be replaced or updated at any time.
 - There will be no core time or designated discussion session for the online poster presentation.
-- Please communicate with participants using the comment function provided on the platform.
-- If you wish to give a live explanation online, please arrange your own online meeting system, such as Zoom.
-- Access to posters and explanatory videos will be limited to registered participants only.
+    - Please communicate with participants using the comment function provided on the platform.
+    - If you wish to give a live explanation online, please arrange your own online meeting system, such as Zoom.
+    - Access to posters and explanatory videos will be limited to registered participants only.
 - Posters will be displayed in a format that prevents viewers from downloading the file or copying text.
 
 ## Onsite Poster Presentation
+
 - The poster venue will open at:
-  - 11:00 on March 14
-  - 9:00 on March 15
-  
-    - Onsite presenters must mount their posters as follows:
+    - 11:00 on March 14
+    - 9:00 on March 15
+- Onsite presenters must mount their posters as follows:
     - Presenters on March 14: Please put up your poster between 11:00 and 12:00.
     - Presenters on March 15: Please put up your poster between 9:00 and 10:00.
-  
 - Poster boards will display a number tag showing the poster number (e.g., P1-001, P2-001).
 - Please locate the board with your corresponding number tag and mount your poster there.
 - Please bring your own thumbtacks for mounting your poster.
 - Thumbtacks tend to be in short supply at nearby shops during the conference, so please prepare them in advance.
-  
 - For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (March 14, 15) from 12:00 to 14:00.
-  - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
-  - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
+    - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
+    - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
 - During core time, presenters should stand by their posters and give explanations to attendees.
-
 - Poster removal times:
-  - Presenters on March 14 must remove their posters by 19:30 on the same day.
-  - Presenters on March 15 must remove their posters by 17:00 on the same day.
+    - Presenters on March 14 must remove their posters by 19:30 on the same day.
+    - Presenters on March 15 must remove their posters by 17:00 on the same day.
 - The poster that receives the Best Poster Award will be displayed in a designated area from 19:30 on March 14 until 14:00 on March 15.
-
 
 ## Symposia, Workshops, Forums
 
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
-    -No file submission is required at the Speaker Ready Room. Please confirm with the organizer if you need to bring your own laptop.
+    - No file submission is required at the Speaker Ready Room. Please confirm with the organizer if you need to bring your own laptop.
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
-- The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. 
-    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
-- At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc. Additionally, microphones will be set up in each venue, with a minimum of two. 
+- The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed.
+    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-FiCConnectivity).
+- At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc. Additionally, microphones will be set up in each venue, with a minimum of two.
 - If the organizer requests it, the presentation will be recorded by a contractor.
     - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.
     - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording.

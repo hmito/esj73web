@@ -14,7 +14,7 @@ remarks:
 ## Timetable
 <!---以下の一点目は、html作成時に赤字にしてください--->
 - <span style="color: red">**The start and end times and layout of sessions are subject to change.**</span> Please use this information as a reference when making reservations for airline tickets and accommodations.
-<!--- Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). Abstract information is not yet included, but please use this page to confirm the date and time of your presentation.-->
+- Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). Abstract information is not yet included, but please use this page to confirm the date and time of your presentation.
 
 [Schedule (12/15 ver.) PDF file](/media/スケジュール概要_en_ESJ73_20251215.pdf)
 
