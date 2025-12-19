@@ -22,7 +22,7 @@ This page summarizes information and points to note when participating.
 - When depositing your belongings, you will receive a cloakroom ticket from the staff. If you lose your cloakroom ticket, we will be unable to return your belongings. To retrieve your items, please present your cloakroom ticket to the staff.
 - We cannot accept items containing valuables, fragile objects, or perishable goods (including refrigerated or frozen items). Additionally, we are not responsible for theft, loss, or damage to deposited items.
 - Please bundle umbrellas together with other luggage when depositing them.
-- After closing hours, items cannot be retrieved until the following morning. The cloakroom will remain unattended overnight. After the final day’s closing, unclaimed items will be transferred to the conference headquarters.
+- After closing hours, items cannot be retrieved until the following morning. The cloakroom will remain unattended overnight. After the final day’s closing at Yoshida-South Campus, Kyoto University (13th), unclaimed items will be transferred to the conference headquarters at Kyoto International Conference Center.
 - In the event of an emergency, such as a fire or earthquake, the cloakroom will be closed.
 
 ## Lounges, Food & Waste Disposal
@@ -49,13 +49,13 @@ Break Areas
 - The 2nd floor of the Event Hall and the Annex Hall may be used as rest areas.
 - There is an on-site restaurant, **[The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/)** (open 10:00–17:00; lunch 11:00–15:00; last orders 16:30). However, since there are few restaurants around the venue, **we recommend purchasing lunch in advance at a convenience store, or using the food trucks**.
 - Food trucks will be set up in front of the main entrance from 11:00–19:00 on the 14th and from 9:00–16:00 on the 15th.
-    - Eight trucks are scheduled, offering items such as rice balls, hamburgers, takoyaki, and sweets.
+    - Eight food trucks are scheduled, offering items such as rice balls, hamburgers, takoyaki, and sweets.
     - Alcohol drinks will be available from 17:00–19:00 on the 14th. Please feel free to use the food trucks during the evening mixer.
     - Please return garbage from food truck purchases to the trucks whenever possible. You may also use the trash bins inside the venue, but be sure to separate your waste properly.
 
 ## Wi-Fi Connectivity
 
-Free Wi-Fi is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
+Free Wi-Fi (including eduroam) is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
 
 - **Yoshida-South Campus, Kyoto University:** <a href="https://www.eduroam.jp/en" target="_blank">eduroam</a> is generally available throughout the venue. Participants with an eduroam account may use this service. Please note that even if you do not have an eduroam account, the conference organizers will not provide any special assistance.
 - **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \(<a href="https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\" target="_blank">ICCK_Public_WiFi</a> is available throughout the venue. Please note that each connection session is limited to 60 minutes.

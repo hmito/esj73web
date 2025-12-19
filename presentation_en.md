@@ -31,6 +31,28 @@ Please note that only currently available information regarding the presentation
 
 - Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
 
+
+## Self On-Demand Streaming for Oral Sessions
+
+At this conference, all oral presenters can utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
+
+- It covers all oral presentations.
+    - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
+- The use of Self On-Demand Streaming is **optional**. It is not mandatory for presentations.
+    - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use Self On-Demand Streaming**.
+- You may only upload one video containing content equivalent to the presentation given on the day.
+    - Format is MP4 only, with a maximum size of 500MB.
+    - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
+- **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
+- Uploading and streaming will be conducted on the online conference platform “RakuRaku-Conference”.
+    - Uploads can be made at any time after 30th Jan. 2026 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
+    - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
+    - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the online conference platform.
+- Presenters shall bear full responsibility for any consequences arising from the content of their videos.
+    - Online video streaming constitutes public transmission under copyright law. Please take care to avoid copyright violations and defamation issues.
+    - When citing published works, always clearly indicate the source. If your presentation includes works owned by others, you must obtain permission from the copyright holder for streaming.
+
+
 ## Poster Presentation
 
 - Two opportunities for poster presentations are provided: an online poster session and an onsite (in-person) poster session.
@@ -84,26 +106,30 @@ The onsite poster session is available only to those who selected the onsite opt
 - Access to posters and explanatory videos will be limited to registered participants only.
 - Posters will be displayed in a format that prevents viewers from downloading the file or copying text.
 
-### Onsite Poster Presentation
-
-- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (14th–15th Mar.) from 12:00 to 14:00.
-    - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
-    - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
-- During core time, presenters should stand by their posters and give explanations to attendees.
-- Onsite presenters must mount their posters as follows:
-    - Presenters on 14 Mar.: Please put up your poster starting from 11:00.
-    - Presenters on 15th Mar.: Please put up your poster starting from 9:00.
+## Onsite Poster Presentation
 - The poster venue will open at:
-    - 11:00 on 14th Mar.
-    - 9:00 on 15th Mar,
-- Poster boards will display a number tag showing the last three digits of the poster number (e.g., for P1-001, the tag will show “001”).
+  - 11:00 on March 14
+  - 9:00 on March 15
+  
+    - Onsite presenters must mount their posters as follows:
+    - Presenters on March 14: Please put up your poster between 11:00 and 12:00.
+    - Presenters on March 15: Please put up your poster between 9:00 and 10:00.
+  
+- Poster boards will display a number tag showing the poster number (e.g., P1-001, P2-001).
 - Please locate the board with your corresponding number tag and mount your poster there.
 - Please bring your own thumbtacks for mounting your poster.
 - Thumbtacks tend to be in short supply at nearby shops during the conference, so please prepare them in advance.
+  
+- For onsite presentations, a core time will be scheduled on Day 4 or Day 5 of the conference (March 14, 15) from 12:00 to 14:00.
+  - Presentations with odd-numbered poster IDs will have core time during the first hour (12:00–13:00).
+  - Presentations with even-numbered poster IDs will have core time during the second hour (13:00–14:00).
+- During core time, presenters should stand by their posters and give explanations to attendees.
+
 - Poster removal times:
-    - Presenters on 14th Mar. must remove their posters by 19:30 on the same day.
-    - Presenters on 15th Mar. must remove their posters by 17:00 on the same day.
-- The poster selected for the Best Poster Award will be displayed in the entrance hall from the end of the core time on 14th Mar. until the end of the conference (14th Mar., 14:00 – 15th Mar., 17:00).
+  - Presenters on March 14 must remove their posters by 19:30 on the same day.
+  - Presenters on March 15 must remove their posters by 17:00 on the same day.
+- The poster that receives the Best Poster Award will be displayed in a designated area from 19:30 on March 14 until 14:00 on March 15.
+
 
 ## Symposia, Workshops, Forums
 
@@ -111,29 +137,9 @@ The onsite poster session is available only to those who selected the onsite opt
     -No file submission is required at the Speaker Ready Room. Please confirm with the organizer if you need to bring your own laptop.
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
 - The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. 
-    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-Connectivity).
+    - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/attendance_en#Wi-Fi-connectivity).
 - At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc. Additionally, microphones will be set up in each venue, with a minimum of two. 
 - If the organizer requests it, the presentation will be recorded by a contractor.
     - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.
     - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording.
     - For Q&A and discussions, only content spoken through the microphone can be recorded.
-
-## Self On-Demand Streaming
-
-At this conference, all oral presenters can utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
-
-- It covers all oral presentations.
-    - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
-- The use of Self On-Demand Streaming is **optional**. It is not mandatory for presentations.
-    - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use Self On-Demand Streaming**.
-- You may only upload one video containing content equivalent to the presentation given on the day.
-    - Format is MP4 only, with a maximum size of 500MB.
-    - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
-- **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
-- Uploading and streaming will be conducted on the online conference platform “RakuRaku-Conference”.
-    - Uploads can be made at any time after 30th Jan. 2026 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
-    - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
-    - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the online conference platform.
-- Presenters shall bear full responsibility for any consequences arising from the content of their videos.
-    - Online video streaming constitutes public transmission under copyright law. Please take care to avoid copyright violations and defamation issues.
-    - When citing published works, always clearly indicate the source. If your presentation includes works owned by others, you must obtain permission from the copyright holder for streaming.
