@@ -32,7 +32,7 @@ Maps of each venue can be downloaded in PDF format from the links below.
 | **Cloak room** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
 | **Family room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
 | **Break room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
-| **Corporate Exhibition** | - | - | - | 10:30-<br>19:45 | 9:00-<br>17:00 |
+| **Corporate Exhibition** | - | - | - | 11:00-<br>19:30 | 9:00-<br>17:00 |
 
 ## Access to the Venues
 
