@@ -27,25 +27,26 @@ Childcare service will be provided in the ESJ73 venue to those who have complete
 - Please apply directly to Poppins Service Kyoto.
 - Soon after using the childcare room, an invoice will be emailed directly to the user from Poppins Service Kyoto. Please pay the usage fee to Poppins Service Kyoto.
 
-## Family Lounge
+## Facilities
+
+### Family Lounge
 
 A family lounge will be set up for participants with their infant(s) and school children. No reservation is required. Please use the room to eat with your child(ren) or just to relax.
 
-### Operation place & dates
-
-These will be open during the same hours as the Childcare Service.
-
-- Kyoto Univ. Yoshida-South campus (Kyokita 3D) : March 11 to March 13.
-- Kyoto International Conference Center (Room 101): March 14 to March 15.
-
-## Facilities
+- Kyoto Univ. Yoshida-South campus: Kyokita 3D
+    - 11th: 12:00-18:00
+    - 12th: 8:30-18:00
+    - 13th: 8:30-18:00
+- Kyoto International Conference Center: Room 101
+    - 14th: 8:30-18:00
+    - 15th: 8:30-15:00
 
 ### Nursing Rooms
 
-- In the Kyoto University's Yoshida-South Campus, one room in the same row as the family lounge area will be designated as a nursing room..
+- University's Yoshida-South Campus, one room in the same row as the family lounge area will be designated as a nursing room..
 - The Kyoto International Conference Center has a nursing room within the venue as part of its facilities.
 
 ### Diaper changing space
 
-- Kyoto University's Yoshida-South Campus has a multipurpose restroom available for both men and women, equipped with diaper-changing facilities.
+- Kyoto University： has a multipurpose restroom available for both men and women, equipped with diaper-changing facilities.
 - At the Kyoto International Conference Center, diaper-changing stations are installed in both the men's and women's restrooms.
