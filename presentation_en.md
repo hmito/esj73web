@@ -7,7 +7,7 @@ multi_language: true
 
 # Guidelines for Presentations
 
-Please note that only currently available information regarding the presentations is provided here. **More detailed information will be updated around January**.
+We provide information regarding the presentations here.
 
 ## Oral Presentations
 
@@ -29,7 +29,7 @@ Please note that only currently available information regarding the presentation
 
 ### Gift for Presenters in English Oral Sessions
 
-- Gifts for English presenters will be distributed during reception hours. Once you receive your voucher, please come to the reception desk promptly and be sure to exchange it for your gift.
+- Gifts for English presenters will be distributed. After your presentation, please receive a voucher at the presentation venue and come to the reception desk as soon as possible to exchange it for your gift. Please note that gift exchange is available only during the conference period, and requests after the conference has ended cannot be accommodated.
 
 ### Self On-Demand Streaming
 
@@ -65,7 +65,8 @@ The onsite poster session is available only to those who selected the onsite opt
     - Do not embed audio or video files within the PDF.
     - The maximum file size is 5 MB.
     - To ensure smooth display on the platform, a file size of 1 MB or less is recommended.
-- The posters for the **onsite sessios** must fit within the display boards, which are sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
+- The posters for the **onsite session
+s** must fit within the display boards, which are sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
 - We encourage presenters to be considerate of attendees who may not understand Japanese.

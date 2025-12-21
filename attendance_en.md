@@ -10,14 +10,14 @@ This page summarizes information and points to note when participating.
 
 ## Registration
 
-- All participants need to wear their name badges at all times while at the venue.
-- Please **download and print your name badge from the conference platform Rakuraku-Conference** in advance. Participants who have brought their name badges do not need to check in at the registration desk.
-    - If you forget your name badge, please present the digital version of your name badge or participation certificate (available for download from Rakuraku-Conference) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a badge holder, and wear it at all times.
+- All participants need to wear their name cards at all times while at the venue.
+- Please **download and print your name card from the conference platform Rakuraku-Conference** in advance. Participants who have brought their name cards do not need to check in at the registration desk.
+    - If you forget your name card, please present the digital version of your name card or participation certificate (available for download from Rakuraku-Conference) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a card holder, and wear it at all times.
 - **Please bring your own name tag holder**, either one you normally use or one you own. 
     - While reusable name tag holders will be provided at the event, please be sure to return them to the reception desk or collection box upon your departure.
-- On-site registration is available. After completing the registration process from Rakuraku-Conference, please present your name badge or participation certificate on your device at the registration desk. You will receive a designated paper insert, on which you must write your name, place it inside a badge holder, and wear it during the conference.
+- On-site registration is available. After completing the registration process from Rakuraku-Conference, please present your name card or participation certificate on your device at the registration desk. You will receive a designated paper insert, on which you must write your name, place it inside a card holder, and wear it during the conference.
 
-## Cloak
+## Cloakroom
 
 - When depositing your belongings, you will receive a cloakroom ticket from the staff. If you lose your cloakroom ticket, we will be unable to return your belongings. To retrieve your items, please present your cloakroom ticket to the staff.
 - We cannot accept items containing valuables, fragile objects, or perishable goods (including refrigerated or frozen items). Additionally, we are not responsible for theft, loss, or damage to deposited items.
@@ -35,7 +35,7 @@ Break Areas
 - Break rooms (Kyokita 22, Kyokita 35, 4Gou 10)
 - Rest space (Kyokita 1F Lounge)
 
-- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Kyokita 3D), [Nursery rooms](/childcare_en#Nursing-Rooms) (Kyokita 3B), [childcare service](/childcare_en#Childcare-Service) (reservation required) are abailable. Multipurpose restrooms for men and women with diaper-changing facilities are available.
+- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Kyokita 3D), [Nursery rooms](/childcare_en#Nursing-Rooms) (Kyokita 3B), [childcare service](/childcare_en#Childcare-Service) (reservation required) are available. Multipurpose restrooms for men and women with diaper-changing facilities are available.
 - Break rooms are available at Kyohoku 22, Kyohoku 35, and Building 4 Room 10, and the Kyohoku 1F lounge may also be used as a rest area.
 - There are many convenience stores and restaurants around the campus, especially near the Hyakumanben intersection, which is about a 10-minute walk from the presentation venue.
 - You may bring food purchased at convenience stores etc. into the venue and eat inside.  
@@ -45,7 +45,7 @@ Break Areas
 
 [**[Venue Map]**](/venue_en)
 
-- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Room 101), [Nursery rooms](/childcare_en#Nursing-Rooms) (existing Mother’s room), [childcare service](/childcare_en#Childcare-Service) (reservation required) are abailable. Diaper-changing stations are installed in both the men's and women's restrooms.
+- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Room 101), [Nursery rooms](/childcare_en#Nursing-Rooms) (existing Mother’s room), [childcare service](/childcare_en#Childcare-Service) (reservation required) are available. Diaper-changing stations are installed in both the men's and women's restrooms.
 - The 2nd floor of the Event Hall and the Annex Hall may be used as rest areas.
 - There is an on-site restaurant, **[The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/)** (open 10:00–17:00; lunch 11:00–15:00; last orders 16:30). However, since there are few restaurants around the venue, **we recommend purchasing lunch in advance at a convenience store, or using the food trucks**.
 - Food trucks will be set up in front of the main entrance from 11:00–19:00 on the 14th and from 9:00–16:00 on the 15th.

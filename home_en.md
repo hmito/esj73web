@@ -20,7 +20,7 @@ multi_language: true
 - **Handling of presentation files differs depending on the presentation type.**
     - For **poster** presentations, all presenters are required to **[upload their online posters](/presentation_en#Poster-Presentation) by 7th Mar.**.
     - For **oral** presentations, no pre-conference upload is necessary; however, presenters must [register their presentation files](/presentation_en#Oral-Presentations) in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
-    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#Symposia-Workshops-Forums)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
+    - For presentations in symposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#Symposia-Workshops-Forums)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
 
 ## Meeting information
 
@@ -38,10 +38,10 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
-- 2025.01.06: Conference program published.
-- 2025.01.06: Venue guide and attendance information posted.
-- 2025.01.06: Presentation guidelines are updated.
-- 2025.01.06: Public lecture information posted.
+- 2026.01.06: Conference program published.
+- 2026.01.06: Venue guide and attendance information posted.
+- 2026.01.06: Presentation guidelines are updated.
+- 2026.01.06: Public lecture information posted.
 - 2025.11.28: Updated the implementation status of sessions in the conference schedule table.
 - 2025.11.28: Information about the ER Symposium invited speaker has been posted.
 - 2025.11.01: Information about Moai has been posted.

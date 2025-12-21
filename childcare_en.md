@@ -25,7 +25,7 @@ Childcare service will be provided in the ESJ73 venue to those who have complete
 ### Registration
 
 - Please apply directly to Poppins Service Kyoto.
-- After using the childcare room, an invoice will be mailed directly to the user from Poppins Service Kyoto around April 10, 2026. Please pay the usage fee to Poppins Service Kyoto.
+- Soon after using the childcare room, an invoice will be emailed directly to the user from Poppins Service Kyoto. Please pay the usage fee to Poppins Service Kyoto.
 
 ## Family Lounge
 
@@ -47,5 +47,5 @@ These will be open during the same hours as the Childcare Service.
 
 ### Diaper changing space
 
-- Kyoto University's Yoshida-South Campus has multipurpose restrooms available for both men and women, equipped with diaper-changing facilities.
+- Kyoto University's Yoshida-South Campus has a multipurpose restroom available for both men and women, equipped with diaper-changing facilities.
 - At the Kyoto International Conference Center, diaper-changing stations are installed in both the men's and women's restrooms.

@@ -124,7 +124,7 @@ To apply for the program, please ask the invited speakers to follow the procedur
 1. Please proceed as follows: Non-members ⇒ Create a new ID.
 1. Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
 1. Please fill in the required information in the other fields and complete the registration procedure.
-1. Thereafter, please follow [the procedures for Speakers](#For-Speakers), i.e, provide the organizer with the login ID for the relevant presentation submission site, along with the title, affiliation, and other required information.
+1. Thereafter, please follow [the procedures for Speakers](#For-Speakers), i.e., provide the organizer with the login ID for the relevant presentation submission site, along with the title, affiliation, and other required information.
 
 Please inform the organizer of your ID on the application site.
 <!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも ⇒ チェックして文言を修正済み--->
