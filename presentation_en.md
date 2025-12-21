@@ -14,7 +14,7 @@ We provide information regarding the presentations here.
 - **All presentations must use the PCs provided at the venue**. Presentations using personal laptops are not permitted.
     - The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
     - Videos can be played if they are in MP4 format. Other formats are not guaranteed.
-- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room located in the venue.**
+- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room ([East wing of the Academic Center Bldg at Kyoto Univ., 共東12](/venue_en#Venue-Map)).**
     - Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
     - Oral presenters must submit their presentation files **during the designated submission times for each presentation day**.
         - Presentations on 11th Mar.: 12:00–14:00 on 11th
@@ -70,8 +70,8 @@ s** must fit within the display boards, which are sized to accommodate an A0 por
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
 - We encourage presenters to be considerate of attendees who may not understand Japanese.
-    - Suggestions include providing both Japanese and English summaries or preparing an English version of the poster.
-    - If you prepare an English version:
+    - Suggestions include providing both Japanese and English summaries or preparing both English and Japanese version of the poster.
+    - If you prepare both Japanese and English version:
         - For the online presentation, you may upload two pages in a single PDF (e.g., A0 Japanese + A0 English).
         - The file size limit remains 5 MB for the entire PDF.
     - Presenters who selected English as their presentation language must prepare their poster in English.

@@ -45,7 +45,7 @@ Break Areas
 
 [**[Venue Map]**](/venue_en)
 
-- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Room 101), [Nursery rooms](/childcare_en#Nursing-Rooms) (existing Mother’s room), [childcare service](/childcare_en#Childcare-Service) (reservation required) are available. Diaper-changing stations are installed in both the men's and women's restrooms.
+- For participants with children, [Family Lounge](/childcare_en#Family-Lounge) (Child-friendly room, Room 101), [Nursery rooms](/childcare_en#Nursing-Rooms) (existing Mother’s room; Men are not allowed to enter), [childcare service](/childcare_en#Childcare-Service) (reservation required) are available. Diaper-changing stations are installed in both the men's and women's restrooms.
 - The 2nd floor of the Event Hall and the Annex Hall may be used as rest areas.
 - There is an on-site restaurant, **[The Grill](https://www.icckyoto.or.jp/catering_services/food_and_beverages/)** (open 10:00–17:00; lunch 11:00–15:00; last orders 16:30). However, since there are few restaurants around the venue, **we recommend purchasing lunch in advance at a convenience store, or using the food trucks**.
 - Food trucks will be set up in front of the main entrance from 11:00–19:00 on the 14th and from 9:00–16:00 on the 15th.

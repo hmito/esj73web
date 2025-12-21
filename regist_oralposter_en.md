@@ -89,7 +89,7 @@ You can apply for various types of presentations at the following page.
 </tr>
 <tr>
 <td>Animal-plant interactions</td>
-<td>Microbial ecology</td>
+<td>Fungi and microbes</td>
 <td></td>
 <td></td>
 </tr>

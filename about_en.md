@@ -4,6 +4,7 @@ menu: About > Overview
 multi_language: true
 remarks:
   このページは、「Meeting Information」のメニュー自体をクリック時にも開くように設定。
+  大会組織にある3つのテーブルは、WordPress上で「表のセル幅を固定」ヘッダーセクション」を手動で外す。
 ---
 
 # About the Meeting
