@@ -3,6 +3,8 @@ url: https://esj-meeting.net/presentation_en/
 menu: About > Guidelines for Presentations
 toc: false
 multi_language: true
+remarks:
+    スピーカーレディルームへのアクセス画像あり。クリック時画像に繋がるようにリンク設定。画像の表示サイズは中、中央配置に設定。
 ---
 
 # Guidelines for Presentations
@@ -14,7 +16,7 @@ We provide information regarding the presentations here.
 - **All presentations must use the PCs provided at the venue**. Presentations using personal laptops are not permitted.
     - The operating system of the presentation PC runs **Windows 11**, and presentations can be made from **PowerPoint files or PDFs**.
     - Videos can be played if they are in MP4 format. Other formats are not guaranteed.
-- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room ([East wing of the Academic Center Bldg at Kyoto Univ., 共東12](/venue_en#Venue-Map)).**
+- **Presenters must register their PowerPoint or PDF files or other presentation data on the presentation PC in advance in the speaker ready room (East wing of the Academic Center Bldg at Kyoto Univ., 共東12).**
     - Please prepare a USB flash drive or CD-R containing the presentation file and come to the speaker ready room.
     - Oral presenters must submit their presentation files **during the designated submission times for each presentation day**.
         - Presentations on 11th Mar.: 12:00–14:00 on 11th
@@ -22,6 +24,9 @@ We provide information regarding the presentations here.
         - Presentations on 13th Mar.: 10:00–12:00 on 13th
     - Presenters in the research field “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" must submit their presentation files between 10:00 and 12:00 on **12th Mar**.
     - After submitting the presentation file, it may be replaced as long as it is within the submission period.
+
+![](/media/speaker_ready_room.png)
+
 - The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, three bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
 - The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
