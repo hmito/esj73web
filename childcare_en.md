@@ -24,7 +24,10 @@ Childcare service will be provided in the ESJ73 venue to those who have complete
 
 ### Registration
 
-- Please apply directly to Poppins Service Kyoto.
+- For childcare services, please apply directly by email to Poppins Service Kyoto.
+   - Application Contact: Ms. Sugimoto, Poppins Service Kyoto
+   - Email: poppinskyoto@gmail.com
+   - Application Period: February 2, 2026 to February 25, 2026
 - Soon after using the childcare room, an invoice will be emailed directly to the user from Poppins Service Kyoto. Please pay the usage fee to Poppins Service Kyoto.
 
 ## Facilities
