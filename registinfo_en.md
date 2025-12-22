@@ -23,10 +23,10 @@ Important deadlines are as follows.
 |[**Procedures for Presentations and Sessions**](#Application-for-Presentations-and-Sessions)|Deadline for Proposals||Deadline for Abstract Submission||
 |[**Non-members joining the ESJ for presentations**](#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan)|Deadline for new members to join the ESJ||Deadline for payment of membership fee||
 
-- Invited speakers at symposia, and undergraduate or below who is not organizer and speaker can participate without registration fee.
+- Invited speakers at symposia, and undergraduate or below who are not organizers and speakers can participate without registration fee.
     - Invited speakers at forum may participate in the forum without registration fee, but those who wish to participate in other sessions or meetings are required to pay the conference registration fee.
 - Due to system transition, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
-- Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
+- Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee at least **one week before the deadline**.
     - You can check the payment status of the membership fee from <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
 <img src="https://edit.esj-meeting.net/wp-content/uploads/2025/09/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
@@ -147,7 +147,7 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 **<a href="https://www.esj.ne.jp/esj/English/join.html" target="_blank">[Go to the ESJ membership application site]</a>**
 
-1. Please follow the above link to complete the new membership application. Selecting "2026" for "Date of Admission" enable you to present at ESJ73.　
+1. Please follow the above link to complete the new membership application. Selecting "2026" for "Date of Admission" enables you to present at ESJ73.　
 2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
 3. Please use your temporary membership number to register for the conference and presentation.
 
@@ -157,11 +157,11 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 The English Presentation Award was established with the aim of promoting the internationalization of society members, and it has provided many young researchers with opportunities to present in English as well as with encouragement. In line with this purpose, the award has achieved significant outcomes and has played an important role in supporting the international activities of our members. In recent years, the number of applicants has steadily increased, and many members have actively taken on presentations in English, leading us to conclude that the original objectives have been fully achieved. In light of these accomplishments, the award has fulfilled its role and will be concluded. However, English oral presentation sessions will continue to be held. At ESJ73, we plan to present a small gift to oral presenters in English, and we sincerely look forward to your continued active participation.
 
- please also refer to the message <a href="https://esj.ne.jp/esj/English/Message/0902_en.html" target="_blank">"How to internationalize our annual meetings"</a> from the President of the Ecological Society of Japan.
+ Please also refer to the message <a href="https://esj.ne.jp/esj/English/Message/0902_en.html" target="_blank">"How to internationalize our annual meetings"</a> from the President of the Ecological Society of Japan.
 
 ### If you have not paid the membership fee from 2024, you will not be able to complete any procedures
 
-If you have not paid the membership fee from 2024, you will not be able to apply to speak at the conference until we can confirm payment of your 2024 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee, at least, one week before the deadline.
+If you have not paid the membership fee from 2024, you will not be able to apply to speak at the conference until we can confirm payment of your 2024 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee at least one week before the deadline.
 
 To check the status of your membership fee payment, please visit <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
@@ -171,7 +171,7 @@ In the past, the ESJ conference has included a “Workshop Only Attendance” ca
 
 ### Participation Certificates/Receipts
 
-Participation certificates and receipts will be issued from the online conference platform RakuRaku-Conference, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2026, when RakuRaku-Conference will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.　The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
+Participation certificates and receipts will be issued from the online conference platform RakuRaku-Conference, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2026, when RakuRaku-Conference will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members. The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 

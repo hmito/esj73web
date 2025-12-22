@@ -7,7 +7,7 @@ multi_language: true
 
 # Mentoring & Meetup (Moai)
 
-We will be holding "Mentoring & Meetup (Moai)," an event for early-career researchers to consult with senior researchers who have pursued careers in ecology-related fields. Why not take this opportunity through Moai to network with senior researchers, transcending the boundaries of your affiliated institution and field of study?
+We will be holding “Mentoring & Meetup (Moai),” an event for early-career researchers to consult with more senior researchers in ecology about their careers and research. Why not take this opportunity through Moai to network with senior researchers, transcending the boundaries of your affiliated institution and field of study?
 
 ## About Moai
 

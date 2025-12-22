@@ -36,7 +36,7 @@ Maps of each venue can be downloaded in PDF format from the links below.
 
 ## Access to the Venues
 
-Transportation options to the venues include city buses, subways, Keihan Railway, and the hoop Bus. The main routes are outlined below.
+Transportation options to the venues include city buses, subways, Keihan Railway, and the Hoop Bus. The main routes are outlined below.
 
 ![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/12/to_venue_map_en.png)
 

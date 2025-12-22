@@ -14,8 +14,8 @@ Regular presentations include oral and poster sessions.
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
-- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award will be discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
-- Participants could utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the online conference platform. Please consider to utilize this service.
+- The original purpose of establishing the award was to promote internationalization of society members, and since this has been achieved, [the English Presentation Award will be discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
+- Participants can utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the online conference platform. Please consider to utilize this service.
 
 **Poster session**
 
@@ -130,13 +130,13 @@ Poster award will be judged based on online posters.
 - For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter via text chat and evaluate based on their responses.
 - The language used does not directly affect the evaluation, **but in the event of a tie, posters that can be understood in English will be given higher priority**. This applies in the following cases.
     - English is included in the title, introduction, and conclusion.
-    - Understanding the outline of research by reading English alone.
+    - The research outline is easily understood by reading the English alone.
     - An English version of the poster is available on a separate page.
 
 ### Precautions
 
 - The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline (scheduled for 7th Mar. 2026, 23:59 (JST)).
-- The poster format should be **one A0-size sheet, portrait orientation only**.　This is based on the idea that “poster presentation is a way to summarize research content in a limited space.”
+- The poster format should be **one A0-size sheet, portrait orientation only**. This is based on the idea that “poster presentation is a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
 

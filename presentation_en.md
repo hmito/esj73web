@@ -40,14 +40,14 @@ We provide information regarding the presentations here.
 
 At this conference, all oral presenters can utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the online conference platform.
 
-- It covers all oral presentations.
+- This applies to all oral presentations.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
 - The use of Self On-Demand Streaming is **optional**. It is not mandatory for presentations.
     - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use Self On-Demand Streaming**.
 - You may only upload one video containing content equivalent to the presentation given on the day.
     - Format is MP4 only, with a maximum size of 500MB.
     - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
-- **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
+- **Recording presentations at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
 - Uploading and streaming will be conducted on the online conference platform “RakuRaku-Conference”.
     - Uploads can be made at any time after 30th Jan. 2026 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
     - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
@@ -70,8 +70,7 @@ The onsite poster session is available only to those who selected the onsite opt
     - Do not embed audio or video files within the PDF.
     - The maximum file size is 5 MB.
     - To ensure smooth display on the platform, a file size of 1 MB or less is recommended.
-- The posters for the **onsite session
-s** must fit within the display boards, which are sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
+- The posters for the **onsite sessions** must fit within the display boards, which are sized to accommodate an A0 portrait poster (approximately 210 cm (H) × 90 cm (W)).
     - Presenters may use the allotted board space freely.
     - You may use a format different from your online poster (e.g., multiple A4 sheets).
 - We encourage presenters to be considerate of attendees who may not understand Japanese.

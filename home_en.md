@@ -18,7 +18,7 @@ multi_language: true
 
 - **Abstract submission deadline: Tue. 17th Feb., 23:59 JST.**
 - **Handling of presentation files differs depending on the presentation type.**
-    - For **poster** presentations, all presenters are required to **[upload their online posters](/presentation_en#Poster-Presentation) by 7th Mar.**.
+    - For **poster** presentations, all presenters are required to **[upload their online posters](/presentation_en#Poster-Presentation) by 7th Mar**.
     - For **oral** presentations, no pre-conference upload is necessary; however, presenters must [register their presentation files](/presentation_en#Oral-Presentations) in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
     - For presentations in symposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#Symposia-Workshops-Forums)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
 

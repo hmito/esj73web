@@ -57,7 +57,7 @@ If it is difficult to present on-site, **remote presentations using Zoom will be
 
 All sessions at this conference—including symposia, workshops, and forums—will be recorded and made available later on the RakuRaku-Conference at a later date.
 
-In order to prevent problems with the recordings, all recording works will be handled by a contractor. Organizers cannot perform the recording.
+In order to prevent problems with the recordings, all recording jobs will be handled by a contractor. Organizers cannot perform the recording.
 
 ## Organization of Symposium and Workshop
 
