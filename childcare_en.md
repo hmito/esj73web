@@ -53,3 +53,11 @@ A family lounge will be set up for participants with their infant(s) and school 
 
 - Kyoto University： has a multipurpose restroom available for both men and women, equipped with diaper-changing facilities.
 - At the Kyoto International Conference Center, diaper-changing stations are installed in both the men's and women's restrooms.
+
+### 育児支援関連の会場地図
+
+![](/media/childcare_map1.png)
+
+![](/media/childcare_map2.png)
+
+[**Download childcare_map.pdf**](/media/childcare_map.pdf)
