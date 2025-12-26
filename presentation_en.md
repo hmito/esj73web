@@ -31,6 +31,7 @@ We provide information regarding the presentations here.
 - The venue’s screen and projector support a **4:3 aspect ratio**. If the presentation is created in **16:9 widescreen**, text may become small, or some content may not be displayed.
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 - If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
+- Please also refer to the [Guidelines on the Use of Generative AI](#Guidelines-on-the-Use-of-Generative-AI).
 
 ### Gift for Presenters in English Oral Sessions
 
@@ -96,6 +97,7 @@ The onsite poster session is available only to those who selected the onsite opt
             - MP4 format
             - Maximum file size 500 MB
         - These videos will be displayed separately from the poster on the platform.
+- Please also refer to the [Guidelines on the Use of Generative AI](#Guidelines-on-the-Use-of-Generative-AI).
 
 ### Online Poster Presentation
 
@@ -142,3 +144,15 @@ The onsite poster session is available only to those who selected the onsite opt
     - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.
     - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording.
     - For Q&A and discussions, only content spoken through the microphone can be recorded.
+- Please also refer to the [Guidelines on the Use of Generative AI](#Guidelines-on-the-Use-of-Generative-AI).
+
+## Guidelines on the Use of Generative AI
+
+- If generative AI tools (e.g., large language models such as ChatGPT) are used in the preparation of posters, presentations or in data analysis, **presenters must clearly state the scope of their use** (e.g., illustration generation, assistance with data processing).
+    - Minor uses that do not substantially affect the content of the poster — such as stylistic refinement, proofreading, or checking for typographical errors — do not require disclosure.If generative AI is used only for such minor purposes, disclosure may be omitted.
+- The authors bear full responsibility for the final content of the presentation, including any parts generated or assisted by AI.
+    - Generative AI may not be listed as an author.
+
+Example of the statement:
+
+    Generative AI provided by Company A (model name) was used for illustration generation and assistance with data analysis in the preparation of this poster.
