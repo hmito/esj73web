@@ -32,13 +32,13 @@ Maps of each venue can be downloaded in PDF format from the links below.
 | **Cloak room** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
 | **Family room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
 | **Break room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
-| **Corporate Exhibition** | - | - | - | 10:30-<br>19:45 | 9:00-<br>17:00 |
+| **Corporate Exhibition** | - | - | - | 11:00-<br>19:30 | 9:00-<br>17:00 |
 
 ## Access to the Venues
 
-Transportation options to the venues include city buses, subways, Keihan Railway, and the hoop Bus. The main routes are outlined below.
+Transportation options to the venues include city buses, subways, Keihan Railway, and the Hoop Bus. The main routes are outlined below.
 
-![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/09/to_venue_map_en.png)
+![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/12/to_venue_map_en.png)
 
 ### 11th–13th: Access to Kyoto University, Yoshida South Campus
 

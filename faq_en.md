@@ -25,7 +25,7 @@ For symposia, non-members can participate for free as invited speakers using the
 
 Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events.
 
-For workshops, non-members cannot give presentations with abstract. Please join the Ecological Society of Japan and apply as a regular member.
+For workshops, non-members cannot give presentations with an abstract. Please join the Ecological Society of Japan and apply as a regular member.
 
 Note: Non-members may give contributions that do not require the submission of a presentation abstract, such as introductory remarks, commentary, panel discussions, or lightning talks. However, even in these cases, the conference registration fee must be paid.
 
@@ -67,7 +67,7 @@ If you are an ESJ member, please contact our membership administration officer u
 
 ### If I am attending only as an audience and not giving a presentation, by when should I apply?
 
-You can apply to attend as an audience until the day of the conference.
+You can apply to attend as an audience member until the day of the conference.
 
 ### I'd like to change the information I submitted about my oral/poster presentation
 
@@ -81,7 +81,7 @@ However, **online presentation is mandatory** for all participants. Please ensur
 
 ### I want to cancel my presentation. How should I do this?
 
-You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
+You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that is subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
 
 ### I want to cancel my attendance. How should I do this?
 
@@ -125,11 +125,11 @@ The content and time of video should be equivalent to presentation at on-site. S
 
 ### Can my oral presentation be recorded on-site and streamed in Self On-Demand Streaming?
 
-No. This is because the PCs used for oral presentations at the venue cannot record presentations or extract data afterwards. In addition, bringing your own equipment (video cameras, tripods, etc.) to the venue for recording is not permitted, as it interfere with the smooth transition between presentations.
+No. This is because the PCs used for oral presentations at the venue cannot record presentations or extract data afterwards. In addition, bringing your own equipment (video cameras, tripods, etc.) to the venue for recording is not permitted, as it interferes with the smooth transition between presentations.
 
 ### I canceled my oral presentation, but recorded it in advance. Is it acceptable to stream the recorded presentation by Self On-Demand Streaming?
 
-No. This ie because cancelled presentations will be deleted from the online conference platform.
+No. This is because cancelled presentations will be deleted from the online conference platform.
 
 ### My presentation is scheduled for a symposium (or workshop). Can I record my presentation in advance and stream it by Self On-Demand Streaming?
 

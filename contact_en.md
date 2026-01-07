@@ -12,7 +12,7 @@ remarks:
 
 Before contacting us, please also review our [**Frequently Asked Questions**](/faq_en) in advance. We appreciate your cooperation in reducing the burden on the conference planning/organizing committee.
 
-- Requests for **revised presentation dates/times** cannot be accommodated.
+- Requests for **revised presentation sessions/dates/times** cannot be accommodated.
 - Requests for **changes to presentation information** (titles, author names, affiliations, etc.) will not be accepted under any circumstances. Corrections via errata are also not published.
 - For matters related to **certificates of participation, receipts, or invoice payments**, please refer to [this page](/registinfo_en/#Participation-CertificatesReceipts).
 - If you require reasonable accommodation due to health conditions or other circumstances, please consult from [this page](/reasonable_accom_en).
