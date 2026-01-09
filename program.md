@@ -14,7 +14,7 @@ remarks:
 ## 大会日程
 
 - <span style="color: red">**各セッションの開始・終了時刻や配置などが変更される場合があります。**</span>航空券や宿泊場所の予約等のための参考情報としてお使いください。
-- プログラムの詳細は生態学会の<a href="https://www.esj.ne.jp/meeting/abst/73/prize_winners.html" target = "_blank">大会講演要旨閲覧ページ</a>から閲覧可能です。各発表の要旨は現在準備中です。
+- プログラムの詳細は生態学会の<a href="https://www.esj.ne.jp/meeting/abst/index.html" target = "_blank">大会講演要旨閲覧ページ</a>から閲覧可能です。各発表の要旨は現在準備中です。
 
 [大会日程（12/15版）PDF](/media/スケジュール概要_ESJ73_20251215.pdf)
 
