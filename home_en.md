@@ -14,7 +14,7 @@ multi_language: true
     - If you have not registered, please check [Registration Information](/registinfo_en#Registration-for-Participation) before applying.
 - **[Presentation Guidelines](/presentation_en) includes important information for preparing your presentation.**
 - **[Attendance Information](/attendance_en) includes notes for participants and venue details.**
-- **Registration of presentation materials is now available on the <a href="https://esj73.raku-con.com" target="_blank">Conference Platform</a>.**
+- **Various presentation materials including poster file can be uploaded to <a href="https://esj73.raku-con.com" target="_blank">the conference platform</a> from 30th Jan. JST.**
 
 ### Upcoming Schedule
 
