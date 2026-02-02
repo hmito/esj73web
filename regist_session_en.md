@@ -92,8 +92,8 @@ You can apply for the sessions at the following pages.
     - Title (no more than 150 characters)
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for symposium invited speakers)
-- Access the application site and first submit your session proposal by entering the session title and session abstract (up to 800 characters in Japanese or 400 words in English).
-    - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on-demand, and whether or not you would like to stream each of the presentation on-demand.
+- Access the application site and first submit your session proposal by entering the session title and session abstract (up to 800 characters in Japanese or 400 words in English). Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on-demand.
+    - Even if you select on-demand streaming for the entire session, each presenter can individually choose whether or not to allow on-demand streaming when registering their presentation abstract (presentations marked as not available will be excluded from the stream).
 - After submitting your session proposal, the presentation registration menu will appear. Please register presentation information such as titles or speakers for all presentations requiring abstract submission.
     - Contributions without presentation abstracts, such as purpose statement, comments, or opinion statements, cannot be registered via the presentation registration menu. Please include information about such contributions within the session abstract.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
@@ -110,7 +110,8 @@ You can apply for the sessions at the following pages.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
-- Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2026 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
+- Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2026 23:59 (JST). You will also be asked to indicate whether or not your presentation is available for on-demand streaming.
+    - Please note that on-demand streaming will only be provided if the session organizer has also registered to allow on-demand streaming for the entire session.
 - Please complete the [conference registration procedures](/registinfo_en#Registration-for-Participation) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the online conference platform.
 - Please also see [Other Notes](/registinfo_en#Other-Notes).
 
