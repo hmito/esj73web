@@ -48,9 +48,8 @@ You can register for the conference participation at the below link.
     - Due to system maintenance, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
 - Please complete the registration and payment procedures as far as possible before the day of the conference.
     - You will not be able to view or upload posters without paying the registration fee.
-- Non-members are welcome to attend the conference as audience if they pay the registration fee.
-    - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the online conference platform after 6th Jan. 2026.
-    - If none of the above apply, please pay the registration fee.
+- Non-members are welcome to attend the conference as audience if they pay the registration fee. Please complete your conference participation registration on the online conference platform after 6th Jan. 2026.
+    - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience.
 - Please also read [Other Notes](#Other-Notes) when registering.
 
 ## Application for Presentations and Sessions
