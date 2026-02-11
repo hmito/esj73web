@@ -8,7 +8,7 @@ multi_language: true
 
 ## Important Notices
 
-- **Abstract submission deadline: Tue. 17th Feb., 23:59 JST. Please register via the <a href = "https://iap-jp.org/esj/conf/login_en.php" target = "_blank">\[Registration Site\]</a>.**
+- **Abstract submission deadline: Tue. 17th Feb., 23:59 JST. <span style="color:red;">Abstract registration is not handled through the Raku-Raku Conference but through Registration Site.</span> Please register via the <a href = "https://iap-jp.org/esj/conf/login_en.php" target = "_blank">\[Registration Site\]</a>. Please note that we will be unable to respond to any inquiries about abstracts after the deadline.**
 - **Early-bird registration is available until 17th Feb., 13:00 JST.**
     - If you have already registered for attendance, you can make payment via the <a href="https://esj73.raku-con.com" target="_blank">Conference Platform (Raku-Raku Conference)</a>.
     - If you have not registered, please check [Registration Information](/registinfo_en#Registration-for-Participation) before applying.
