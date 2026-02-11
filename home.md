@@ -8,7 +8,7 @@ multi_language: true
 
 ## 重要なお知らせ
 
-- **講演要旨の登録は、2月17日（火）23時59分 JST までです。<a href="https://iap-jp.org/esj/conf/login.php" target = "_blank">各種申込みサイト</a>からご登録下さい。**
+- **講演要旨の登録は、2月17日（火）23時59分 JST までです。<span style="color:red;">要旨登録はらくらくカンファレンスではなく、各種申込みサイトから行います。</span><a href="https://iap-jp.org/esj/conf/login.php" target = "_blank">各種申込みサイト</a>より期限までにご登録下さい。なお、締切後はお問い合わせいただいても対応致しかねますのでご注意ください。**
 - **大会参加の早期割引は、2026年2月17日 13時00分 JST までです。**
     - 登録済みの方は、 <a href="https://esj73.raku-con.com" target="_blank">大会プラットフォーム（らくらくカンファレンス）</a>からお支払いいただけます。
     - 未登録の方は[大会参加申込み](/registinfo#大会参加申込み)のページをご確認の上、お申し込みください。
