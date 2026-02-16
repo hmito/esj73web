@@ -20,14 +20,13 @@ Except for invited speakers in symposia or forums, non-members cannot register a
 However, non-members may be co-authors of presentations given by members.
 
 ### I want to invite non-members to my session. What should I do?
+For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please check [**Symposium Invited Speaker Program**](/regist_session_en#Symposium-Invited-Speaker-Program). Symposium invited speakers may also participate in other presentations and meetings, as well as view online content from the conference platform (RakuRaku-Conference).
 
-For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please check [**Symposium Invited Speaker Program**](/regist_session_en#Symposium-Invited-Speaker-Program).
-
-Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events.
+Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events, or using the conference platform.
 
 For workshops, non-members cannot give presentations with an abstract. Please join the Ecological Society of Japan and apply as a regular member.
 
-Note: Non-members may give contributions that do not require the submission of a presentation abstract, such as introductory remarks, commentary, panel discussions, or lightning talks. However, even in these cases, the conference registration fee must be paid.
+Note: Non-members may give contributions that do not require the submission of a presentation abstract, such as introductory remarks, commentary, panel discussions, or lightning talks in any session type. However, even in these cases, the conference registration fee must be paid.
 
 ### I want to attend only a workshop. What should I do?
 
