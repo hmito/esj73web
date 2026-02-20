@@ -44,6 +44,12 @@ A family lounge will be set up for participants with their infant(s) and school 
     - 14th: 8:30-18:00
     - 15th: 8:30-15:00
 
+The following equipment is available in the family lounge.
+
+- Picture books
+- Microwave (500W/700W)
+- Electric kettle
+
 ### Nursing Rooms
 
 - University's Yoshida-South Campus, one room in the same row as the family lounge area will be designated as a nursing room..
