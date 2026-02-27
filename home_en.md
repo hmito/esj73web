@@ -6,12 +6,14 @@ multi_language: true
 
 # Home
 
-## Information for Participants
+
+<a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online conference platform "Rakuraku-Conference"]**</a>
 
 We are distributing a "Conference Guide" that summarizes the program, venue maps, and important notes.  
  &emsp;[**[Download Conference Guide (PDF)]**](/media/ESJ73_guide_en_v1.0.pdf)
 
 Please also check the following pages:
+
 - **[Attendance Information](/attendance_en): Details about registration, rest areas, WiFi, cloakroom, etc.**
 - **[Presentation Guidelines](/presentation_en): Important information presenters should know.**
 - **[Venue](/venue_en): Access to the venue and Venue maps**
