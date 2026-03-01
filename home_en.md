@@ -9,8 +9,8 @@ multi_language: true
 
 <a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online conference platform "Rakuraku-Conference"]**</a>
 
-We are distributing a "Conference Guide" that summarizes the program, venue maps, and important notes.  
- &emsp;[**[Download Conference Guide (PDF)]**](/media/ESJ73_guide_en_v1.0.pdf)
+We are distributing a "Conference Program" that summarizes the program, venue maps, and important notes.  
+ &emsp;[**[Download Conference Program (PDF)]**](https://esj-meeting.net/wp-content/uploads/2026/02/ESJ73_guide_en_v1.2.pdf)
 
 Please also check the following pages:
 

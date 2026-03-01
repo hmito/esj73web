@@ -8,8 +8,8 @@ multi_language: true
 
 **<a href="https://esj73.raku-con.com" target="_blank">【大会プラットフォーム（らくらくカンファレンス）】はこちら</a>**
 
-プログラム、会場地図、注意点などをまとめた「大会案内」を配布中です。  
- &emsp;[**【大会案内（PDF）のダウンロード】**](/media/ESJ73_guide_jp_v1.0.pdf)
+プログラム、会場地図、注意点などをまとめた「大会プログラム」を配布中です。  
+ &emsp;[**【プログラム（概要版）PDFのダウンロード】**]([/media/ESJ73_guide_jp_v1.0.pdf](https://esj-meeting.net/wp-content/uploads/2026/02/ESJ73_guide_jp_v1.2.pdf))
 
 以下のページもご確認ください。
 
