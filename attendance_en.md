@@ -11,8 +11,11 @@ This page summarizes information and points to note when participating.
 ## Registration
 
 - All participants need to wear their name badges at all times while at the venue.
-- Please **download and print your name badge from the conference platform Rakuraku-Conference** in advance. Participants who have brought their name badges do not need to check in at the registration desk.
-    - If you forget your name badge, please present the digital version of your name badge or participation certificate (available for download from Rakuraku-Conference) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a badge holder, and wear it at all times.
+- Please **download and print your name badge from the conference platform Rakuraku-Conference** in advance. You can download from "Issue Certificates" page on Rakuraku-Conference. Participants who have brought their name badges do not need to check in at the registration desk.
+    - If you forget your name badge, please present the digital version of your name badge or participation certificate (available for download from "Issue Certificates" page on Rakuraku-Conference) on your mobile device or PC screen at the registration desk. You will be provided with a designated paper insert. Please write your name on it, place it inside a badge holder, and wear it at all times.
+
+![](/media/name_badge_en.png)
+
 - **Please bring your own name badge holder**, either one you normally use or one you own. 
     - While reusable name badge holders will be provided at the event, please be sure to return them to the reception desk or collection box upon your departure.
 - On-site registration is available. After completing the registration process from Rakuraku-Conference, please present your name badge or participation certificate on your device at the registration desk. You will receive a designated paper insert, on which you must write your name, place it inside a badge holder, and wear it during the conference.

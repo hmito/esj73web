@@ -23,7 +23,7 @@ Please also check the following pages:
 
 ## Important Notices
 
-- **Please <span style="color:red;">print our your name badge card in advance</span>. Please also bring a name badge holder if possible.**
+- **Please <span style="color:red;">print our your name badge card in advance</span> ([detail](/attendance_en)). Please also bring a name badge holder if possible.**
     - The name badge card can be downloaded from "Issue certificates" page on the conference platform "Rakuraku-Conference".
     - If you forget your name badge card, verification at the reception desk will be required. Since congestion is expected, we appreciate your cooperation in printing in advance.
 - **You can now register your presentation materials on the <a href="https://esj73.raku-con.com" target="_blank">conference platform　(Rakuraku-Conference)</a>.**
