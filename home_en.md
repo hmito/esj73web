@@ -2,6 +2,7 @@
 url: https://esj-meeting.net/home_en/
 menu: Home
 multi_language: true
+remarks: 名札カードの部分、span指定部分を赤字にしてはどうでしょう。
 ---
 
 # Home
@@ -22,6 +23,9 @@ Please also check the following pages:
 
 ## Important Notices
 
+- **Please <span style="color:red;">print our your name badge card in advance</span>. Please also bring a name badge holder if possible.**
+    - The name badge card can be downloaded from "Issue certificates" page on the conference platform "Rakuraku-Conference".
+    - If you forget your name badge card, verification at the reception desk will be required. Since congestion is expected, we appreciate your cooperation in printing in advance.
 - **You can now register your presentation materials on the <a href="https://esj73.raku-con.com" target="_blank">conference platform　(Rakuraku-Conference)</a>.**
 - **To attend the conference, please register through the <a href="https://esj73.raku-con.com" target="_blank">conference platform (Rakuraku-Conference)</a>.**
     - Undergraduate students (including students at colleges of technology) may attend free of charge.
