@@ -1,8 +1,8 @@
 ---
-url: https://esj- meeting.net/sponsors/
+url: https://esj-meeting.net/sponsors/
 menu: 大会案内 > 協賛一覧
 toc: false
-multi_language: true
+multi_language: false
 ---
 
 # 協賛一覧
